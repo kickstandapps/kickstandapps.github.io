@@ -1,0 +1,57 @@
+{% include head.html %}
+
+<body id="app-index" itemscope itemtype="http://schema.org/WebPage">
+
+  {% include navigation.html %}
+  {% unless page.image.feature %}<hr>{% endunless %}
+  <div id="main" role="main" itemprop="mainContentOfPage">
+    <article class="entry" itemscope>
+      {% if page.image.feature %}<header class="entry-image" style="background-image:url({{ site.url }}/images/{{ page.image.feature }});background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ page.title }}">
+      <div class="entry-header">
+        {% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
+        <h1 class="entry-title" itemprop="name"><span class="page-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}{% if page.tagline %}</span><br/><span>{{ page.tagline }}</span>{% endif %}</h1>
+      </div>
+      </header><!-- /.entry-image -->{% endif %}
+
+      <div class="entry-wrapper">
+        {% unless page.image.feature %}
+        <span class="entry-title small">
+          <h1><span class="page-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}{% if page.tagline %}</span><br/><span>{{ page.tagline }}</span>{% endif %}</h1>
+          <hr>
+        </span>{% endunless %}
+        <div class="entry-content" itemprop="articleBody">
+          {{ content }}
+        </div><!-- /.entry-content -->
+      </div><!-- /.entry-wrapper -->
+      <div class="app-content">
+        {% for post in site.categories.app %}
+        {% if post.image.feature %}<a href="{{ post.url }}"><header class="entry-image" style="background-image:url({{ site.url }}/images/{{ post.image.feature }});background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ post.title }}">{% else %}<header class="entry-image" style="background-image:url({{ site.url }}/images/default-page-image.jpg);background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ post.title }}"><!-- /.entry-image -->{% endif %}
+          <div class="entry-header">
+            {% if post.logo.light %}<div class="app-title"><img alt="{{ post.title }}" src="{{ site.url }}/images/{{ post.logo.light }}"/>
+            </div>
+            {% else %}<div class="app-title" itemprop="name">
+            <h1><span class="page-title">{% if post.headline %}{{ post.headline }}{% else %}{{ post.title }}{% endif %}{% if post.tagline %}</span><br/><span>{{ post.tagline }}</span>{% endif %}</h1>
+            </div>{% endif %}
+           </div>
+        </header></a>
+        <span class="app-title small">
+          {% if post.logo.dark %}<img alt="{{ post.title }}" src="{{ site.url }}/images/{{ post.logo.dark }}"/>
+          {% else %}<h1><span class="page-title">{% if post.headline %}{{ post.headline }}{% else %}{{ post.title }}{% endif %}{% if post.tagline %}</span><br/><span>{{ post.tagline }}</span>{% endif %}</h1>{% endif %}
+        </span>
+        <p class="app-description">{{ post.description }}</p>
+        {% endfor %}
+      </div><!-- /.app-content -->
+    </article>
+  </div><!-- /#main -->
+
+  <hr>
+  <div class="footer-wrapper">
+    <footer role="contentinfo">
+      {% include footer.html %}
+    </footer>
+  </div><!-- /.footer-wrapper -->
+
+  {% include scripts.html %}          
+
+</body>
+</html>

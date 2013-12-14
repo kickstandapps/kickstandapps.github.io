@@ -1,0 +1,79 @@
+title:            Kickstand Apps
+tagline:          Design Faux Pas
+description:      "A mobile development company with the simple goal of creating apps that people love."
+logo:             site-logo.png
+disqus_shortname: kickstandapps
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              http://localhost:4000
+
+# Owner/author information
+authors:
+  travis:
+    name:         Travis Zehren
+    avatar:       travis-zehren-photo.jpg
+    bio:          "Founder of Kickstand Apps, currently serving as programmer, web developer, graphic designer, marketer, accountant, and anything else that needs to be done."
+    email:        tzehren@kickstandapps.com
+    twitter:      "kickstandapps"
+    web:          "http://www.kickstandapps.com/about/"
+
+owner:
+  name:           Travis Zehren
+  avatar:         travis-zehren-photo.jpg
+  bio:            "Founder of Kickstand Apps, currently serving as programmer, web developer, graphic designer, marketer, accountant, and anything else that needs to be done."
+  email:          tzehren@kickstandapps.com
+  web:            "http://www.kickstandapps.com/about/"
+  twitter:        "kickstandapps"
+  github:         "kickstandapps"
+  facebook:       "kickstandapps"
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    
+
+google_analytics: UA-2011187-1
+google_verify: geapSKtvpBNDSfXVmF09E9CnaHGglbO61r4XgLZtEmo
+bing_verify:   D81F4C18A6CB3018F64D7C827D953DFD
+alexa_verify:  Y5DYjZ4VWlrQzBP5kcQJeOKLNas
+
+future:      true
+lsi:         false
+pygments:    true
+markdown:    kramdown
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:year/:month/:title/
+
+# Internal pages/posts to include in top navigation
+links:
+  - title: Apps
+    url: /apps/
+  - title: Blog
+    url: /blog/
+  - title: Mastering Paper
+    url: /mastering-paper/
+  - title: About
+    url: /about.html
+
+maruku:
+  use_tex:    false
+  use_divs:   false
+  png_engine: blahtex
+  png_dir:    images/latex
+  png_url:    /images/latex
+
+rdiscount:
+  extensions: [smart]
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: true
+  
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "mademistakes.sublime-project", "mademistakes.sublime-workspace", "codekit-config.json", "Gemfile", "Gemfile.lock", "README.md", "node_modules", "Gruntfile.js", "package.json"]

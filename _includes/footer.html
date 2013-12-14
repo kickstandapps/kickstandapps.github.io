@@ -1,0 +1,21 @@
+<span class="disclaimer">Copyright &copy; <SCRIPT>
+<!--
+var year=new Date();
+year=year.getYear();
+if (year<1900) year+=1900;
+document.write(year);
+//-->
+</SCRIPT> Kickstand Apps LLC, All Rights Reserved.</span>
+<div class="social-icons">
+	<span style="display:block;">Follow Us!</span>
+	<span>
+	{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.title}} on Twitter" target="_blank"><i class="icon-twitter icon-2x"></i></a>{% endif %}
+	{% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" title="{{ site.title}} on Facebook" target="_blank"><i class="icon-facebook icon-2x"></i></a>{% endif %}
+	{% if site.owner.google_plus %}<a href="{{ site.owner.google_plus }}" title="{{ site.title}} on Google+" target="_blank"><i class="icon-google-plus icon-2x"></i></a>{% endif %}
+	{% if site.owner.linkedin %}<a href="http://linkedin.com/in/{{ site.owner.linkedin }}" title="{{ site.title}} on LinkedIn" target="_blank"><i class="icon-linkedin icon-2x"></i></a>{% endif %}
+	{% if site.owner.instagram %}<a href="http://instagram.com/{{ site.owner.instagram }}" title="{{ site.title}} on Instagram" target="_blank"><i class="icon-instagram icon-2x"></i></a>{% endif %}
+	{% if site.owner.github %}<a href="http://github.com/{{ site.owner.github }}" title="{{ site.title}} on Github" target="_blank"><i class="icon-github icon-2x"></i></a>{% endif %}
+	{% if site.owner.tumblr %}<a href="http://{{ site.owner.tumblr }}.tumblr.com" title="{{ site.title}} on Tumblr" target="_blank"><i class="icon-tumblr icon-2x"></i></a>{% endif %}
+	<a href="http://feeds.feedburner.com/KickstandApps" title="Subscribe to RSS feed"><i class="icon-rss icon-2x"></i></a>
+	</span>
+</div><!-- /.social-icons -->

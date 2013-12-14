@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title type="text">Kickstand Apps</title>
+	<subtitle type="html">Design Faux Pas</subtitle>
+	<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+	<icon>http://localhost:4000/images/apple-touch-icon-114x114-precomposed.png</icon>
+	<link rel="alternate" type="text/html" href="http://localhost:4000" />
+	<updated>2013-12-12T22:46:12-06:00</updated>
+	<id>http://localhost:4000/</id>
+	<author>
+		<name>Travis Zehren</name>
+		<uri>http://localhost:4000/</uri>
+		<email>tzehren@kickstandapps.com</email>
+	</author>
+	<rights>Unless otherwise noted, all content is published under a Creative Commons Attribution-Noncommercial-NoDerivs 3.0 United States License.</rights>
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="http://localhost:4000/atom.xml" />
+	
+	<entry>
+		<title type="html"><![CDATA[One Week Later]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/09/one-week-later/" />
+		<id>http://localhost:4000/2013/09/one-week-later</id>
+		<published>2013-09-04T00:00:00-05:00</published>
+		<updated>2013-09-04T00:00:00-05:00</updated>
+		<author>
+			<name>Travis Zehren</name>
+			<uri>http://localhost:4000</uri>
+			<email>tzehren@kickstandapps.com</email>
+		</author>
+		<content type="html">&lt;img src=&quot;http://localhost:4000/images/paper-53-blend-first-look-feature.jpg&quot; alt=&quot;One Week Later page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Last Wednesday I released &lt;a href=&quot;http://localhost:4000/now-weather/&quot;&gt;NOW Weather&lt;/a&gt;. It has been an interesting seven days since then. This is the first time that I’ve really tried to get an audience to see what I’ve been working on. This post will just detail a few of the things I tried, and the results I’ve seen.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-tried&quot;&gt;What we tried&lt;/h2&gt;
+&lt;p&gt;Up until now, the only places I’ve posted links have been social networks. This hasn’t generated a lot of response. Makes sense though. As of writing this we have only one follower on Twitter, eight followers on Facebook, and just about nothing to speak of on LinkedIn and Google+.&lt;/p&gt;
+
+&lt;p&gt;So, it seemed like it was time to try something new. I decided about a month ago that I was going to try to do better at promoting the launch of NOW Weather than I did promoting &lt;a href=&quot;http://localhost:4000/tock/&quot;&gt;Tock&lt;/a&gt; when it launched last year. So I set up a &lt;a href=&quot;http://localhost:4000/now-weather/&quot;&gt;landing page&lt;/a&gt; with some promotional images, some details, and an email subscription. Then I wrote up a &lt;a href=&quot;http://localhost:4000&quot;&gt;blog post&lt;/a&gt;/2013/08/introducing-now-weather/)introducing the app. I posted the link to the standard social networks, but I also tried submitting the link to &lt;a href=&quot;https://news.ycombinator.com/&quot;&gt;Hacker News&lt;/a&gt;. If you’re not familiar with Hacker News, it’s just a community of people interested in new technology, design, and startups. Anyone can submit a link, and it gets voted up by readers. If you get enough votes, you make the front page of the site and have your link seen by thousands of people.&lt;/p&gt;
+
+&lt;p&gt;However, this first try didn’t get seen by thousands of people. Over the next few days, the site got about 88 page views. Not exactly setting the world on fire. Even worse, not a single person subscribed for updates. Oh well.&lt;/p&gt;
+
+&lt;p&gt;So we went ahead with getting the app ready for launch, submitting it to Apple, and having it approved. So I figured I’d give this all another shot on launch day. I wrote up another &lt;a href=&quot;http://localhost:4000&quot;&gt;blog post&lt;/a&gt;/2013/08/introducing-now-weather/). I posted it to those same old social networks. I also posted it to the &lt;a href=&quot;http://www.reddit.com/r/SideProject/&quot;&gt;Side Project subreddit&lt;/a&gt; hoping for some interest from an audience looking for these types of projects. Finally I posted again to Hacker News.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/LaunchDay.png&quot; /&gt;
+	&lt;figcaption&gt;Not necessarily setting the world on fire, but I was pretty pleased with the number of page views on launch day.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This time fared quite a bit better. The post got some early upvotes and made it on to the front page of Hacker News for an hour or two. This brought in many, many more people than ever before. By the end of the day, there were 2220 page views. It definitely won’t set any internet records, but for us it was impressive. More encouraging was the 193 clicks on the link taking people to NOW Weather in the App Store. This spike in viewers obviously didn’t last, though. The following day had about 100 page views and the days that followed were between 10 and 20 from links still floating around.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-it-meant&quot;&gt;What it meant&lt;/h2&gt;
+&lt;p&gt;So did all of this traffic lead to a huge influx of cash from all the apps we sold?&lt;/p&gt;
+
+&lt;p&gt;In a word, no.&lt;/p&gt;
+
+&lt;p&gt;But for us, we still did pretty well. At least in comparison to app sales for &lt;a href=&quot;http://localhost:4000/tock/&quot;&gt;Tock&lt;/a&gt;. We managed 18 apps sold on launch day. Followed by days of 9 and 4 before settling at about one per day. We’ve also managed a few sales of Tock as well. So not a terrible first week, at least by our expectations.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-learned&quot;&gt;What we learned&lt;/h2&gt;
+&lt;p&gt;But, just because I’m not a millionaire over night doesn’t mean I didn’t learn something from the experience. I got a large number of people interested enough to get to our site. Some of them even poked around for a while. However, we just weren’t able to turn those visitors into customers.&lt;/p&gt;
+
+&lt;p&gt;But I think I have an idea that could help. Is it possible that most people don’t want to pay for a weather app, no matter how nicely done, when there are many free options available? Absolutely, and I’m sure that many people would have ultimately chosen not to buy no matter what I did differently. However, I think the biggest problem was that I surprised them. Nowhere in either the product page or blog post did I mention price. My guess is that this led many people to believe the app would be free. When they clicked the link and saw a $1.99 price tag, they were surprised and didn’t buy. If I had clearly communicated the cost initially, everyone would have had a chance to determine whether they would spend the money before clicking the link. It would have definitely meant fewer clicks, but a much higher percentage would have gone through with the purchase. From now on, all my promotional pages will have a clearly indicated price to avoid this confusion.&lt;/p&gt;
+
+&lt;p&gt;The other regret I have is that I had two thousand people looking at my site, and I don’t have a single piece of information to target them for future products or updates. I removed my subscription box when the app was ready to go. If even a small number of viewers would have subscribed, I would have that much of a head start on an audience for future projects and posts. So now I’ve got a subscription box in the side bar of the blog posts to hopefully avoid this again.&lt;/p&gt;
+
+&lt;h2 id=&quot;recap&quot;&gt;Recap&lt;/h2&gt;
+&lt;p&gt;So, all in all, I’m happy with the launch that we had last week. It didn’t surpass our wildest dreams, but it showed me that I’m on the right track towards getting an audience and successfully marketing our products. I can learn from the missteps and missed opportunities and do better next time, and that’s what I’m going to do.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in buying NOW Weather, it is &lt;a href=&quot;https://itunes.apple.com/us/app/now-weather/id623127009?ls=1&amp;amp;mt=8&quot;&gt;for sale&lt;/a&gt; in the App Store for $1.99&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/09/one-week-later/&quot;&gt;One Week Later&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on September 04, 2013.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title type="html"><![CDATA[NOW Weather, Just&nbsp;Released!]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/08/now-weather-just-released/" />
+		<id>http://localhost:4000/2013/08/now-weather-just-released</id>
+		<published>2013-08-28T00:00:00-05:00</published>
+		<updated>2013-08-28T00:00:00-05:00</updated>
+		<author>
+			<name>Travis Zehren</name>
+			<uri>http://localhost:4000</uri>
+			<email>tzehren@kickstandapps.com</email>
+		</author>
+		<content type="html">&lt;img src=&quot;http://localhost:4000/images/NowLaunch.jpg&quot; alt=&quot;NOW Weather, Just&nbsp;Released! page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Great news! &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt; has just been released and can be &lt;a href=&quot;https://itunes.apple.com/us/app/now-weather/id623127009?ls=1&amp;amp;mt=8&quot;&gt;downloaded in the App Store!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you don’t already know, NOW Weather is a beautiful app showing all the weather information you care about, at a glance.&lt;/p&gt;
+
+&lt;p&gt;If you want to learn more about NOW Weather, check out the &lt;a href=&quot;/now-weather/&quot;&gt;product page&lt;/a&gt; or our introductory &lt;a href=&quot;/2013/08/introducing-now-weather/&quot;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt; is exactly what you are looking for in a weather app. Give it a shot to replace your current weather app, and you won’t look back.&lt;/p&gt;
+
+&lt;div style=&quot;text-align: center&quot;&gt;
+	&lt;a href=&quot;https://itunes.apple.com/us/app/now-weather/id623127009?ls=1&amp;amp;mt=8&quot;&gt;
+		&lt;img class=&quot;alignnone size-full wp-image-7605&quot; alt=&quot;appstore&quot; src=&quot;http://www.kickstandapps.com/wp-content/uploads/2013/08/appstore.png&quot; width=&quot;202&quot; height=&quot;60&quot; style=&quot;margin-top: 15px;&quot; /&gt;
+	&lt;/a&gt;
+	&lt;h2&gt;Get NOW Weather in the App&amp;nbsp;Store! Just&amp;nbsp;$1.99!&lt;/h2&gt;
+&lt;/div&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/08/now-weather-just-released/&quot;&gt;NOW Weather, Just&nbsp;Released!&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on August 28, 2013.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title type="html"><![CDATA[NOW Weather - for iPhone and iPod Touch]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/now-weather/" />
+		<id>http://localhost:4000/now-weather</id>
+		<published>2013-08-27T00:00:00-05:00</published>
+		<updated>2013-08-27T00:00:00-05:00</updated>
+		<author>
+			<name>Travis Zehren</name>
+			<uri>http://localhost:4000</uri>
+			<email>tzehren@kickstandapps.com</email>
+		</author>
+		<content type="html">&lt;img src=&quot;http://localhost:4000/images/Now.jpg&quot; alt=&quot;NOW Weather - for iPhone and iPod Touch page image&quot;&gt;&lt;br/&gt;&lt;div class=&quot;two-third&quot; style=&quot;margin-bottom: 50px&quot;&gt;
+  &lt;h1&gt;Weather at a Glance&lt;/h1&gt;
+  &lt;p&gt;Colorful gradients indicate the upcoming temperature and condition. That makes it even easier to see what’s coming.&lt;/p&gt;
+  &lt;br /&gt;
+  &lt;h1&gt;Helpful Forecasts&lt;/h1&gt;
+  &lt;p&gt;The hourly forecast includes the information you actually care about like precipitation percentage and snowfall accumulation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;one-third last&quot;&gt;
+  &lt;figure&gt;
+    &lt;img src=&quot;http://localhost:4000/images/Now-Forecast.jpg&quot; alt=&quot;24-Hour Forecast&quot; /&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;one-third&quot;&gt;
+  &lt;figure&gt;
+    &lt;img src=&quot;http://placehold.it/645x1366&quot; alt=&quot;Options Menu&quot; /&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;div class=&quot;two-third last&quot; style=&quot;margin-bottom: 50px&quot;&gt;
+  &lt;h1&gt;Anywhere on Earth&lt;/h1&gt;
+  &lt;p&gt;Check the weather at your current location, or any city on the planet. Your location information is never stored anywhere.&lt;/p&gt;
+  &lt;br /&gt;
+  &lt;h1&gt;Easy Access Options&lt;/h1&gt;
+  &lt;p&gt;Just swipe down to change your location or units. You can also share NOW Weather with your social networks.&lt;/p&gt;
+&lt;/div&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/now-weather/&quot;&gt;NOW Weather - for iPhone and iPod Touch&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on August 27, 2013.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title type="html"><![CDATA[Relic Scout]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/relic-scout/" />
+		<id>http://localhost:4000/relic-scout</id>
+		<published>2013-08-25T00:00:00-05:00</published>
+		<updated>2013-08-25T00:00:00-05:00</updated>
+		<author>
+			<name>Travis Zehren</name>
+			<uri>http://localhost:4000</uri>
+			<email>tzehren@kickstandapps.com</email>
+		</author>
+		<content type="html">&lt;img src=&quot;http://localhost:4000/images/relic-scout-home-feature.gif&quot; alt=&quot;Relic Scout page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Eko Wave, a company started by &lt;a href=&quot;http://twitter.com/endonend&quot;&gt;two&lt;/a&gt; &lt;a href=&quot;http://twitter.com/bjpmba&quot;&gt;pals&lt;/a&gt; and myself, just took the wraps off our first app — &lt;a href=&quot;http://relicscout.com&quot;&gt;&lt;strong&gt;Relic Scout&lt;/strong&gt;&lt;/a&gt;. Last week we launched a teaser site and couldn’t be prouder of the work that we’ve done so far.&lt;/p&gt;
+
+&lt;p&gt;I had a lot of fun creating the 8bit pixel art and applying a parallax effect to it using the &lt;a href=&quot;https://github.com/cameronmcefee/plax&quot;&gt;jQuery plugin Plax&lt;/a&gt;. If you collect sports cards, magic cards, coins, or comics, you really should check it out.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/relic-scout-browser-750.jpg&quot; alt=&quot;Relic Scout homepage screenshot&quot; /&gt;
+	&lt;figcaption&gt;Relic Scout homepage&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p class=&quot;notice&quot;&gt;To learn more about becoming a beta tester, launch details and the latest news, &lt;a href=&quot;http://relicscout.com&quot;&gt;sign up for our newsletter&lt;/a&gt;. You can also follow Relic Scount on &lt;a href=&quot;http://twitter.com/relicscout&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;http://facebook.com/relicscout&quot;&gt;Facebook&lt;/a&gt;, and &lt;a href=&quot;https://plus.google.com/107525823728844423825&quot;&gt;Google+&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;PS: I hid some fun things in the site design, let me know if you find them. :-)&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/relic-scout/&quot;&gt;Relic Scout&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on August 25, 2013.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title type="html"><![CDATA[Introducing NOW&nbsp;Weather!]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/08/introducing-now-weather/" />
+		<id>http://localhost:4000/2013/08/introducing-now-weather</id>
+		<published>2013-08-08T00:00:00-05:00</published>
+		<updated>2013-08-08T00:00:00-05:00</updated>
+		<author>
+			<name>Travis Zehren</name>
+			<uri>http://localhost:4000</uri>
+			<email>tzehren@kickstandapps.com</email>
+		</author>
+		<content type="html">&lt;img src=&quot;http://localhost:4000/images/NowLaunch.jpg&quot; alt=&quot;Introducing NOW&nbsp;Weather! page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Today, I’m happy to introduce our newest app, &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt;, a beautiful app showing all the weather information you care about, at a glance.&lt;/p&gt;
+
+&lt;p&gt;I know, I know… there’s about a billion weather apps already available for iPhones. What makes this one so different?&lt;/p&gt;
+
+&lt;p&gt;Well let’s first ask the question, when do you look up the weather on your phone? Are you doing absolutely nothing else besides looking at the weather? I doubt it. We don’t use our phones that way. A weather app is usually used while getting ready in the morning, or making plans with your friends. You don’t want to have to hunt through a complex weather app to find the simple information you care about. That just makes the process longer and more irritating.&lt;/p&gt;
+
+&lt;p&gt;Alternatively, have you downloaded a weather app that looks absolutely beautiful, but is so minimal that you can’t even find everything you’re looking for? What’s the point of good aesthetics if the app is useless?&lt;/p&gt;
+
+&lt;p&gt;NOW Weather is the answer to these two alternatives. It makes the information extremely accessible and easy to find. You can just glance down and the colors will indicate the temperature for the next few hours along with whether it will be sunny, cloudy, rainy, or whatever.&lt;/p&gt;
+
+&lt;p&gt;But along with that, you’ll have whatever other information you want as well. Hourly forecasts show the chance of precipitation and projected snow accumulations. You can see the weather at any location on Earth. And soon you’ll be able to get more detail about the weather right now (wind, humidity, etc.) as well as the weather for the days ahead.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt; is exactly what you are looking for in a weather app. Give it a shot to replace your current weather app, and you won’t look back.&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/08/introducing-now-weather/&quot;&gt;Introducing NOW&nbsp;Weather!&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on August 08, 2013.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title type="html"><![CDATA[WeatherIcons]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/08/weathericons/" />
+		<id>http://localhost:4000/2013/08/weathericons</id>
+		<published>2013-08-05T00:00:00-05:00</published>
+		<updated>2013-08-05T00:00:00-05:00</updated>
+		<author>
+			<name>Travis Zehren</name>
+			<uri>http://localhost:4000</uri>
+			<email>tzehren@kickstandapps.com</email>
+		</author>
+		<content type="html">&lt;img src=&quot;http://localhost:4000/images/weatherIconHead.jpg&quot; alt=&quot;WeatherIcons page image&quot;&gt;&lt;br/&gt;&lt;h2 id=&quot;what-is-weathericons&quot;&gt;What is WeatherIcons?&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;WeatherIcons&lt;/em&gt; is a collection of, well, weather icons. I know, the name could use some work. If you think you have a better idea, we’d love to hear it in the comments below.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/WeatherIcons.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+&lt;p&gt;In coming up with our newest app, &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt;, we found the need for a high quality set of weather icons that fit the look we were going for. As we progressed through development, we realized the benefits of an icon font to allow us to dynamically size the icons. Adam Whitcroft’s &lt;a href=&quot;http://adamwhitcroft.com/climacons/&quot;&gt;&lt;em&gt;Climacon&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;http://adamwhitcroft.com/climacons/font/&quot;&gt;font&lt;/a&gt; did the job nicely during development.&lt;/p&gt;
+
+&lt;p&gt;However, after staring at them day after day, and seeing the &lt;em&gt;Climacons&lt;/em&gt; start to show up just about everywhere (because they really are a fantastic choice), we decided to go a different direction.&lt;/p&gt;
+
+&lt;p&gt;So here we present Kickstand App’s own &lt;em&gt;WeatherIcons&lt;/em&gt;. While inspired by the &lt;em&gt;Climacons&lt;/em&gt;, these icons were developed entirely from scratch to provide an alternative, both for us in &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt;, as well as for whoever would like to use them in their own project.&lt;/p&gt;
+
+&lt;h2 id=&quot;who-can-use-it&quot;&gt;Who can use it?&lt;/h2&gt;
+&lt;p&gt;In short, pretty much anyone, for pretty much any purpose.&lt;/p&gt;
+
+&lt;p&gt;Everything is released under the SIL OFL 1.1 License as listed in &lt;a href=&quot;https://github.com/kickstandapps/WeatherIcons/blob/master/License.txt&quot;&gt;License.txt&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Whether you modify the icons or use them as they are, an attribution would be appreciated, though not required.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-use-it&quot;&gt;How to use it&lt;/h2&gt;
+&lt;p&gt;The image files can be used just like any other image files. The included fonts have the icons mapped to the alphabet as seen below:&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/WeatherIcons-Letters.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;a target=&quot;_blank&quot; class=&quot;btn large &quot; href=&quot;https://github.com/kickstandapps/WeatherIcons&quot;&gt;Get WeatherIcons Here!&lt;/a&gt;&lt;/div&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/08/weathericons/&quot;&gt;WeatherIcons&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title type="html"><![CDATA[Mastering Paper by 53: Introduction and Tool Guide]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/07/paper-53-introduction/" />
+		<id>http://localhost:4000/2013/07/paper-53-introduction</id>
+		<published>2013-07-31T00:00:00-05:00</published>
+		<updated>2013-07-31T00:00:00-05:00</updated>
+		<author>
+			<name>Travis Zehren</name>
+			<uri>http://localhost:4000</uri>
+			<email>tzehren@kickstandapps.com</email>
+		</author>
+		<content type="html">&lt;img src=&quot;http://localhost:4000/images/paper-53-expanded-guide-feature.jpg&quot; alt=&quot;Mastering Paper by 53: Introduction and Tool Guide page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Paper by 53 and me were BFFs from the start. Spread across my journals you’d find around 600 pages with creation times ranging from 30 minutes to 4 hours. A conservative estimate has me logged at around 500 hours of drawing and painting in this iOS app — which is kind of crazy when I think about it. I’m not sure if that qualifies me as a good teacher or not, but I’m going to try and expand on some tips and techniques I’ve previously written about in this multi-part series.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-journals.jpg&quot; alt=&quot;Paper 53 journals screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In this first part you’ll learn about the benefits of a stylus, how all of the Paper by 53 tools work, and basic gestures you’ll want to master. Parts 2 and 3 will dig deeper into techniques for realistic drawing, advanced features, making Paper by 53 videos, and how to get featured in the &lt;em&gt;Made With Paper&lt;/em&gt; gallery.&lt;/p&gt;
+
+&lt;h2 id=&quot;is-a-stylus-necessary&quot;&gt;Is a Stylus Necessary?&lt;/h2&gt;
+
+&lt;p&gt;Finger painting with Paper can yield some impressive results, but may feel unnatural if you’re used to drawing with pens and pencils. If you decide to go with a capacitive stylus be aware that it won’t match the precision of a traditional pen because of the fat and rubbery tip.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/adonit-jot-classic-tip.jpg&quot; alt=&quot;Adonit Jot Classic&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;ProTip:&lt;/strong&gt; For those craving precision I’d suggest trying one of the many &lt;a href=&quot;http://www.amazon.com/gp/product/B00931K1QK/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00931K1QK&amp;amp;linkCode=as2&amp;amp;tag=mademist-20&quot;&gt;&lt;strong&gt;Adonit Jot&lt;/strong&gt;&lt;/a&gt; styli. The tips on these bad boys have clear plastic tips that can pivot and tilt allowing you to see exactly where you are on the iPad’s screen.&lt;/p&gt;
+
+&lt;p&gt;Going one step further are styli built with pressure sensitivity in the tip that can alter the characteristics of a mark depending on how hard you press on it. Paper by 53 supports Ten One Design’s &lt;strong&gt;Pogo Connect Smart Pen&lt;/strong&gt; out of the box, and has quickly become my go to stylus when creating on iPad. To learn more about how it became a favorite, check out my &lt;a href=&quot;http://localhost:4000/articles/pogo-connect-smart-pen.html&quot; title=&quot;My Pogo Connect Smart Pen Review&quot;&gt;image filled review&lt;/a&gt; here.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-the-tools.jpg&quot; alt=&quot;Paper by 53 tools screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-tools-and-how-they-behave&quot;&gt;The Tools and How they Behave&lt;/h2&gt;
+
+&lt;p&gt;Starting with order of appearance you have the following tools at your disposal: &lt;a href=&quot;#eraser&quot;&gt;&lt;em&gt;eraser&lt;/em&gt;&lt;/a&gt;, &lt;a href=&quot;#fountain-pen&quot;&gt;&lt;em&gt;fountain pen&lt;/em&gt;&lt;/a&gt;, &lt;a href=&quot;#pencil&quot;&gt;&lt;em&gt;pencil&lt;/em&gt;&lt;/a&gt;, &lt;a href=&quot;#marker&quot;&gt;&lt;em&gt;marker&lt;/em&gt;&lt;/a&gt;, &lt;a href=&quot;#ink-pen&quot;&gt;&lt;em&gt;ink pen&lt;/em&gt;&lt;/a&gt;, &lt;a href=&quot;#watercolor-brush&quot;&gt;&lt;em&gt;watercolor brush&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&quot;#color-mixer&quot;&gt;&lt;em&gt;color mixer&lt;/em&gt;&lt;/a&gt;. The fountain pen and eraser are included with the free app — the rest can be downloaded via in-app purchase as a set or individually.
+When describing these tools I will be using the following descriptors:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; How does the speed of drawing affect a line’s weight.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blending:&lt;/strong&gt; Are marks opaque&lt;sup id=&quot;fnref:opaque&quot;&gt;&lt;a href=&quot;#fn:opaque&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; or translucent and how many layers are needed to make a pure color&lt;sup id=&quot;fnref:pure-color&quot;&gt;&lt;a href=&quot;#fn:pure-color&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sensitivity:&lt;/strong&gt; How are marks and line quality affected by the amount of pressure applied when using a Pogo Connect Smart Pen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;eraser&quot;&gt;Eraser&lt;/h3&gt;
+
+&lt;p&gt;The eraser does what its name implies — it erases. It is not the most precise tool with such a fat tip, which is why I prefer to rewind mistakes (&lt;a href=&quot;#rewind&quot;&gt;more on that later&lt;/a&gt;) instead.&lt;/p&gt;
+
+&lt;p&gt;For handling cleanup duty, the eraser is very effective at defining edges and making them straight. By simply running it along an edge you can remove jaggies left by a pencil or watercolor stroke.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-erased-edge.jpg&quot; alt=&quot;Erased edge screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; Slow = thin. Fast = thick.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blending:&lt;/strong&gt; Completely opaque. One stroke erases down to the egg shell white colored background.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sensitivity:&lt;/strong&gt; Soft = thin. Hard = thick.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-eraser-thick-thin.jpg&quot; alt=&quot;Eraser line showing thin to thick&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;fountain-pen&quot;&gt;Fountain pen (Draw)&lt;/h3&gt;
+
+&lt;p&gt;Along with the eraser, the fountain pen is included for free when you download Paper by FiftyThree from the App Store. This was the tool I originally used the most when experimenting with Paper a year ago. It’s hard not to fall in love with the flowing lines it makes when sliding your fingertips across the iPad’s glass screen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-fountain-pen-layers.jpg&quot; alt=&quot;Fountain pen shapes to show the tool&#39;s opacity&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My drawing style has evolved over the year from crisp line work to soft blended edges and tones. Because of this shift the fountain pen sees less usage and has been demoted to janitorial status like the eraser. Perfect for getting into tight places it also works well when coloring large blocks of color.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-background-fill.jpg&quot; alt=&quot;Background fill cover-up screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;ProTip 1:&lt;/strong&gt; The eraser removes everything — including a background filled with color. A fountain pen filled with color that matches the background can be used instead of the eraser to correct mistakes.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; Slow = thin. Fast = thick.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blending:&lt;/strong&gt; Almost fully opaque. Depending on the color it can take 2–3 layers to create a purely opaque color.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sensitivity:&lt;/strong&gt; Soft = thin. Hard = thick.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;pencil&quot;&gt;Pencil (Sketch)&lt;/h3&gt;
+
+&lt;p&gt;Versatile and perfect in almost any situation — this is the one tool you should invest time in learning. The marks it makes resemble a traditional 2B pencil leaving behind a texture perfect for shading. The pencil also works great for lightly sketching to nail your composition before painting.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-pencil-sketch.jpg&quot; alt=&quot;Pencil sketch screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Shading power is amplified immensely when used with a fancy Bluetooth stylus with pressure sensitivity. If you’ve used a pencil in real life to draw you already know how to use this digital incarnation — making it one of the most precise and forgivable tools in Paper’s toolbox. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; Slow = dark. Fast = light.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blending:&lt;/strong&gt; Semi-transparent — takes many layers to create a purely opaque color.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sensitivity:&lt;/strong&gt; Soft = light. Hard = dark.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;marker&quot;&gt;Marker (Outline)&lt;/h3&gt;
+
+&lt;p&gt;Unlike the fountain pen, the marker makes transparent marks you can see through. To make sense of the marker I pretend it’s one of those neon yellow highlighters. If you drew yellow over black it wouldn’t show up, the same is true in Paper.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-marker-yellow-layers.jpg&quot; alt=&quot;Layers of marker acting like a highlighter screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The exception to this rule is when the marker is filled with white. In this case it would act almost identically to the eraser but instead of an off-white color it makes a pure white. &lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/paper-53-eraser-vs-marker.jpg&quot; alt=&quot;Eraser vs. marker lines screenshot&quot; /&gt;
+	&lt;figcaption&gt;If you look closely you can spot the slight difference in color.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;When sharp shadows and values are desired in your illustrations, the marker tool is A+++. I tend to work more photo-realistic, but if you want that cartoon or comic book look the marker might be for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-eraser-sharp-edge.jpg&quot; alt=&quot;Comic book style shading with marker screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; Slow = thick. Fast = thin.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blending&lt;/strong&gt;: Transparent, with the exception of white and black.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sensitivity&lt;/strong&gt;: Soft = thin. Hard = thick.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ink-pen&quot;&gt;Ink pen (Write)&lt;/h3&gt;
+
+&lt;p&gt;Like the name implies the ink pen behaves most closely to a roller-ball pen. If you look closely at the lines it creates you’ll notice heavier spots where a stop or start occurs. Even lines can be achieved by moving quickly throughout the entire stroke.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-ink-pen-lines.jpg&quot; alt=&quot;Ink pen start and end points screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you found the fountain pen’s thick/thins undesirable or hard to control the ink pen might be a better choice. The ink pen has less variation in line-width making it a perfect choice for writing or doing detail work. &lt;/p&gt;
+
+&lt;p&gt;Before I began using a Pogo Connect Smart Pen exclusively, I did all my lettering and writing with the fountain pen. I found the pressure sensitivity of that stylus difficult to control when crafting letter forms, so I switched to the ink pen&lt;sup id=&quot;fnref:pen-lettering&quot;&gt;&lt;a href=&quot;#fn:pen-lettering&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; instead. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; The difference is barely noticeable. Moving slower will make a slightly thicker line.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blending:&lt;/strong&gt; Opaque.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sensitivity:&lt;/strong&gt; The difference is barely noticeable. Pressing harder will make a slightly thicker line.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;watercolor-brush&quot;&gt;Watercolor brush (Color)&lt;/h3&gt;
+
+&lt;p&gt;Like the pencil, the watercolor brush is another tool you really should spend time experimenting with to learn all its nuances. This tool sets Paper apart from other apps by replicating the natural feel of pushing and pulling paint across a canvas. Without it I wouldn’t be able to shade, paint skies, or render hair realistically at all.&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;ProTip:&lt;/strong&gt; While there is no obvious way to change the size of your brush in Paper by 53, you can make thinner lines when used with a pressure sensitive stylus like the Pogo Connect Smart Pen. Pressing lightly will make a line about a 1/4th as thick as the default one.&lt;/p&gt;
+
+&lt;p&gt;It helps to think of your stylus tip as a brush loaded with watered down paint. Because the paint has been thinned it won’t be as intense or saturated as the color from one of the pens. Instead you need to build up color with multiple layers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-watercolor-even-fill.jpg&quot; alt=&quot;Choppy painting vs. consistent painting screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This “thinned out” behavior also factors into how even of a coat you can apply. &lt;em&gt;Moving the brush faster&lt;/em&gt; doesn’t let the paint fully cover a spot and will make it appear choppy. While &lt;em&gt;moving slowly&lt;/em&gt; allows the paint to flow evenly off the brush and build into a dark even value. Mastering the speed at which you apply color is essential to creating even tones and shading.&lt;/p&gt;
+
+&lt;p&gt;It may be helpful to create a few color scales with the primary colors, gray, and black to practice. Below are watercolor tests I created for myself after FiftyThree updated Paper to include the Color Mixer tool.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-watercolor-layers.jpg&quot; alt=&quot;Gradations created with the watercolor brush&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;ProTip:&lt;/strong&gt; When loaded with white the watercolor brush can become a way to lighten areas you’ve previously painted or drawn. Just keep in mind that white paint doesn’t behave like other colors and can be difficult to master. If you paint too slowly it will remove most of the color and leave you with bright white spots. More detail on this technique in Part 2…&lt;/p&gt;
+
+&lt;h3 id=&quot;color-mixer&quot;&gt;Color Mixer&lt;/h3&gt;
+
+&lt;p&gt;Before the Color Mixer existed, you had to get creative if you wanted a color other than the nine Paper shipped with. By mixing these colors directly on canvas you could make other colors. Some colors worked great with this technique while others turned to mud if too many layers were applied.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/paper-53-watercolor-primary-secondary.jpg&quot; alt=&quot;Mixing primary colors mixes with watercolor screenshot&quot; /&gt;
+	&lt;figcaption&gt;First row: mixing colors on directly on canvas. Second row: mixing colors with the Color Mixer.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Color theory is a tricky dick — thankfully FiftyThree did something great with their Color Mixer. Mixing together any color will almost always make a new one that looks great.&lt;/p&gt;
+
+&lt;p&gt;For those who need more control or want a traditional color picker — one can be accessed by dragging a color swatch onto the mixing wheel, then tapping on it. From here you can adjust a color’s hue, saturation, and luminosity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-color-picker-slider.jpg&quot; alt=&quot;Color picker sliders screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For a good shadow color I generally edit the base color I’m shading and crank the saturation down and the luminosity way up.&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;ProTip:&lt;/strong&gt; If you go too far in any direction you will approach pure white, which will make the watercolor brush or marker opaque. Each color has a different “point of no return,” that can be found by experimenting with the sliders.&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;ProTip:&lt;/strong&gt; Sometimes approaching the “point of no return” is a good thing — especially when you need a color for lightening. Instead of using pure white, I like to start with the base color I’m working with and crank the luminosity way up to make less dramatic tints when erasing.&lt;/p&gt;
+
+&lt;h2 id=&quot;perfect-these-gestures&quot;&gt;Perfect these gestures&lt;/h2&gt;
+
+&lt;p&gt;If you only learn two gestures for Paper, make them Rewind and Zoom.&lt;/p&gt;
+
+&lt;h3 id=&quot;rewind&quot;&gt;Rewind&lt;/h3&gt;
+
+&lt;p&gt;I’m going to let you in on a little secret. The first couple of months I used Paper by 53, I absolutely hated the Rewind feature because I couldn’t use it consistently. It pissed me off so much, that I gave up and used the eraser instead. I would have killed for a button with multiple undo’s back then…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-rewind-stormtrooper.jpg&quot; alt=&quot;Rewind screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I eventually came to my senses and gave it another go by forcing myself to use Rewind exclusively. After a few drawings I mastered it and was time traveling back through my boo boo’s with ease. It’s entirely possible that FiftyThree tweaked Rewind behind the scenes to make it easier to use, but I like to think it was my perseverance that made the difference.&lt;/p&gt;
+
+&lt;p&gt;Just stick with it if you’re having trouble, I promise it will eventually come naturally. And if it doesn’t, you can always purchase a Pogo Connect Smart Pen and map the button to undo. To correct simple one step mistakes the undo button works great, for anything else I prefer the rewind gesture to avoid pressing the button a million times.&lt;/p&gt;
+
+&lt;h3 id=&quot;zoom&quot;&gt;Zoom&lt;/h3&gt;
+
+&lt;p&gt;The single most requested feature by fans and haters of Paper… Zoom. I had drawn a couple hundred portraits just fine without zoom, but boy was I happy when FiftyThree finally added the feature. That said I did cheat a bit by using an accessibility feature in iOS&lt;sup id=&quot;fnref:ios-zoom&quot;&gt;&lt;a href=&quot;#fn:ios-zoom&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; that lets you magnify the screen by tapping with 3 fingers. Not a true zoom, but it does have its place when you need to magnify an area — the tools don’t scale so it isn’t that useful.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-zoom-tool-eye.jpg&quot; alt=&quot;Zoom tool screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There isn’t much else to Zoom, I’m merely mentioning it to increase awareness around it. Unlike other drawing and painting apps with zoom, the entire canvas doesn’t scale. Instead you control the area you want magnified by you opening a circular &lt;s&gt;portal&lt;/s&gt; loupe that can be moved around or dismissed by tapping outside of it.&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;ProTip:&lt;/strong&gt; To move the loupe drag it around at the edge, right on the black frame. It can be picky sometimes, but nowhere near as temperamental or tricky as Rewind.&lt;/p&gt;
+
+&lt;h2 id=&quot;and-were-out&quot;&gt;And We’re Out&lt;/h2&gt;
+
+&lt;p&gt;Well there you have it. I hope this has served as a good introduction to Paper by 53, how to use the  tools, the gestures, and a taste of what is possible with the app. Part 2 of this series will focus on drawing techniques and how to use the tools to create realistic skies, clouds, skin, hair, landscapes, and lighting effects. While Part 3 will dip into some advanced features like organizing journal pages and color, recording screen capture videos, and how I got my creations featured in the &lt;em&gt;Made With Paper&lt;/em&gt; gallery. &lt;/p&gt;
+
+&lt;p&gt;Be sure to check back soon, add the &lt;a href=&quot;http://feeds.feedburner.com/MadeMistakes&quot;&gt;Made Mistakes feed&lt;/a&gt; to your RSS reader of choice&lt;sup id=&quot;fnref:rss-reader&quot;&gt;&lt;a href=&quot;#fn:rss-reader&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; or &lt;a href=&quot;http://twitter.com/mmistakes&quot;&gt;follow me on Twitter&lt;/a&gt; to know when they drop. And if you’re struggling with something or need further explaining, don’t hesitate to leave a comment below.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:opaque&quot;&gt;
+      &lt;p&gt;Not transparent or translucent; impenetrable to light; notallowing light to pass through. &lt;a href=&quot;#fnref:opaque&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:pure-color&quot;&gt;
+      &lt;p&gt;I define pure as matching the color selected in the mixer. Many of the tools have a hint of translucency to them and need 2-3 layers to match exactly. &lt;a href=&quot;#fnref:pure-color&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:pen-lettering&quot;&gt;
+      &lt;p&gt;I suppose I could break the creative flow and switch to a traditional capacitive stylus for just lettering if I wanted to continue using the fountain pen. Nah… &lt;a href=&quot;#fnref:pen-lettering&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:ios-zoom&quot;&gt;
+      &lt;p&gt;The iPad has a system wide zoom feature that allows you to enlarge the screen by 3 finger tapping it. To activate, go to &lt;strong&gt;Settings&lt;/strong&gt; &amp;gt; &lt;strong&gt;General&lt;/strong&gt;. Tap on &lt;strong&gt;Accessibility&lt;/strong&gt; and then turn on &lt;strong&gt;Zoom&lt;/strong&gt;. &lt;a href=&quot;#fnref:ios-zoom&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:rss-reader&quot;&gt;
+      &lt;p&gt;I like to sync all my RSS feeds with &lt;a href=&quot;http://feedly.com&quot;&gt;Feedly&lt;/a&gt; in a desktop browser along with their mobile apps. &lt;a href=&quot;http://flipboard.com&quot;&gt;Flipboard&lt;/a&gt; is also quite nice if you prefer the digital magazine approach. &lt;a href=&quot;#fnref:rss-reader&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/07/paper-53-introduction/&quot;&gt;Mastering Paper by 53: Introduction and Tool Guide&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on July 31, 2013.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title type="html"><![CDATA[Mastering Paper by 53]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/mastering-paper/" />
+		<id>http://localhost:4000/mastering-paper</id>
+		<updated>2013-11-21T00:00:00-00:00</updated>
+		<published>2013-07-31T00:00:00-05:00</published>
+		
+		<author>
+			<name>Travis Zehren</name>
+			<uri>http://localhost:4000</uri>
+			<email>tzehren@kickstandapps.com</email>
+		</author>
+		<content type="html">&lt;figure class=&quot;image-right&quot;&gt;
+	&lt;img src=&quot;http://localhost:4000/images/mastering-paper-53-small-book.jpg&quot; width=&quot;188&quot; height=&quot;250&quot; alt=&quot;Mastering Paper reference guide&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In the spirit of openness I’ve decided to compile everything I’ve learned using &lt;a href=&quot;http://www.fiftythree.com&quot;&gt;&lt;em&gt;Paper by FiftyThree&lt;/em&gt;&lt;/a&gt; into a multi-part series I’m calling &lt;strong&gt;Mastering Paper&lt;/strong&gt;. As far as I’m concerned Paper doesn’t really need a manual or instruction guide because it’s fairly intuitive to use. So what you’ll find in the following pages are techniques and time savers I’ve developed from creating exclusively with the app over the last year and a half.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;ul class=&quot;unstyled-list&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	&lt;li&gt;
+		&lt;a href=&quot;http://localhost:4000/2013/07/paper-53-introduction/&quot;&gt;
+			&lt;img src=&quot;http://localhost:4000/images/paper-53-expanded-guide-thumb.jpg&quot; class=&quot;preview&quot; alt=&quot;preview image&quot; /&gt;
+			&lt;h4&gt;Part 1 &amp;#8211; Introduction and Tool Guide&lt;/h4&gt;
+		&lt;/a&gt;
+		&lt;p&gt;An introduction to Paper&#39;s tools and how to exploit them for drawing realistically.&lt;/p&gt;
+	&lt;/li&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	&lt;li&gt;&lt;h4&gt;&lt;span class=&quot;badge&quot;&gt;Coming Soon&lt;/span&gt; Part 5 &amp;#8211; Drawing Textures&lt;/h4&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;h4&gt;&lt;span class=&quot;badge&quot;&gt;Coming Soon&lt;/span&gt; Part 6 &amp;#8211; Drawing Realistic Skin Tones&lt;/h4&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;h4&gt;&lt;span class=&quot;badge&quot;&gt;Coming Soon&lt;/span&gt; Part 7 &amp;#8211; Drawing Hair&lt;/h4&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;h4&gt;&lt;span class=&quot;badge&quot;&gt;Coming Soon&lt;/span&gt; Part 8 &amp;#8211; Organizing Palettes and Colors&lt;/h4&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;h4&gt;&lt;span class=&quot;badge&quot;&gt;Coming Soon&lt;/span&gt; Part 9 &amp;#8211; Managing Journals and Pages&lt;/h4&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;h4&gt;&lt;span class=&quot;badge&quot;&gt;Coming Soon&lt;/span&gt; Part 10 &amp;#8211; Book and Printing&lt;/h4&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;h4&gt;&lt;span class=&quot;badge&quot;&gt;Coming Soon&lt;/span&gt; Part 11 &amp;#8211; Screen Capture Techniques and Animation&lt;/h4&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;h4&gt;&lt;span class=&quot;badge&quot;&gt;Coming Soon&lt;/span&gt; Part 12 &amp;#8211; Getting the Most Out of Pencil&lt;/h4&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/mastering-paper/&quot;&gt;Mastering Paper by 53&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on July 31, 2013.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title type="html"><![CDATA[Paper]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/eko-wave/" />
+		<id>http://localhost:4000/eko-wave</id>
+		<published>2013-07-16T00:00:00-05:00</published>
+		<updated>2013-07-16T00:00:00-05:00</updated>
+		<author>
+			<name>Travis Zehren</name>
+			<uri>http://localhost:4000</uri>
+			<email>tzehren@kickstandapps.com</email>
+		</author>
+		<content type="html">&lt;img src=&quot;http://localhost:4000/images/eko-wave-feature.jpg&quot; alt=&quot;Paper page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Eko Wave LLC is a company started by &lt;a href=&quot;http://twitter.com/endonend&quot;&gt;two&lt;/a&gt; &lt;a href=&quot;http://twitter.com/bjpmba&quot;&gt;pals&lt;/a&gt; and myself to provide value to niche consumers through well-thought-out applications.&lt;/p&gt;
+
+&lt;p&gt;When designing the logo I wanted something that played off of the word &lt;em&gt;wave&lt;/em&gt; found in our name, while keeping with a color palette we established in Eko’s previous life.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/eko-wave-logo-guide.jpg&quot; alt=&quot;Eko Wave logo guide&quot; /&gt;
+	&lt;figcaption&gt;Eko Wave logo guide&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Taking things a step further I created a basic style tile&lt;sup id=&quot;fnref:style-tile&quot;&gt;&lt;a href=&quot;#fn:style-tile&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; document that helped me brainstorm how color, typography, and imagery fit and sell the concept to my partners. It would also serve as blueprint for me to design the site in browser — making for a more enjoyable and loose experience instead of being tied to a .PSD mockup I needed to CSSify&lt;sup id=&quot;fnref:cssify&quot;&gt;&lt;a href=&quot;#fn:cssify&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; exactly.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/eko-wave-style-tile.jpg&quot; alt=&quot;Eko Wave style tile&quot; /&gt;
+	&lt;figcaption&gt;Eko Wave style tile&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The end result was a simple one page site that will ultimately grow as we build out our application and service portfolio.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:style-tile&quot;&gt;
+      &lt;p&gt;Style Tiles are a design deliverable consisting of fonts, colors and interface elements that communicate the essence of a visual brand for the web. (&lt;a href=&quot;http://styletil.es/&quot;&gt;Learn more&lt;/a&gt;) &lt;a href=&quot;#fnref:style-tile&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:cssify&quot;&gt;
+      &lt;p&gt;Is CSSify even a word? &lt;a href=&quot;#fnref:cssify&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/eko-wave/&quot;&gt;Paper&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on July 16, 2013.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title type="html"><![CDATA[A Pogo Connect Smart Pen Makes Paper by 53 Better]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/07/pogo-connect-smart-pen/" />
+		<id>http://localhost:4000/2013/07/pogo-connect-smart-pen</id>
+		<updated>2013-11-06T00:00:00-00:00</updated>
+		<published>2013-07-08T00:00:00-05:00</published>
+		
+		<author>
+			<name>Travis Zehren</name>
+			<uri>http://localhost:4000</uri>
+			<email>tzehren@kickstandapps.com</email>
+		</author>
+		<content type="html">&lt;img src=&quot;http://localhost:4000/images/pogo-connect-review-feature.jpg&quot; alt=&quot;A Pogo Connect Smart Pen Makes Paper by 53 Better page image&quot;&gt;&lt;br/&gt;&lt;p&gt;I’ve been lusting over the promise of pressure sensitive drawing on an iPad ever since I first read about the &lt;a href=&quot;http://www.amazon.com/gp/product/B009K448L4/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B009K448L4&amp;amp;linkCode=as2&amp;amp;tag=mademist-20&quot;&gt;Pogo Connect Smart Pen&lt;/a&gt;&lt;sup id=&quot;fnref:pogo-compatibility&quot;&gt;&lt;a href=&quot;#fn:pogo-compatibility&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Released back in January for around $80, I held off buying one until the price dropped. Waiting turned out to be smart since my favorite iOS app &lt;a href=&quot;http://localhost:4000/tag/paper-by-53&quot;&gt;&lt;strong&gt;Paper by 53&lt;/strong&gt;&lt;/a&gt; also received numerous updates to better support the Pogo Connect.&lt;/p&gt;
+
+&lt;p&gt;For my birthday &lt;a href=&quot;http://2littlerosebuds.com&quot;&gt;my wife&lt;/a&gt; picked me up one and I started the process of learning all its nuances. I’ve gotten fairly adept at using a &lt;a href=&quot;http://www.amazon.com/gp/product/B00821TR7G/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00821TR7G&amp;amp;linkCode=as2&amp;amp;tag=mademist-20&quot;&gt;LunaTik Alloy Touch Pen&lt;/a&gt; by drawing with it every day for the last 9 months, but the tip is starting to show signs of tearing — perfect time to try something new.&lt;/p&gt;
+
+&lt;h2 id=&quot;pogo-connect-smart-pen-vs-normal-styluses&quot;&gt;Pogo Connect Smart Pen vs. Normal Styluses&lt;/h2&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/stylus-rubber-tips-comparison.jpg&quot; alt=&quot;Stylus rubber tips comparison&quot; /&gt;
+	&lt;figcaption&gt;As you can see the Pogo Connect Smart Pen&#39;s tip looks like most other capacitive stylus pens out there. It feels like and drags on the iPad&#39;s screen the same too.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;So how does the Pogo Connect’s feel compare to other styluses? In your hand it doesn’t quite have the same solidness as the LunaTik or an &lt;a href=&quot;http://www.amazon.com/gp/product/B0042U9AT6/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B0042U9AT6&amp;amp;linkCode=as2&amp;amp;tag=mademist-20&quot;&gt;AluPen&lt;/a&gt;. By no means is it cheap feeling, but it doesn’t have the heft as those other two pens. The tip isn’t any more accurate than your average rubber nub stylus, so if you’re looking for precision look at the &lt;a href=&quot;http://www.amazon.com/gp/product/B00AO1L1RG/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00AO1L1RG&amp;amp;linkCode=as2&amp;amp;tag=mademist-20&quot;&gt;Adonit Jot Touch 4&lt;/a&gt; line&lt;sup id=&quot;fnref:adonit-touch&quot;&gt;&lt;a href=&quot;#fn:adonit-touch&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; instead.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-it-up-is-a-breeze&quot;&gt;Setting It Up is a Breeze&lt;/h2&gt;
+
+&lt;p&gt;The Pogo Connect comes with a name brand AAA battery to get you up and running right away. I’ve been drawing with it every day for over a month and I have around 60% of battery life remaining — not bad at all. To pair with your iPad just fire up Paper by 53 (&lt;a href=&quot;https://www.tenonedesign.com/connect.php&quot;&gt;or one of the many supported apps&lt;/a&gt;) and press the button near the tip. After a few seconds it should connect over Bluetooth and you’re set to go.&lt;/p&gt;
+
+&lt;h2 id=&quot;pogo-connect-smart-pen-options&quot;&gt;Pogo Connect Smart Pen Options&lt;/h2&gt;
+
+&lt;figure class=&quot;image-right&quot;&gt;
+	&lt;img src=&quot;http://localhost:4000/images/paper-53-pogo-connect-settings.jpg&quot; alt=&quot;Paper by 53 settings palette&quot; width=&quot;250&quot; height=&quot;392&quot; /&gt;
+	&lt;figcaption&gt;Pogo Connect dedicated settings in Paper by 53.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Paper by 53 has a dedicated settings panel for the Pogo Connect that you can access from tapping the 53 logo in the upper right corner. Here you can check the stylus’ connection status, battery level, firmware, and toggle the pen button undo feature. There is an option labeled “Button” with a circle that I have no idea what it does or indicates. If anyone knows feel free to chime in below. &lt;/p&gt;
+
+&lt;h3 id=&quot;procreate-niceties&quot;&gt;Procreate Niceties&lt;/h3&gt;
+
+&lt;p&gt;If you’re using Procreate similar options are presented, along with a cool feature that Paper by 53 doesn’t possess — the LED light on the Pogo will match whatever color you select in the picker. Not really a useful feature when drawing and painting, but still kind of cool.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/pogo-connect-led-color.jpg&quot; alt=&quot;Pogo Connect colored LED light&quot; /&gt;
+	&lt;figcaption&gt;Procreate takes advantage of the LED light and will change hues depending on the current color.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;is-the-pogo-connect-better-for-drawing&quot;&gt;Is the Pogo Connect Better for Drawing?&lt;/h2&gt;
+
+&lt;p&gt;I suppose you want to know if the Pogo Connect lives up to the hype. In my opinion, yes — yes it does. &lt;/p&gt;
+
+&lt;p&gt;The pencil and watercolor tools in Paper by 53 have always been great at feeling and reacting like the real thing. When used with a Pogo Connect these tools are augmented to a point where you can create thick and thin marks with more precision and ease.&lt;/p&gt;
+
+&lt;p&gt;Below is a sketch made with all of the Paper by 53 tools using just my finger. Each stroke was made by moving my finger slowly at the beginning of each line and progressively getting faster near the end. This has the effect of making strokes thicker or darker depending on the tools used — something I probably don’t have to tell you if you’ve used Paper for any amount of time.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/paper-53-hand-drawn-lines.jpg&quot; alt=&quot;Lines drawn with my finger&quot; /&gt;
+	&lt;figcaption&gt;Finger drawn lines with varying speed (slow to fast).&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In this next example I drew strokes with the same five tools, but this time using a Pogo Connect Smart Pen. Instead of varying the speed at which I drew each line, I varied the amount of pressure applied to the tip of the pen. Each stroke was started by barely touching the iPad’s screen and applying more pressure until reaching the end.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/paper-53-pogo-connect-lines.jpg&quot; alt=&quot;Lines drawn with a Pogo Connect&quot; /&gt;
+	&lt;figcaption&gt;Pogo Connect drawn lines with varying pressure (soft to hard).&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;If it’s not painfully obvious from the sample sketches, the Pogo Connect Smart Pen reacts in the following ways compared to a standard capacitive stylus pen while applying pressure:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Pencil:&lt;/strong&gt; strokes get darker&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fountain pen:&lt;/strong&gt; strokes get wider&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Marker:&lt;/strong&gt; strokes get wider&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pen:&lt;/strong&gt; strokes get slightly wider&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Watercolor:&lt;/strong&gt; strokes get wider&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In my opinion the two tools that benefit the most from using a Pogo Connect stylus are the watercolor brush and pencil. Both tools become more responsive and natural to use — especially the pencil when used for shading and sketching. The watercolor brush gets the added benefit of being able to draw thinner strokes than your finger or other styluses can, which is nice since there is no way to control brush size yet.&lt;/p&gt;
+
+&lt;h3 id=&quot;on-the-subject-of-palm-rejection&quot;&gt;On the Subject of Palm Rejection&lt;/h3&gt;
+
+&lt;p&gt;Seen this one mentioned on a few other reviews and forums so I figured I’d address it quickly. I’ve never really had a problem with drawing or writing on an iPad and having my palm make random marks. Not sure if I draw in a way that eliminates this, so I don’t really have a way to judge if the Pogo fixes this. What I can say is when activated you can’t draw with anything except the Pogo, but gestures like pinch to zoom, rewind, and moving pages around all still work.&lt;/p&gt;
+
+&lt;p&gt;But if you rest your palm on the screen while you draw things break down quickly. Because of the way multitouch gestures work in Paper, the palm rejection feature was likely turned off as not to conflict. If you use an app like Procreate, palm rejection works quite nicely when multitouch gestures are turned off on your device.&lt;/p&gt;
+
+&lt;h2 id=&quot;is-it-worth-the-money&quot;&gt;Is it Worth the Money?&lt;/h2&gt;
+
+&lt;p&gt;If you’re a Paper addict and mostly use watercolor and pencil I think the high price of a Pogo Connect is justified. If you’re predominantly an inker then it’s probably not worth it. I find controlling the fountain pen to be much harder when using a Pogo Connect because it is really sensitive to pressure. This makes drawing smooth lines hard unless you have a steady hand and don’t vary the pressure as you draw.&lt;/p&gt;
+
+&lt;p&gt;It’s worth noting that there appears to be a major design flaw with the internals of the pen (see below). From constant pressure being applied to a soldered circuit board behind the tip, it eventually breaks and ceases to work properly. I don’t know anyone in the Paper community who has escaped this. But since it’s the only stylus Paper supports with pressure sensitivity you’ll have to decide how important that is to you. Buyer beware…&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-wrong-with-the-pogo-connect&quot;&gt;What’s Wrong with the Pogo Connect&lt;/h2&gt;
+
+&lt;p&gt;About those bugs I mentioned earlier. Not sure if they’re hardware or software related, but I’ve experienced a ton of lockups with the Pogo Connect and Paper by 53. The stylus will randomly disconnect or just become unresponsive and I have to force quit the app or remove the AAA battery to make the Pogo Connect behave again. I usually notice it becoming unresponsive when making a bunch of quick strokes, like when I’m &lt;a href=&quot;http://localhost:4000/paperfaces/josearato-portrait.html&quot;&gt;drawing beard whiskers&lt;/a&gt;. Not a deal breaker because it doesn’t happen all the time, but it is kind of annoying that it interrupts the creative flow.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/pogo-connect-paper-53-disconnected.jpg&quot; alt=&quot;Pogo Connected disconnected screenshot&quot; /&gt;
+	&lt;figcaption&gt;Disconnected! Better get used to this screen...&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;lock-screen-annoyance&quot;&gt;Lock Screen Annoyance&lt;/h3&gt;
+
+&lt;p&gt;During my first week with the Pogo I encountered another issue that I thought might have been a bug with Paper. Out of nowhere the iPad’s screen would turn off and the lock “chhkk” would sound. After complaining about it on Tumblr &lt;a href=&quot;http://mbbradbury.tumblr.com/post/51935357080/what-went-wrong-with-your-pogo-connect-i-can-see-me&quot;&gt;a follower messaged me&lt;/a&gt; to say that I needed to turn off the iPad cover lock setting. It never occurred to me that there was a magnet in the tip of the Pogo that could trigger a screen lock when moved near the iPad’s outer bezel.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/ipad-cover-lock-setting.jpg&quot; alt=&quot;iPad iOS 6 cover lock setting&quot; /&gt;
+	&lt;figcaption&gt;Toggling iPad Cover Lock/Unlock to OFF in Settings will stop the Pogo from turning off your screen if you get to close to the edge.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Even with these hiccups I’m still a big fan of the Pogo Connect. Gives me hope that companies like &lt;a href=&quot;https://www.tenonedesign.com&quot;&gt;Ten One Design&lt;/a&gt; will continue to innovate in this space, giving digital creators tools that are even closer to the real thing. Who knows, maybe Apple will rethink that whole “if you see a stylus they blew it” line of thinking and do something to help nurture this.&lt;/p&gt;
+
+&lt;h2 id=&quot;update-two-months-later&quot;&gt;Update. Two Months Later&lt;/h2&gt;
+
+&lt;p&gt;Well that didn’t take long. About a month after writing this review and two months of daily drawing, my Pogo Connect finally gave up the ghost. Out of the blue I was drawing and my strokes stopped registering in Paper. I figured it was just a software hiccup and the stylus temporarily lost connectivity, but no.&lt;/p&gt;
+
+&lt;p&gt;Removed the rubber tip to find this mess. Like many others, the metal contact that is soldered to the internal circuit board broke free rendering the pressure sensitivity useless.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/pogo-connect-broken-circuit.jpg&quot; alt=&quot;Pogo Connect broken circuit connection and tip&quot; /&gt;
+	&lt;figcaption&gt;I don&#39;t think this metal contact is suppose to break off so easily...&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I have an email out to Ten One Design to see what can be done. I’ve heard they respond quickly with free replacements, which could indicate they’re aware of a major design flaw and trying to do right by it. I just don’t know if I can continue to recommend the product if it’s prone to breaking after a few months. I’ll let you know things go…&lt;/p&gt;
+
+&lt;h2 id=&quot;update-a-week-later&quot;&gt;Update. A Week Later&lt;/h2&gt;
+
+&lt;p&gt;And just like that Ten One Design sent me a replacement pen with 2 extra tips free of charge. Excellent customer service if you ask me! Not sure if it’s that new car smell effect, but this pen feels more sturdy and responsive. Hoping that means the build quality has been improved and the tip sensor breaking apart is no longer an issue.&lt;/p&gt;
+
+&lt;h2 id=&quot;update-three-months-later&quot;&gt;Update. Three Months Later&lt;/h2&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/pogo-connect-broken-circuit-2.jpg&quot; alt=&quot;Seems like a major design flaw to me&quot; /&gt;
+	&lt;figcaption&gt;All the solder in the world probably isn&#39;t going to fix this design flaw.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Feels like Groundhog Day all over again. Sadly my replacement Pogo didn’t fair too well and broke in the exact same way after three months of daily usage. Big shout out to Ten One Design’s customer service for setting me up with another replacement gratis. I’ve been told they beefed up the soldering for a new production run in September. Not sure if that will make much of a difference, but will report back after I get my hands on it.&lt;/p&gt;
+
+&lt;p&gt;If it wasn’t for Paper I probably would have dumped the Pogo and moved to the Adonit Jot Touch and Procreate full time. But there’s something magical about Paper that keeps pulling me back…&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:pogo-compatibility&quot;&gt;
+      &lt;p&gt;Since publishing this review, Apple released the iPad Mini and iPad Air — both have some compatibility issues with a Pogo Connect Smart Pen. There’s something about these new screens that cause the Pogo to not function properly. In the case of the iPad Air it doesn’t work at all. The iPad Mini has better support but a few of the new tips don’t work. For the full story check out &lt;a href=&quot;http://www.tenonedesign.com/connect&quot;&gt;Ten One Design’s website&lt;/a&gt;. &lt;a href=&quot;#fnref:pogo-compatibility&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:adonit-touch&quot;&gt;
+      &lt;p&gt;At the time of writing this review the Adonit Jot Touch 4 is not supported by Paper. If you were hoping to take advantage of the palm detection and pressure sensitive features you’ll need to use a different app — here’s the full list of &lt;a href=&quot;http://adonit.net/jot-ready-apps/&quot;&gt;Jot ready apps&lt;/a&gt;. &lt;a href=&quot;#fnref:adonit-touch&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/07/pogo-connect-smart-pen/&quot;&gt;A Pogo Connect Smart Pen Makes Paper by 53 Better&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on July 08, 2013.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title type="html"><![CDATA[So Simple, a Jekyll Theme]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/06/so-simple-jekyll-theme/" />
+		<id>http://localhost:4000/2013/06/so-simple-jekyll-theme</id>
+		<updated>2013-08-16T00:00:00-00:00</updated>
+		<published>2013-06-26T00:00:00-05:00</published>
+		
+		<author>
+			<name>Travis Zehren</name>
+			<uri>http://localhost:4000</uri>
+			<email>tzehren@kickstandapps.com</email>
+		</author>
+		<content type="html">&lt;img src=&quot;http://localhost:4000/images/so-simple-theme-feature.jpg&quot; alt=&quot;So Simple, a Jekyll Theme page image&quot;&gt;&lt;br/&gt;&lt;p&gt;After having so much fun creating and releasing &lt;a href=&quot;http://mmistakes.github.io/minimal-mistakes&quot;&gt;my first open source Jekyll theme&lt;/a&gt;, I figured I’d go at it again. So here be the fruit of that effort — I call it &lt;a href=&quot;http://mmistakes.github.io/so-simple-theme&quot;&gt;&lt;strong&gt;So Simple Theme&lt;/strong&gt;&lt;/a&gt;, a responsive Jekyll theme for words and photos. &lt;/p&gt;
+
+&lt;h2 id=&quot;so-simple-theme-is-all-about&quot;&gt;So Simple Theme is all about:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Responsive templates. Looking good on mobile, tablet, and desktop.&lt;/li&gt;
+  &lt;li&gt;Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. &lt;/li&gt;
+  &lt;li&gt;Minimal embellishments and subtle animations. &lt;/li&gt;
+  &lt;li&gt;Readable typography to make your words shine.&lt;/li&gt;
+  &lt;li&gt;Support for large images to call out your favorite posts.&lt;/li&gt;
+  &lt;li&gt;Disqus comments if you choose to enable.&lt;/li&gt;
+  &lt;li&gt;Simple and clear permalink structure&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+  &lt;li&gt;Tags for &lt;a href=&quot;https://developers.facebook.com/docs/opengraph/&quot;&gt;Open Graph&lt;/a&gt; and &lt;a href=&quot;https://dev.twitter.com/docs/cards&quot;&gt;Twitter Cards&lt;/a&gt; for a better social sharing experience.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;large&quot;&gt;
+	&lt;a href=&quot;http://mmistakes.github.io/so-simple-theme&quot; onclick=&quot;_gaq.push([&#39;_trackEvent&#39;, &#39;Link&#39;, &#39;So Simple - Theme Demo&#39;]);&quot; title=&quot;Preview So Simple Theme&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/so-simple-theme-preview.jpg&quot; alt=&quot;Screenshot of So Simple Theme&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Page and post templates in action.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;getting-started&quot;&gt;Getting started&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Install Jekyll&lt;/a&gt; if you haven’t already.&lt;/li&gt;
+  &lt;li&gt;Fork the &lt;a href=&quot;http://github.com/mmistakes/so-simple-theme/&quot;&gt;So Simple Theme repo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Make it your own and customize, customize, customize.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div&gt;&lt;a onclick=&quot;_gaq.push([&#39;_trackEvent&#39;, &#39;Link&#39;, &#39;So Simple - Theme Demo&#39;]);&quot; href=&quot;http://mmistakes.github.io/so-simple-theme&quot; class=&quot;btn btn-inverse&quot;&gt;Demo the Theme&lt;/a&gt;&lt;/div&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Like this theme?&lt;/strong&gt; I just released my third theme for Jekyll, with a sweet animated drop down menu, social sharing plugins, and a Grunt build script for theme development. I’m calling it HPSTER Theme and you can &lt;a href=&quot;http://localhost:4000/articles/hpstr-jekyll-theme.html&quot;&gt;learn more about it here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Example: &lt;em&gt;domain.com/category-name/post-title&lt;/em&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/06/so-simple-jekyll-theme/&quot;&gt;So Simple, a Jekyll Theme&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on June 26, 2013.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title type="html"><![CDATA[Minimal Mistakes, a Jekyll Theme]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/05/minimal-mistakes-jekyll-theme/" />
+		<id>http://localhost:4000/2013/05/minimal-mistakes-jekyll-theme</id>
+		<updated>2013-09-12T00:00:00-00:00</updated>
+		<published>2013-05-28T00:00:00-05:00</published>
+		
+		<author>
+			<name>Travis Zehren</name>
+			<uri>http://localhost:4000</uri>
+			<email>tzehren@kickstandapps.com</email>
+		</author>
+		<content type="html">&lt;img src=&quot;http://localhost:4000/images/minimal-mistakes-theme-feature.jpg&quot; alt=&quot;Minimal Mistakes, a Jekyll Theme page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Jekyll is pretty rad and figured releasing a cleaned up version of &lt;a href=&quot;http://mademistakes.com&quot;&gt;my site&lt;/a&gt; as a theme for others to hack and build on would be fun. So here be that theme — I call it &lt;strong&gt;&lt;a href=&quot;http://mmistakes.github.io/minimal-mistakes&quot;&gt;Minimal Mistakes&lt;/a&gt;&lt;/strong&gt;, a responsive Jekyll theme with editorial tendencies. &lt;/p&gt;
+
+&lt;h2 id=&quot;minimal-mistakes-is-all-about&quot;&gt;Minimal Mistakes is all about:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Responsive templates. Looking good on mobile, tablet, and desktop.&lt;/li&gt;
+  &lt;li&gt;Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.&lt;/li&gt;
+  &lt;li&gt;Minimal embellishments. Content first; other widget nonsense never.&lt;/li&gt;
+  &lt;li&gt;Large feature images for posts and pages.&lt;/li&gt;
+  &lt;li&gt;Simple and clear permalink structure.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mmistakes.github.io/minimal-mistakes/404.html&quot;&gt;Custom 404 page&lt;/a&gt; to get you started.&lt;/li&gt;
+  &lt;li&gt;Stylesheets for Pygments and Coderay &lt;a href=&quot;http://mmistakes.github.io/minimal-mistakes/articles/code-highlighting-post/&quot;&gt;syntax highlighting&lt;/a&gt; to make your code examples look snazzy.&lt;/li&gt;
+  &lt;li&gt;Simple and clean permalink structure&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;http://mmistakes.github.io/minimal-mistakes&quot; onclick=&quot;_gaq.push([&#39;_trackEvent&#39;, &#39;Link&#39;, &#39;Minimal Mistakes - Theme Demo&#39;]);&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/mm-theme-post-750.jpg&quot; alt=&quot;Screenshot of Minimal Mistakes theme&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;The post template in action.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://mmistakes.github.io/minimal-mistakes&quot; onclick=&quot;_gaq.push([&#39;_trackEvent&#39;, &#39;Link&#39;, &#39;Minimal Mistakes - Theme Demo&#39;]);&quot; class=&quot;btn btn-inverse&quot;&gt;Demo the Theme&lt;/a&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;basic-setup&quot;&gt;Basic Setup&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Install Jekyll&lt;/a&gt; if you haven’t already.&lt;/li&gt;
+  &lt;li&gt;Fork the &lt;a href=&quot;http://github.com/mmistakes/minimal-mistakes/&quot;&gt;Minimal Mistakes repo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Clone the repo you just forked to your computer.&lt;/li&gt;
+  &lt;li&gt;Edit &lt;code&gt;_config.yml&lt;/code&gt; to personalize your site.&lt;/li&gt;
+  &lt;li&gt;Check out the sample posts in &lt;code&gt;_posts&lt;/code&gt; to see examples for pulling in large feature images, tags, and other YAML data.&lt;/li&gt;
+  &lt;li&gt;Read the documentation below for further customization pointers and documentation.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;ProTip:&lt;/strong&gt; Delete the &lt;code&gt;gh-pages&lt;/code&gt; branch after cloning and start fresh by branching off &lt;code&gt;master&lt;/code&gt;. There is a bunch of garbage in &lt;code&gt;gh-pages&lt;/code&gt; used for the theme’s demo site that I’m guessing you don’t want on your site.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;setup-for-an-existing-jekyll-site&quot;&gt;Setup for an Existing Jekyll site&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Clone the following folders: &lt;code&gt;_includes&lt;/code&gt;, &lt;code&gt;_layouts&lt;/code&gt;, &lt;code&gt;assets&lt;/code&gt;, and &lt;code&gt;images&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Clone the following files and personalize content as need: &lt;code&gt;about.md&lt;/code&gt;, &lt;code&gt;articles.html&lt;/code&gt;, &lt;code&gt;index.md&lt;/code&gt;, &lt;code&gt;feed.xml&lt;/code&gt;, &lt;code&gt;sitemap.xml&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Set the following variables in your &lt;code&gt;config.yml&lt;/code&gt; file:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;yaml&quot;&gt;&lt;span class=&quot;l-Scalar-Plain&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;            &lt;span class=&quot;l-Scalar-Plain&quot;&gt;Site Title&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;description&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;      &lt;span class=&quot;l-Scalar-Plain&quot;&gt;Describe your website here.&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;disqus_shortname&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;shortname&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;              &lt;span class=&quot;l-Scalar-Plain&quot;&gt;http://your-website.com&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Owner/author information&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;owner&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;           &lt;span class=&quot;l-Scalar-Plain&quot;&gt;Your Name&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;avatar&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;         &lt;span class=&quot;l-Scalar-Plain&quot;&gt;avatar.jpg&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;bio&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;            &lt;span class=&quot;s&quot;&gt;&amp;quot;Your&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;bio&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;goes&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;here.&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;It&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;shouldn&amp;#39;t&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;be&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;long&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;but&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;good&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;two&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;sentences&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;or&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;two&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;should&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;suffice.&amp;quot;&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;          &lt;span class=&quot;l-Scalar-Plain&quot;&gt;you@email.com&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;# Social networking links used in author sidebar. Update and remove as you like.&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;twitter&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;        
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;facebook&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;       
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;github&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;         
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;stackexchange&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;  
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;linkedin&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;       
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;instagram&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;      
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;flickr&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;         
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;tumblr&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;         
+  &lt;span class=&quot;c1&quot;&gt;# For Google Authorship https://plus.google.com/authorship&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;google_plus&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;    
+
+&lt;span class=&quot;c1&quot;&gt;# Analytics and webmaster tools stuff goes here&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;google_analytics&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;   
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;google_verify&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;      
+&lt;span class=&quot;c1&quot;&gt;# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;bing_verify&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;         
+
+&lt;span class=&quot;c1&quot;&gt;# Links to include in top navigation&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;# For external links add external: true&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;links&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;p-Indicator&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;Theme Setup&lt;/span&gt;
+    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;/theme-setup&lt;/span&gt;
+  &lt;span class=&quot;p-Indicator&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;External Link&lt;/span&gt;
+    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;http://mademistakes.com&lt;/span&gt;
+    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;external&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;timezone&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;America/New_York&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;future&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;      &lt;span class=&quot;l-Scalar-Plain&quot;&gt;true&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;pygments&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;true&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;kramdown&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;questions&quot;&gt;Questions?&lt;/h2&gt;
+
+&lt;p&gt;Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter &lt;a href=&quot;http://twitter.com/mmistakes&quot;&gt;@mmistakes&lt;/a&gt; or &lt;a href=&quot;https://github.com/mmistakes/minima-mistakes/issues/new&quot;&gt;file a GitHub Issue&lt;/a&gt;. And if you make something cool with this theme feel free to let me know.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;This theme is free and open source software, distributed under the &lt;a href=&quot;http://mmistakes.github.io/minimal-mistakes/LICENSE&quot;&gt;GNU General Public License&lt;/a&gt; version 2 or later. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. &lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Like this theme?&lt;/strong&gt; I just released another one for Jekyll, with a sweet animated drop down menu, social sharing plugins, and a Grunt build script for theme development. I’m calling it HPSTER Theme and you can &lt;a href=&quot;http://localhost:4000/articles/hpstr-jekyll-theme.html&quot;&gt;learn more about it here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Example: &lt;em&gt;domain.com/category-name/post-title&lt;/em&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/05/minimal-mistakes-jekyll-theme/&quot;&gt;Minimal Mistakes, a Jekyll Theme&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on May 28, 2013.&lt;/p&gt;</content>
+	</entry>
+	
+</feed>
