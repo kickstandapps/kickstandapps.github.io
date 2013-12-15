@@ -16,15 +16,15 @@ share: true
 *WeatherIcons* is a collection of, well, weather icons. I know, the name could use some work. If you think you have a better idea, we'd love to hear it in the comments below.
 
 <figure>
-	<img src="{{ site.url }}/images/WeatherIcons.jpg">
+	<img src="{{ site.baseurl }}/images/WeatherIcons.jpg">
 </figure>
 
 ##Background
-In coming up with our newest app, [NOW Weather]({{% site.url %}}/now-weather/), we found the need for a high quality set of weather icons that fit the look we were going for. As we progressed through development, we realized the benefits of an icon font to allow us to dynamically size the icons. Adam Whitcroft's [*Climacon*](http://adamwhitcroft.com/climacons/) and [font](http://adamwhitcroft.com/climacons/font/) did the job nicely during development.
+In coming up with our newest app, [NOW Weather]({{% site.baseurl %}}/now-weather/), we found the need for a high quality set of weather icons that fit the look we were going for. As we progressed through development, we realized the benefits of an icon font to allow us to dynamically size the icons. Adam Whitcroft's [*Climacon*](http://adamwhitcroft.com/climacons/) and [font](http://adamwhitcroft.com/climacons/font/) did the job nicely during development.
 
 However, after staring at them day after day, and seeing the *Climacons* start to show up just about everywhere (because they really are a fantastic choice), we decided to go a different direction.
 
-So here we present Kickstand App's own *WeatherIcons*. While inspired by the *Climacons*, these icons were developed entirely from scratch to provide an alternative, both for us in [NOW Weather]({{% site.url %}}/now-weather/), as well as for whoever would like to use them in their own project.
+So here we present Kickstand App's own *WeatherIcons*. While inspired by the *Climacons*, these icons were developed entirely from scratch to provide an alternative, both for us in [NOW Weather]({{% site.baseurl %}}/now-weather/), as well as for whoever would like to use them in their own project.
 
 ##Who can use it?
 In short, pretty much anyone, for pretty much any purpose.
@@ -37,7 +37,7 @@ Whether you modify the icons or use them as they are, an attribution would be ap
 The image files can be used just like any other image files. The included fonts have the icons mapped to the alphabet as seen below:
 
 <figure>
-	<img src="{{ site.url }}/images/WeatherIcons-Letters.jpg">
+	<img src="{{ site.baseurl }}/images/WeatherIcons-Letters.jpg">
 </figure>
 
 <div style="text-align: center;"><a target="_blank" class="btn large " href="https://github.com/kickstandapps/WeatherIcons">Get WeatherIcons Here!</a></div>

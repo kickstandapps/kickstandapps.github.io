@@ -21,7 +21,7 @@
 		{% if page.url == post.url %}
 			<strong>{{ post.title }}</strong>
 		{% else %}
-			<a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+			<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 		{% endif %}
 		</li>
 	{% endif %}

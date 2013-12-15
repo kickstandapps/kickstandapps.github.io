@@ -28,7 +28,7 @@ share: true
 </div>
 <div class="one-third last">
   <figure>
-    <img src="{{ site.url }}/images/Now-Forecast.jpg" alt="24-Hour Forecast">
+    <img src="{{ site.baseurl }}/images/Now-Forecast.jpg" alt="24-Hour Forecast">
   </figure>
 </div>  
 

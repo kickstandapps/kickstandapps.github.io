@@ -8,11 +8,11 @@ description: "You've found the about page of Michael Rose&thinsp;&ndash;&thinsp;
 tags: [Michael Rose, design, Buffalo, web design, feature]
 ---
 
-<link rel="stylesheet" href="{{ site.url }}/assets/css/form.min.css">
-<script src="{{ site.url }}/assets/js/vendor/wufoo.js"></script>
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/form.min.css">
+<script src="{{ site.baseurl }}/assets/js/vendor/wufoo.js"></script>
 
 <figure>
-  <img src="{{ site.url }}/images/paperfaces-michael-rose-beard-m.jpg" alt="Michael Rose self portrait">
+  <img src="{{ site.baseurl }}/images/paperfaces-michael-rose-beard-m.jpg" alt="Michael Rose self portrait">
   <figcaption>Self portrait illustrated with the lovely Paper by 53 iPad app.</figcaption>
 </figure>
 
@@ -20,13 +20,13 @@ So why the title *made mistakes*? It vaguely has something to do with that whole
 
 In May of 2004 I purchased mademistakes.com, and threw up a Macromedia Flash splash (hey remember those?) while I worked on building a design portfolio using Movable Type. For the next couple of years I would experiment with various content management systems ([Movable Type](http://www.movabletype.org/) &rarr; [Textpattern](http://textpattern.com/) &rarr; [Wordpress](http://wordpress.org/) &rarr; [Indexhibit](http://www.indexhibit.org/)), developing minimalistic themes and learning what I could about <abbr>HTML</abbr>, <abbr>CSS</abbr>, Javascript, <abbr>PHP</abbr>, and MySQL databases.
 
-I've since decided to go <abbr>CMS</abbr>-free and utilize black magick and [Jekyll](http://jekyllrb.com/) to [manage the site with static text files]({{ site.url }}/articles/going-static.html). I like knowing how things work behind the scenes so hand-coding the layouts and stylesheets is the only way to go. Not being limited by a <abbr>CMS</abbr> is a wonderful thing...
+I've since decided to go <abbr>CMS</abbr>-free and utilize black magick and [Jekyll](http://jekyllrb.com/) to [manage the site with static text files]({{ site.baseurl }}/articles/going-static.html). I like knowing how things work behind the scenes so hand-coding the layouts and stylesheets is the only way to go. Not being limited by a <abbr>CMS</abbr> is a wonderful thing...
 
 ### And Who Are You Again?
 
-Oh hey --- I'm Michael Rose, just another boring, tattooed, time traveling, designer and illustrator working in Buffalo, New York. I'm into drawing [faceless portraits of strangers]({{ site.url }}/articles/paperfaces-ipad-portrait-project.html) on an iPad using [Paper by FiftyThree](http://www.fiftythree.com/paper), movie theater popcorn, [chicken wings done right](http://www.duffswings.com "Duff's Famous Wings"), dust collecting record collections, and over using ellipses and em-dashes.
+Oh hey --- I'm Michael Rose, just another boring, tattooed, time traveling, designer and illustrator working in Buffalo, New York. I'm into drawing [faceless portraits of strangers]({{ site.baseurl }}/articles/paperfaces-ipad-portrait-project.html) on an iPad using [Paper by FiftyThree](http://www.fiftythree.com/paper), movie theater popcorn, [chicken wings done right](http://www.duffswings.com "Duff's Famous Wings"), dust collecting record collections, and over using ellipses and em-dashes.
 
-When I'm not drawing on my iPad, releasing open source [Jekyll themes]({{ site.url }}/tag/jekyll), or [building the next great thing](http://ekowave.com), I work as an inhouse web and print designer for a science education company. On any given day I could be designing product catalogs, marketing collateral, landing pages, email promotions and newsletters, or just getting cozy with <abbr>HTML</abbr>, <abbr>CSS</abbr>, and JavaScript.
+When I'm not drawing on my iPad, releasing open source [Jekyll themes]({{ site.baseurl }}/tag/jekyll), or [building the next great thing](http://ekowave.com), I work as an inhouse web and print designer for a science education company. On any given day I could be designing product catalogs, marketing collateral, landing pages, email promotions and newsletters, or just getting cozy with <abbr>HTML</abbr>, <abbr>CSS</abbr>, and JavaScript.
 
 Oh, and I'm a recent father of twin girls and will someday help redesign [my wife's site](http://2littlerosebuds.com "2 Little Rosebuds")...
 

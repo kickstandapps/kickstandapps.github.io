@@ -22,11 +22,11 @@ Bricks can be quite the monotonous subject to draw because of their repetitive n
 I'm not going to try and explain perspective or how to set a vanishing point because it's beyond the scope of this guide. Instead, the approach I like to take is to sketch lightly with the pencil --- creating guidelines. An easy way to do this is follow along where the cement is between the bricks and sketch your lines there. A photo reference is a big help here.
 
 <figure>
-	<img src="{{ site.url }}/images/paper-53-bricks-guide.jpg" alt="Screenshot of brick guide">
+	<img src="{{ site.baseurl }}/images/paper-53-bricks-guide.jpg" alt="Screenshot of brick guide">
 	<figcaption>Depending on the orientation of your bricks you may end up with guides resembling this.</figcaption>
 </figure>
 
-The color of pencil doesn't really matter, just make it something light (a gray perhaps). A [Pogo Connect]({{ site.url }}/articles/pogo-connect-smart-pen.html) stylus comes in handy allowing you can to produce lighter lines by gently applying pressure as you draw.
+The color of pencil doesn't really matter, just make it something light (a gray perhaps). A [Pogo Connect]({{ site.baseurl }}/articles/pogo-connect-smart-pen.html) stylus comes in handy allowing you can to produce lighter lines by gently applying pressure as you draw.
 
 **ProTip:** An iPad smart cover placed on the screen can be used as a straight edge for drawing lines if you dont have a ruler handy.
 {: .notice}
@@ -34,28 +34,28 @@ The color of pencil doesn't really matter, just make it something light (a gray 
 With a few guidelines placed, use the color mixer to create a base for the bricks. The mixture I decided on was a brown with some red or orange thrown in. Remember to mix a color about 25--50% lighter than what you'd like to end up with. We'll be applying several layers to the bricks --- if you mix it too dark you'll end up with bricks that are almost black and lack dimension.
 
 <figure>
-	<img src="{{ site.url }}/images/paper-53-bricks-brick-base-mix.jpg" alt="Screenshot of rusty brown color">
+	<img src="{{ site.baseurl }}/images/paper-53-bricks-brick-base-mix.jpg" alt="Screenshot of rusty brown color">
 	<figcaption>To determine if you mixed the color light enough, paint a few layers of watercolor to the side and check the results.</figcaption>
 </figure>
 
 When blocking out bricks, I prefer using the watercolor brush versus the marker. Simply put, it leaves you with a jagged edge that's closer to real life. Painting small bricks is next to impossible if you don't have access to a Pogo Connect stylus. Without it you're limited to one brush size, which is quite wide for this sort of detail work.
 
 <figure>
-	<img src="{{ site.url }}/images/paper-53-bricks-comparison.jpg" alt="Screenshot comparing bricks">
+	<img src="{{ site.baseurl }}/images/paper-53-bricks-comparison.jpg" alt="Screenshot comparing bricks">
 	<figcaption>Marker bricks vs. watercolor bricks</figcaption>
 </figure>
 
 As you paint each brick, work a row at a time, using the lines to guide you. For each row, take care to stagger bricks depending on the [bonding pattern](http://en.wikipedia.org/wiki/Brickwork#Load_bearing_brick_bonds) you're going for and avoid stacking them vertically --- doing so will look unnatural.
 
 <figure>
-	<img src="{{ site.url }}/images/paper-53-bricks-watercolor-base.jpg" alt="Screenshot of brick placement painted with the brush">
+	<img src="{{ site.baseurl }}/images/paper-53-bricks-watercolor-base.jpg" alt="Screenshot of brick placement painted with the brush">
 	<figcaption>Example of a <a href="http://en.wikipedia.org/wiki/File:Brickwork_in_stretching_bond.svg">Stretcher bond</a>. Notice how each successive brick is staggered?</figcaption>
 </figure>
 
 Once all the bricks have been laid, err painted --- apply a second coat of watercolor to each. Painting fast and messy will add texture and a more natural look to the bricks.
 
 <figure>
-  <img src="{{ site.url }}/images/paper-53-bricks-watercolor-2.jpg" alt="Screenshot of additional brick layers">
+  <img src="{{ site.baseurl }}/images/paper-53-bricks-watercolor-2.jpg" alt="Screenshot of additional brick layers">
   <figcaption>Layers of watercolor don't need to be exact. Apply until you reach a color of your liking.</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ When coloring the cement between the bricks I usually handle it in three differe
 3. Mix a light gray and use the marker tool to cover the bricks and spaces between them. Unlike the watercolor brush, a gray marker won't mess with the brick color --- unless it's really dark.
 
 <figure>
-  <img src="{{ site.url }}/images/paper-53-bricks-cement-styles.jpg" alt="Screenshot of cement styles">
+  <img src="{{ site.baseurl }}/images/paper-53-bricks-cement-styles.jpg" alt="Screenshot of cement styles">
   <figcaption>Blank cement vs. cement and brick painted with gray</figcaption>
 </figure>
 
@@ -77,24 +77,24 @@ At this point you could call it a day and consider your bricks finished. If you 
 
 Add shadows to each of the bricks. Using a darker mix of the rusty brown from before (or a dark gray), paint in some shadows on the bricks. You don't want to cover the entire brick, just one of the corners depending on where the light is positioned.
 
-![Screenshot of adding shadows to bricks]({{ site.url }}/images/paper-53-bricks-brush-shadows.jpg)
+![Screenshot of adding shadows to bricks]({{ site.baseurl }}/images/paper-53-bricks-brush-shadows.jpg)
 
 Using this same color (possibly with more black mixed in), a stroke of pencil below each brick is used to add small shadows. It can also be used to draw in cracks or add texture to the bricks.
 
-![Screenshot of adding cracks to bricks]({{ site.url }}/images/paper-53-bricks-pencil-shadows.jpg)
+![Screenshot of adding cracks to bricks]({{ site.baseurl }}/images/paper-53-bricks-pencil-shadows.jpg)
 
 I use the same technique but with a light orange color to draw in any brick highlights and accentuate the cracks.
 
 <figure class="half">
-  <img src="{{ site.url }}/images/paper-53-bricks-highlight-mix.jpg" alt="Screenshot of brick highlight color">
-  <img src="{{ site.url }}/images/paper-53-bricks-pencil-highlight.jpg" alt="Screenshot of adding brick highlights">
+  <img src="{{ site.baseurl }}/images/paper-53-bricks-highlight-mix.jpg" alt="Screenshot of brick highlight color">
+  <img src="{{ site.baseurl }}/images/paper-53-bricks-pencil-highlight.jpg" alt="Screenshot of adding brick highlights">
   <figcaption>Drawing subtle highlights on each brich using a light orange color.</figcaption>
 </figure>
 
 To finish off the bricks I'll use a mixture of gray to further refine the spaces between the bricks and correct any shapes I don't like. This step is completely optional and really depends on how crisp you want your edges to look.
 
 <figure>
-  <img src="{{ site.url }}/images/paper-53-bricks-refine-edges.jpg" alt="Screenshot of refining brick edges with gray">
+  <img src="{{ site.baseurl }}/images/paper-53-bricks-refine-edges.jpg" alt="Screenshot of refining brick edges with gray">
   <figcaption>Refine brick edges using the pencil tool and a color that matches the cement.</figcaption>
 </figure>
 
@@ -188,21 +188,21 @@ Depending on the color of this *harmonizing layer*, the highlights and shadows f
 
 ## Variations on a Theme
 
-Using all of these techniques I was able to create a variety of backdrops for the portraits in my [PaperFaces Project]({{ site.url }}/articles/paperfaces-ipad-portrait-project.html). Below are a few finished pieces to show what is possible just by varying the color and composition.
+Using all of these techniques I was able to create a variety of backdrops for the portraits in my [PaperFaces Project]({{ site.baseurl }}/articles/paperfaces-ipad-portrait-project.html). Below are a few finished pieces to show what is possible just by varying the color and composition.
 
 <ul class="recent-grid unstyled-list">
-  <li><a href="{{ site.url }}/paperfaces/rob-jayne-portrait.html"><img src="{{ site.url }}/images/paperfaces-rob-jayne-150.jpg" alt="thumb" /></a></li>
-  <li><a href="{{ site.url }}/paperfaces/padulantonio-portrait.html"><img src="{{ site.url }}/images/paperfaces-padulantonio-twitter-150.jpg" alt="thumb" /></a></li>
-  <li><a href="{{ site.url }}/paperfaces/idpro-portrait.html"><img src="{{ site.url }}/images/paperfaces-idpro-twitter-150.jpg" alt="thumb" /></a></li>
-  <li><a href="{{ site.url }}/paperfaces/imhobson-portrait.html"><img src="{{ site.url }}/images/paperfaces-imhobson-twitter-150.jpg" alt="thumb" /></a></li>  
-  <li><a href="{{ site.url }}/paperfaces/thebrendanbrown-portrait.html"><img src="{{ site.url }}/images/paperfaces-thebrendanbrown-twitter-150.jpg" alt="thumb" /></a></li>  
-  <li><a href="{{ site.url }}/paperfaces/annekoehler-portrait.html"><img src="{{ site.url }}/images/paperfaces-annekoehler-twitter-150.jpg" alt="thumb" /></a></li>
-  <li><a href="{{ site.url }}/paperfaces/seanblezard-portrait.html"><img src="{{ site.url }}/images/paperfaces-seanblezard-twitter-150.jpg" alt="thumb" /></a></li>
-  <li><a href="{{ site.url }}/paperfaces/thatmiddleway-portrait.html"><img src="{{ site.url }}/images/paperfaces-thatmiddleway-twitter-150.jpg" alt="thumb" /></a></li>
-  <li><a href="{{ site.url }}/paperfaces/talksinmath-portrait.html"><img src="{{ site.url }}/images/paperfaces-talksinmath-twitter-150.jpg" alt="thumb" /></a></li>
-  <li><a href="{{ site.url }}/paperfaces/rt44man-portrait.html"><img src="{{ site.url }}/images/paperfaces-rt44man-twitter-150.jpg" alt="thumb" /></a></li>
-  <li><a href="{{ site.url }}/paperfaces/chappers-ma-portrait.html"><img src="{{ site.url }}/images/paperfaces-chappers-ma-twitter-150.jpg" alt="thumb" /></a></li>
-  <li><a href="{{ site.url }}/paperfaces/andrewbrewer-portrait.html"><img src="{{ site.url }}/images/paperfaces-andrewbrewer-twitter-150.jpg" alt="thumb" /></a></li>
+  <li><a href="{{ site.baseurl }}/paperfaces/rob-jayne-portrait.html"><img src="{{ site.baseurl }}/images/paperfaces-rob-jayne-150.jpg" alt="thumb" /></a></li>
+  <li><a href="{{ site.baseurl }}/paperfaces/padulantonio-portrait.html"><img src="{{ site.baseurl }}/images/paperfaces-padulantonio-twitter-150.jpg" alt="thumb" /></a></li>
+  <li><a href="{{ site.baseurl }}/paperfaces/idpro-portrait.html"><img src="{{ site.baseurl }}/images/paperfaces-idpro-twitter-150.jpg" alt="thumb" /></a></li>
+  <li><a href="{{ site.baseurl }}/paperfaces/imhobson-portrait.html"><img src="{{ site.baseurl }}/images/paperfaces-imhobson-twitter-150.jpg" alt="thumb" /></a></li>  
+  <li><a href="{{ site.baseurl }}/paperfaces/thebrendanbrown-portrait.html"><img src="{{ site.baseurl }}/images/paperfaces-thebrendanbrown-twitter-150.jpg" alt="thumb" /></a></li>  
+  <li><a href="{{ site.baseurl }}/paperfaces/annekoehler-portrait.html"><img src="{{ site.baseurl }}/images/paperfaces-annekoehler-twitter-150.jpg" alt="thumb" /></a></li>
+  <li><a href="{{ site.baseurl }}/paperfaces/seanblezard-portrait.html"><img src="{{ site.baseurl }}/images/paperfaces-seanblezard-twitter-150.jpg" alt="thumb" /></a></li>
+  <li><a href="{{ site.baseurl }}/paperfaces/thatmiddleway-portrait.html"><img src="{{ site.baseurl }}/images/paperfaces-thatmiddleway-twitter-150.jpg" alt="thumb" /></a></li>
+  <li><a href="{{ site.baseurl }}/paperfaces/talksinmath-portrait.html"><img src="{{ site.baseurl }}/images/paperfaces-talksinmath-twitter-150.jpg" alt="thumb" /></a></li>
+  <li><a href="{{ site.baseurl }}/paperfaces/rt44man-portrait.html"><img src="{{ site.baseurl }}/images/paperfaces-rt44man-twitter-150.jpg" alt="thumb" /></a></li>
+  <li><a href="{{ site.baseurl }}/paperfaces/chappers-ma-portrait.html"><img src="{{ site.baseurl }}/images/paperfaces-chappers-ma-twitter-150.jpg" alt="thumb" /></a></li>
+  <li><a href="{{ site.baseurl }}/paperfaces/andrewbrewer-portrait.html"><img src="{{ site.baseurl }}/images/paperfaces-andrewbrewer-twitter-150.jpg" alt="thumb" /></a></li>
 </ul>
 
 ## Watch for the Next Tutorial

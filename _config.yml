@@ -4,7 +4,8 @@ description:      "A mobile development company with the simple goal of creating
 logo:             site-logo.png
 disqus_shortname: kickstandapps
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://kickstandapps.github.io/
+url:              http://kickstandapps.github.io
+baseurl:          ""
 
 # Owner/author information
 authors:

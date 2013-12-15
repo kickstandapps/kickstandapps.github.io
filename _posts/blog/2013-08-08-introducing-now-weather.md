@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-Today, I'm happy to introduce our newest app, [NOW Weather]({{% site.url %}}/now-weather/), a beautiful app showing all the weather information you care about, at a glance.
+Today, I'm happy to introduce our newest app, [NOW Weather]({{% site.baseurl %}}/now-weather/), a beautiful app showing all the weather information you care about, at a glance.
 
 I know, I know... there's about a billion weather apps already available for iPhones. What makes this one so different?
 
@@ -24,4 +24,4 @@ NOW Weather is the answer to these two alternatives. It makes the information ex
 
 But along with that, you'll have whatever other information you want as well. Hourly forecasts show the chance of precipitation and projected snow accumulations. You can see the weather at any location on Earth. And soon you'll be able to get more detail about the weather right now (wind, humidity, etc.) as well as the weather for the days ahead.
 
-[NOW Weather]({{% site.url %}}/now-weather/) is exactly what you are looking for in a weather app. Give it a shot to replace your current weather app, and you won't look back.
+[NOW Weather]({{% site.baseurl %}}/now-weather/) is exactly what you are looking for in a weather app. Give it a shot to replace your current weather app, and you won't look back.

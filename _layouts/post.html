@@ -6,7 +6,7 @@
 
 	<div id="main" role="main" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
 		<article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-			{% if page.image.feature %}<header class="entry-image" style="background-image:url({{ site.url }}/images/{{ page.image.feature }});background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ page.title }}">{% else %}<header class="entry-image" style="background-image:url({{ site.url }}/images/default-post-image.jpg);background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ page.title }}"><!-- /.entry-image -->{% endif %}
+			{% if page.image.feature %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/{{ page.image.feature }});background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ page.title }}">{% else %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/default-post-image.jpg);background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ page.title }}"><!-- /.entry-image -->{% endif %}
 			<div class="entry-header">
 				{% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
 				<h1 class="entry-title" itemprop="name">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
@@ -27,17 +27,17 @@
 				<br />
 				<div class="share-div">
 					<p style="text-align:center;">Share This!</p>
-					<a class="facebook share" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank">
-						<img src="{{ site.url }}/images/facebook@2x.png">
+					<a class="facebook share" href="https://www.facebook.com/sharer/sharer.php?u={{ site.baseurl }}{{ page.url }}" target="_blank">
+						<img src="{{ site.baseurl }}/images/facebook@2x.png">
 					</a>
-					<a class="twitter share" href="http://twitter.com/intent/tweet?text=&amp;url={{ site.url }}{{ page.url }}" target="_blank">
-						<img src="{{ site.url }}/images/twitter@2x.png">
+					<a class="twitter share" href="http://twitter.com/intent/tweet?text=&amp;url={{ site.baseurl }}{{ page.url }}" target="_blank">
+						<img src="{{ site.baseurl }}/images/twitter@2x.png">
 					</a>
-					<a class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url={{ site.url }}{{ page.url }}&amp;summary=" target="_blank">
-						<img src="{{ site.url }}/images/linkedin@2x.png">
+					<a class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url={{ site.baseurl }}{{ page.url }}&amp;summary=" target="_blank">
+						<img src="{{ site.baseurl }}/images/linkedin@2x.png">
 					</a>
-					<a class="google share" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank">
-						<img src="{{ site.url }}/images/google@2x.png">
+					<a class="google share" href="https://plus.google.com/share?url={{ site.baseurl }}{{ page.url }}" target="_blank">
+						<img src="{{ site.baseurl }}/images/google@2x.png">
 					</a>
 				</div>
 				<br />
@@ -50,14 +50,14 @@
 				<br />
 				<div class="entry-meta"> 
 					<div class="half">
-						<a href="{{ author.web }}"><img src="{{ site.url }}/images/{{ author.avatar }}" alt="{{ author.name }} photo" class="author-photo" width="30" height="30"></a>
+						<a href="{{ author.web }}"><img src="{{ site.baseurl }}/images/{{ author.avatar }}" alt="{{ author.name }} photo" class="author-photo" width="30" height="30"></a>
 						<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">Written by <span itemprop="name" class="fn"><a href="{{ author.web }}" title="About {{ author.name }}" itemprop="url"><strong>{{ author.name }}</strong></a></span></span>
 						<p class="bio">{{ author.bio }}</p>
 					</div>
 					<div class="half last">
 						<span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">Published on {{ page.date | date: "%B" }} {{ page.date | date: "%d" | plus:'0' }}, {{ page.date | date: "%Y" }}</time></span><br />
 						{% if page.modified %}<span class="entry-date date updated">(Updated on <time datetime="{{ page.modified }}" itemprop="dateModified">{{ page.modified | date: "%B" }} {{ page.modified | date: "%d" | plus:'0' }}, {{ page.modified | date: "%Y" }}</time>)</span>{% endif %}
-						<span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tag/{{ tag | replace:' ','-' | downcase }}" title="{{ tag }}" class="tag" rel="tag">{{ tag }}</a>{% endfor %}</span>
+						<span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.baseurl }}/tag/{{ tag | replace:' ','-' | downcase }}" title="{{ tag }}" class="tag" rel="tag">{{ tag }}</a>{% endfor %}</span>
 					</div>
 				</div><!-- /.entry-meta -->
 				<br />

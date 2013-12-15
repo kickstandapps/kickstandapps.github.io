@@ -3,42 +3,42 @@
 	<title type="text">Kickstand Apps</title>
 	<subtitle type="html">Design Faux Pas</subtitle>
 	<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-	<icon>http://localhost:4000/images/apple-touch-icon-114x114-precomposed.png</icon>
-	<link rel="alternate" type="text/html" href="http://localhost:4000" />
-	<updated>2013-12-12T22:46:12-06:00</updated>
-	<id>http://localhost:4000/</id>
+	<icon>/images/apple-touch-icon-114x114-precomposed.png</icon>
+	<link rel="alternate" type="text/html" href="" />
+	<updated>2013-12-14T22:15:02-06:00</updated>
+	<id>/</id>
 	<author>
 		<name>Travis Zehren</name>
-		<uri>http://localhost:4000/</uri>
+		<uri>/</uri>
 		<email>tzehren@kickstandapps.com</email>
 	</author>
 	<rights>Unless otherwise noted, all content is published under a Creative Commons Attribution-Noncommercial-NoDerivs 3.0 United States License.</rights>
-	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="http://localhost:4000/atom.xml" />
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="/atom.xml" />
 	
 	<entry>
 		<title type="html"><![CDATA[One Week Later]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/09/one-week-later/" />
-		<id>http://localhost:4000/2013/09/one-week-later</id>
+		<link rel="alternate" type="text/html" href="/2013/09/one-week-later/" />
+		<id>/2013/09/one-week-later</id>
 		<published>2013-09-04T00:00:00-05:00</published>
 		<updated>2013-09-04T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri>http://localhost:4000</uri>
+			<uri></uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;http://localhost:4000/images/paper-53-blend-first-look-feature.jpg&quot; alt=&quot;One Week Later page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Last Wednesday I released &lt;a href=&quot;http://localhost:4000/now-weather/&quot;&gt;NOW Weather&lt;/a&gt;. It has been an interesting seven days since then. This is the first time that I’ve really tried to get an audience to see what I’ve been working on. This post will just detail a few of the things I tried, and the results I’ve seen.&lt;/p&gt;
+		<content type="html">&lt;img src=&quot;/images/paper-53-blend-first-look-feature.jpg&quot; alt=&quot;One Week Later page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Last Wednesday I released &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt;. It has been an interesting seven days since then. This is the first time that I’ve really tried to get an audience to see what I’ve been working on. This post will just detail a few of the things I tried, and the results I’ve seen.&lt;/p&gt;
 
 &lt;h2 id=&quot;what-we-tried&quot;&gt;What we tried&lt;/h2&gt;
 &lt;p&gt;Up until now, the only places I’ve posted links have been social networks. This hasn’t generated a lot of response. Makes sense though. As of writing this we have only one follower on Twitter, eight followers on Facebook, and just about nothing to speak of on LinkedIn and Google+.&lt;/p&gt;
 
-&lt;p&gt;So, it seemed like it was time to try something new. I decided about a month ago that I was going to try to do better at promoting the launch of NOW Weather than I did promoting &lt;a href=&quot;http://localhost:4000/tock/&quot;&gt;Tock&lt;/a&gt; when it launched last year. So I set up a &lt;a href=&quot;http://localhost:4000/now-weather/&quot;&gt;landing page&lt;/a&gt; with some promotional images, some details, and an email subscription. Then I wrote up a &lt;a href=&quot;http://localhost:4000&quot;&gt;blog post&lt;/a&gt;/2013/08/introducing-now-weather/)introducing the app. I posted the link to the standard social networks, but I also tried submitting the link to &lt;a href=&quot;https://news.ycombinator.com/&quot;&gt;Hacker News&lt;/a&gt;. If you’re not familiar with Hacker News, it’s just a community of people interested in new technology, design, and startups. Anyone can submit a link, and it gets voted up by readers. If you get enough votes, you make the front page of the site and have your link seen by thousands of people.&lt;/p&gt;
+&lt;p&gt;So, it seemed like it was time to try something new. I decided about a month ago that I was going to try to do better at promoting the launch of NOW Weather than I did promoting &lt;a href=&quot;/tock/&quot;&gt;Tock&lt;/a&gt; when it launched last year. So I set up a &lt;a href=&quot;/now-weather/&quot;&gt;landing page&lt;/a&gt; with some promotional images, some details, and an email subscription. Then I wrote up a &lt;a href=&quot;&quot;&gt;blog post&lt;/a&gt;/2013/08/introducing-now-weather/)introducing the app. I posted the link to the standard social networks, but I also tried submitting the link to &lt;a href=&quot;https://news.ycombinator.com/&quot;&gt;Hacker News&lt;/a&gt;. If you’re not familiar with Hacker News, it’s just a community of people interested in new technology, design, and startups. Anyone can submit a link, and it gets voted up by readers. If you get enough votes, you make the front page of the site and have your link seen by thousands of people.&lt;/p&gt;
 
 &lt;p&gt;However, this first try didn’t get seen by thousands of people. Over the next few days, the site got about 88 page views. Not exactly setting the world on fire. Even worse, not a single person subscribed for updates. Oh well.&lt;/p&gt;
 
-&lt;p&gt;So we went ahead with getting the app ready for launch, submitting it to Apple, and having it approved. So I figured I’d give this all another shot on launch day. I wrote up another &lt;a href=&quot;http://localhost:4000&quot;&gt;blog post&lt;/a&gt;/2013/08/introducing-now-weather/). I posted it to those same old social networks. I also posted it to the &lt;a href=&quot;http://www.reddit.com/r/SideProject/&quot;&gt;Side Project subreddit&lt;/a&gt; hoping for some interest from an audience looking for these types of projects. Finally I posted again to Hacker News.&lt;/p&gt;
+&lt;p&gt;So we went ahead with getting the app ready for launch, submitting it to Apple, and having it approved. So I figured I’d give this all another shot on launch day. I wrote up another &lt;a href=&quot;&quot;&gt;blog post&lt;/a&gt;/2013/08/introducing-now-weather/). I posted it to those same old social networks. I also posted it to the &lt;a href=&quot;http://www.reddit.com/r/SideProject/&quot;&gt;Side Project subreddit&lt;/a&gt; hoping for some interest from an audience looking for these types of projects. Finally I posted again to Hacker News.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/LaunchDay.png&quot; /&gt;
+	&lt;img src=&quot;/images/LaunchDay.png&quot; /&gt;
 	&lt;figcaption&gt;Not necessarily setting the world on fire, but I was pretty pleased with the number of page views on launch day.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -49,7 +49,7 @@
 
 &lt;p&gt;In a word, no.&lt;/p&gt;
 
-&lt;p&gt;But for us, we still did pretty well. At least in comparison to app sales for &lt;a href=&quot;http://localhost:4000/tock/&quot;&gt;Tock&lt;/a&gt;. We managed 18 apps sold on launch day. Followed by days of 9 and 4 before settling at about one per day. We’ve also managed a few sales of Tock as well. So not a terrible first week, at least by our expectations.&lt;/p&gt;
+&lt;p&gt;But for us, we still did pretty well. At least in comparison to app sales for &lt;a href=&quot;/tock/&quot;&gt;Tock&lt;/a&gt;. We managed 18 apps sold on launch day. Followed by days of 9 and 4 before settling at about one per day. We’ve also managed a few sales of Tock as well. So not a terrible first week, at least by our expectations.&lt;/p&gt;
 
 &lt;h2 id=&quot;what-we-learned&quot;&gt;What we learned&lt;/h2&gt;
 &lt;p&gt;But, just because I’m not a millionaire over night doesn’t mean I didn’t learn something from the experience. I got a large number of people interested enough to get to our site. Some of them even poked around for a while. However, we just weren’t able to turn those visitors into customers.&lt;/p&gt;
@@ -63,21 +63,21 @@
 
 &lt;p&gt;If you are interested in buying NOW Weather, it is &lt;a href=&quot;https://itunes.apple.com/us/app/now-weather/id623127009?ls=1&amp;amp;mt=8&quot;&gt;for sale&lt;/a&gt; in the App Store for $1.99&lt;/p&gt;
 
-		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/09/one-week-later/&quot;&gt;One Week Later&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on September 04, 2013.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;/2013/09/one-week-later/&quot;&gt;One Week Later&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on September 04, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[NOW Weather, Just&nbsp;Released!]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/08/now-weather-just-released/" />
-		<id>http://localhost:4000/2013/08/now-weather-just-released</id>
+		<link rel="alternate" type="text/html" href="/2013/08/now-weather-just-released/" />
+		<id>/2013/08/now-weather-just-released</id>
 		<published>2013-08-28T00:00:00-05:00</published>
 		<updated>2013-08-28T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri>http://localhost:4000</uri>
+			<uri></uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;http://localhost:4000/images/NowLaunch.jpg&quot; alt=&quot;NOW Weather, Just&nbsp;Released! page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Great news! &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt; has just been released and can be &lt;a href=&quot;https://itunes.apple.com/us/app/now-weather/id623127009?ls=1&amp;amp;mt=8&quot;&gt;downloaded in the App Store!&lt;/a&gt;&lt;/p&gt;
+		<content type="html">&lt;img src=&quot;/images/NowLaunch.jpg&quot; alt=&quot;NOW Weather, Just&nbsp;Released! page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Great news! &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt; has just been released and can be &lt;a href=&quot;https://itunes.apple.com/us/app/now-weather/id623127009?ls=1&amp;amp;mt=8&quot;&gt;downloaded in the App Store!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you don’t already know, NOW Weather is a beautiful app showing all the weather information you care about, at a glance.&lt;/p&gt;
 
@@ -92,21 +92,21 @@
 	&lt;h2&gt;Get NOW Weather in the App&amp;nbsp;Store! Just&amp;nbsp;$1.99!&lt;/h2&gt;
 &lt;/div&gt;
 
-		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/08/now-weather-just-released/&quot;&gt;NOW Weather, Just&nbsp;Released!&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on August 28, 2013.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;/2013/08/now-weather-just-released/&quot;&gt;NOW Weather, Just&nbsp;Released!&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on August 28, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[NOW Weather - for iPhone and iPod Touch]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/now-weather/" />
-		<id>http://localhost:4000/now-weather</id>
+		<link rel="alternate" type="text/html" href="/now-weather/" />
+		<id>/now-weather</id>
 		<published>2013-08-27T00:00:00-05:00</published>
 		<updated>2013-08-27T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri>http://localhost:4000</uri>
+			<uri></uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;http://localhost:4000/images/Now.jpg&quot; alt=&quot;NOW Weather - for iPhone and iPod Touch page image&quot;&gt;&lt;br/&gt;&lt;div class=&quot;two-third&quot; style=&quot;margin-bottom: 50px&quot;&gt;
+		<content type="html">&lt;img src=&quot;/images/Now.jpg&quot; alt=&quot;NOW Weather - for iPhone and iPod Touch page image&quot;&gt;&lt;br/&gt;&lt;div class=&quot;two-third&quot; style=&quot;margin-bottom: 50px&quot;&gt;
   &lt;h1&gt;Weather at a Glance&lt;/h1&gt;
   &lt;p&gt;Colorful gradients indicate the upcoming temperature and condition. That makes it even easier to see what’s coming.&lt;/p&gt;
   &lt;br /&gt;
@@ -115,7 +115,7 @@
 &lt;/div&gt;
 &lt;div class=&quot;one-third last&quot;&gt;
   &lt;figure&gt;
-    &lt;img src=&quot;http://localhost:4000/images/Now-Forecast.jpg&quot; alt=&quot;24-Hour Forecast&quot; /&gt;
+    &lt;img src=&quot;/images/Now-Forecast.jpg&quot; alt=&quot;24-Hour Forecast&quot; /&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
 
@@ -132,26 +132,26 @@
   &lt;p&gt;Just swipe down to change your location or units. You can also share NOW Weather with your social networks.&lt;/p&gt;
 &lt;/div&gt;
 
-		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/now-weather/&quot;&gt;NOW Weather - for iPhone and iPod Touch&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on August 27, 2013.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather - for iPhone and iPod Touch&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on August 27, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[Relic Scout]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/relic-scout/" />
-		<id>http://localhost:4000/relic-scout</id>
+		<link rel="alternate" type="text/html" href="/relic-scout/" />
+		<id>/relic-scout</id>
 		<published>2013-08-25T00:00:00-05:00</published>
 		<updated>2013-08-25T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri>http://localhost:4000</uri>
+			<uri></uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;http://localhost:4000/images/relic-scout-home-feature.gif&quot; alt=&quot;Relic Scout page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Eko Wave, a company started by &lt;a href=&quot;http://twitter.com/endonend&quot;&gt;two&lt;/a&gt; &lt;a href=&quot;http://twitter.com/bjpmba&quot;&gt;pals&lt;/a&gt; and myself, just took the wraps off our first app — &lt;a href=&quot;http://relicscout.com&quot;&gt;&lt;strong&gt;Relic Scout&lt;/strong&gt;&lt;/a&gt;. Last week we launched a teaser site and couldn’t be prouder of the work that we’ve done so far.&lt;/p&gt;
+		<content type="html">&lt;img src=&quot;/images/relic-scout-home-feature.gif&quot; alt=&quot;Relic Scout page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Eko Wave, a company started by &lt;a href=&quot;http://twitter.com/endonend&quot;&gt;two&lt;/a&gt; &lt;a href=&quot;http://twitter.com/bjpmba&quot;&gt;pals&lt;/a&gt; and myself, just took the wraps off our first app — &lt;a href=&quot;http://relicscout.com&quot;&gt;&lt;strong&gt;Relic Scout&lt;/strong&gt;&lt;/a&gt;. Last week we launched a teaser site and couldn’t be prouder of the work that we’ve done so far.&lt;/p&gt;
 
 &lt;p&gt;I had a lot of fun creating the 8bit pixel art and applying a parallax effect to it using the &lt;a href=&quot;https://github.com/cameronmcefee/plax&quot;&gt;jQuery plugin Plax&lt;/a&gt;. If you collect sports cards, magic cards, coins, or comics, you really should check it out.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/relic-scout-browser-750.jpg&quot; alt=&quot;Relic Scout homepage screenshot&quot; /&gt;
+	&lt;img src=&quot;/images/relic-scout-browser-750.jpg&quot; alt=&quot;Relic Scout homepage screenshot&quot; /&gt;
 	&lt;figcaption&gt;Relic Scout homepage&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -159,21 +159,21 @@
 
 &lt;p&gt;&lt;em&gt;PS: I hid some fun things in the site design, let me know if you find them. :-)&lt;/em&gt;&lt;/p&gt;
 
-		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/relic-scout/&quot;&gt;Relic Scout&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on August 25, 2013.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;/relic-scout/&quot;&gt;Relic Scout&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on August 25, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[Introducing NOW&nbsp;Weather!]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/08/introducing-now-weather/" />
-		<id>http://localhost:4000/2013/08/introducing-now-weather</id>
+		<link rel="alternate" type="text/html" href="/2013/08/introducing-now-weather/" />
+		<id>/2013/08/introducing-now-weather</id>
 		<published>2013-08-08T00:00:00-05:00</published>
 		<updated>2013-08-08T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri>http://localhost:4000</uri>
+			<uri></uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;http://localhost:4000/images/NowLaunch.jpg&quot; alt=&quot;Introducing NOW&nbsp;Weather! page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Today, I’m happy to introduce our newest app, &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt;, a beautiful app showing all the weather information you care about, at a glance.&lt;/p&gt;
+		<content type="html">&lt;img src=&quot;/images/NowLaunch.jpg&quot; alt=&quot;Introducing NOW&nbsp;Weather! page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Today, I’m happy to introduce our newest app, &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt;, a beautiful app showing all the weather information you care about, at a glance.&lt;/p&gt;
 
 &lt;p&gt;I know, I know… there’s about a billion weather apps already available for iPhones. What makes this one so different?&lt;/p&gt;
 
@@ -187,25 +187,25 @@
 
 &lt;p&gt;&lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt; is exactly what you are looking for in a weather app. Give it a shot to replace your current weather app, and you won’t look back.&lt;/p&gt;
 
-		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/08/introducing-now-weather/&quot;&gt;Introducing NOW&nbsp;Weather!&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on August 08, 2013.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;/2013/08/introducing-now-weather/&quot;&gt;Introducing NOW&nbsp;Weather!&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on August 08, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[WeatherIcons]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/08/weathericons/" />
-		<id>http://localhost:4000/2013/08/weathericons</id>
+		<link rel="alternate" type="text/html" href="/2013/08/weathericons/" />
+		<id>/2013/08/weathericons</id>
 		<published>2013-08-05T00:00:00-05:00</published>
 		<updated>2013-08-05T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri>http://localhost:4000</uri>
+			<uri></uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;http://localhost:4000/images/weatherIconHead.jpg&quot; alt=&quot;WeatherIcons page image&quot;&gt;&lt;br/&gt;&lt;h2 id=&quot;what-is-weathericons&quot;&gt;What is WeatherIcons?&lt;/h2&gt;
+		<content type="html">&lt;img src=&quot;/images/weatherIconHead.jpg&quot; alt=&quot;WeatherIcons page image&quot;&gt;&lt;br/&gt;&lt;h2 id=&quot;what-is-weathericons&quot;&gt;What is WeatherIcons?&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;WeatherIcons&lt;/em&gt; is a collection of, well, weather icons. I know, the name could use some work. If you think you have a better idea, we’d love to hear it in the comments below.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/WeatherIcons.jpg&quot; /&gt;
+	&lt;img src=&quot;/images/WeatherIcons.jpg&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
@@ -226,28 +226,28 @@
 &lt;p&gt;The image files can be used just like any other image files. The included fonts have the icons mapped to the alphabet as seen below:&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/WeatherIcons-Letters.jpg&quot; /&gt;
+	&lt;img src=&quot;/images/WeatherIcons-Letters.jpg&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;div style=&quot;text-align: center;&quot;&gt;&lt;a target=&quot;_blank&quot; class=&quot;btn large &quot; href=&quot;https://github.com/kickstandapps/WeatherIcons&quot;&gt;Get WeatherIcons Here!&lt;/a&gt;&lt;/div&gt;
 
-		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/08/weathericons/&quot;&gt;WeatherIcons&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;/2013/08/weathericons/&quot;&gt;WeatherIcons&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[Mastering Paper by 53: Introduction and Tool Guide]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/07/paper-53-introduction/" />
-		<id>http://localhost:4000/2013/07/paper-53-introduction</id>
+		<link rel="alternate" type="text/html" href="/2013/07/paper-53-introduction/" />
+		<id>/2013/07/paper-53-introduction</id>
 		<published>2013-07-31T00:00:00-05:00</published>
 		<updated>2013-07-31T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri>http://localhost:4000</uri>
+			<uri></uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;http://localhost:4000/images/paper-53-expanded-guide-feature.jpg&quot; alt=&quot;Mastering Paper by 53: Introduction and Tool Guide page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Paper by 53 and me were BFFs from the start. Spread across my journals you’d find around 600 pages with creation times ranging from 30 minutes to 4 hours. A conservative estimate has me logged at around 500 hours of drawing and painting in this iOS app — which is kind of crazy when I think about it. I’m not sure if that qualifies me as a good teacher or not, but I’m going to try and expand on some tips and techniques I’ve previously written about in this multi-part series.&lt;/p&gt;
+		<content type="html">&lt;img src=&quot;/images/paper-53-expanded-guide-feature.jpg&quot; alt=&quot;Mastering Paper by 53: Introduction and Tool Guide page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Paper by 53 and me were BFFs from the start. Spread across my journals you’d find around 600 pages with creation times ranging from 30 minutes to 4 hours. A conservative estimate has me logged at around 500 hours of drawing and painting in this iOS app — which is kind of crazy when I think about it. I’m not sure if that qualifies me as a good teacher or not, but I’m going to try and expand on some tips and techniques I’ve previously written about in this multi-part series.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-journals.jpg&quot; alt=&quot;Paper 53 journals screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paper-53-journals.jpg&quot; alt=&quot;Paper 53 journals screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In this first part you’ll learn about the benefits of a stylus, how all of the Paper by 53 tools work, and basic gestures you’ll want to master. Parts 2 and 3 will dig deeper into techniques for realistic drawing, advanced features, making Paper by 53 videos, and how to get featured in the &lt;em&gt;Made With Paper&lt;/em&gt; gallery.&lt;/p&gt;
 
@@ -255,13 +255,13 @@
 
 &lt;p&gt;Finger painting with Paper can yield some impressive results, but may feel unnatural if you’re used to drawing with pens and pencils. If you decide to go with a capacitive stylus be aware that it won’t match the precision of a traditional pen because of the fat and rubbery tip.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/adonit-jot-classic-tip.jpg&quot; alt=&quot;Adonit Jot Classic&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/adonit-jot-classic-tip.jpg&quot; alt=&quot;Adonit Jot Classic&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;ProTip:&lt;/strong&gt; For those craving precision I’d suggest trying one of the many &lt;a href=&quot;http://www.amazon.com/gp/product/B00931K1QK/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00931K1QK&amp;amp;linkCode=as2&amp;amp;tag=mademist-20&quot;&gt;&lt;strong&gt;Adonit Jot&lt;/strong&gt;&lt;/a&gt; styli. The tips on these bad boys have clear plastic tips that can pivot and tilt allowing you to see exactly where you are on the iPad’s screen.&lt;/p&gt;
 
-&lt;p&gt;Going one step further are styli built with pressure sensitivity in the tip that can alter the characteristics of a mark depending on how hard you press on it. Paper by 53 supports Ten One Design’s &lt;strong&gt;Pogo Connect Smart Pen&lt;/strong&gt; out of the box, and has quickly become my go to stylus when creating on iPad. To learn more about how it became a favorite, check out my &lt;a href=&quot;http://localhost:4000/articles/pogo-connect-smart-pen.html&quot; title=&quot;My Pogo Connect Smart Pen Review&quot;&gt;image filled review&lt;/a&gt; here.&lt;/p&gt;
+&lt;p&gt;Going one step further are styli built with pressure sensitivity in the tip that can alter the characteristics of a mark depending on how hard you press on it. Paper by 53 supports Ten One Design’s &lt;strong&gt;Pogo Connect Smart Pen&lt;/strong&gt; out of the box, and has quickly become my go to stylus when creating on iPad. To learn more about how it became a favorite, check out my &lt;a href=&quot;/articles/pogo-connect-smart-pen.html&quot; title=&quot;My Pogo Connect Smart Pen Review&quot;&gt;image filled review&lt;/a&gt; here.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-the-tools.jpg&quot; alt=&quot;Paper by 53 tools screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paper-53-the-tools.jpg&quot; alt=&quot;Paper by 53 tools screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-tools-and-how-they-behave&quot;&gt;The Tools and How they Behave&lt;/h2&gt;
 
@@ -280,7 +280,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 
 &lt;p&gt;For handling cleanup duty, the eraser is very effective at defining edges and making them straight. By simply running it along an edge you can remove jaggies left by a pencil or watercolor stroke.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-erased-edge.jpg&quot; alt=&quot;Erased edge screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paper-53-erased-edge.jpg&quot; alt=&quot;Erased edge screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; Slow = thin. Fast = thick.&lt;/li&gt;
@@ -288,17 +288,17 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
   &lt;li&gt;&lt;strong&gt;Sensitivity:&lt;/strong&gt; Soft = thin. Hard = thick.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-eraser-thick-thin.jpg&quot; alt=&quot;Eraser line showing thin to thick&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paper-53-eraser-thick-thin.jpg&quot; alt=&quot;Eraser line showing thin to thick&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;fountain-pen&quot;&gt;Fountain pen (Draw)&lt;/h3&gt;
 
 &lt;p&gt;Along with the eraser, the fountain pen is included for free when you download Paper by FiftyThree from the App Store. This was the tool I originally used the most when experimenting with Paper a year ago. It’s hard not to fall in love with the flowing lines it makes when sliding your fingertips across the iPad’s glass screen.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-fountain-pen-layers.jpg&quot; alt=&quot;Fountain pen shapes to show the tool&#39;s opacity&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paper-53-fountain-pen-layers.jpg&quot; alt=&quot;Fountain pen shapes to show the tool&#39;s opacity&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;My drawing style has evolved over the year from crisp line work to soft blended edges and tones. Because of this shift the fountain pen sees less usage and has been demoted to janitorial status like the eraser. Perfect for getting into tight places it also works well when coloring large blocks of color.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-background-fill.jpg&quot; alt=&quot;Background fill cover-up screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paper-53-background-fill.jpg&quot; alt=&quot;Background fill cover-up screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;ProTip 1:&lt;/strong&gt; The eraser removes everything — including a background filled with color. A fountain pen filled with color that matches the background can be used instead of the eraser to correct mistakes.&lt;/p&gt;
 
@@ -312,7 +312,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 
 &lt;p&gt;Versatile and perfect in almost any situation — this is the one tool you should invest time in learning. The marks it makes resemble a traditional 2B pencil leaving behind a texture perfect for shading. The pencil also works great for lightly sketching to nail your composition before painting.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-pencil-sketch.jpg&quot; alt=&quot;Pencil sketch screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paper-53-pencil-sketch.jpg&quot; alt=&quot;Pencil sketch screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Shading power is amplified immensely when used with a fancy Bluetooth stylus with pressure sensitivity. If you’ve used a pencil in real life to draw you already know how to use this digital incarnation — making it one of the most precise and forgivable tools in Paper’s toolbox. &lt;/p&gt;
 
@@ -326,18 +326,18 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 
 &lt;p&gt;Unlike the fountain pen, the marker makes transparent marks you can see through. To make sense of the marker I pretend it’s one of those neon yellow highlighters. If you drew yellow over black it wouldn’t show up, the same is true in Paper.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-marker-yellow-layers.jpg&quot; alt=&quot;Layers of marker acting like a highlighter screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paper-53-marker-yellow-layers.jpg&quot; alt=&quot;Layers of marker acting like a highlighter screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The exception to this rule is when the marker is filled with white. In this case it would act almost identically to the eraser but instead of an off-white color it makes a pure white. &lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/paper-53-eraser-vs-marker.jpg&quot; alt=&quot;Eraser vs. marker lines screenshot&quot; /&gt;
+	&lt;img src=&quot;/images/paper-53-eraser-vs-marker.jpg&quot; alt=&quot;Eraser vs. marker lines screenshot&quot; /&gt;
 	&lt;figcaption&gt;If you look closely you can spot the slight difference in color.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;When sharp shadows and values are desired in your illustrations, the marker tool is A+++. I tend to work more photo-realistic, but if you want that cartoon or comic book look the marker might be for you.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-eraser-sharp-edge.jpg&quot; alt=&quot;Comic book style shading with marker screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paper-53-eraser-sharp-edge.jpg&quot; alt=&quot;Comic book style shading with marker screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; Slow = thick. Fast = thin.&lt;/li&gt;
@@ -349,7 +349,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 
 &lt;p&gt;Like the name implies the ink pen behaves most closely to a roller-ball pen. If you look closely at the lines it creates you’ll notice heavier spots where a stop or start occurs. Even lines can be achieved by moving quickly throughout the entire stroke.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-ink-pen-lines.jpg&quot; alt=&quot;Ink pen start and end points screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paper-53-ink-pen-lines.jpg&quot; alt=&quot;Ink pen start and end points screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If you found the fountain pen’s thick/thins undesirable or hard to control the ink pen might be a better choice. The ink pen has less variation in line-width making it a perfect choice for writing or doing detail work. &lt;/p&gt;
 
@@ -369,13 +369,13 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 
 &lt;p&gt;It helps to think of your stylus tip as a brush loaded with watered down paint. Because the paint has been thinned it won’t be as intense or saturated as the color from one of the pens. Instead you need to build up color with multiple layers.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-watercolor-even-fill.jpg&quot; alt=&quot;Choppy painting vs. consistent painting screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paper-53-watercolor-even-fill.jpg&quot; alt=&quot;Choppy painting vs. consistent painting screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This “thinned out” behavior also factors into how even of a coat you can apply. &lt;em&gt;Moving the brush faster&lt;/em&gt; doesn’t let the paint fully cover a spot and will make it appear choppy. While &lt;em&gt;moving slowly&lt;/em&gt; allows the paint to flow evenly off the brush and build into a dark even value. Mastering the speed at which you apply color is essential to creating even tones and shading.&lt;/p&gt;
 
 &lt;p&gt;It may be helpful to create a few color scales with the primary colors, gray, and black to practice. Below are watercolor tests I created for myself after FiftyThree updated Paper to include the Color Mixer tool.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-watercolor-layers.jpg&quot; alt=&quot;Gradations created with the watercolor brush&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paper-53-watercolor-layers.jpg&quot; alt=&quot;Gradations created with the watercolor brush&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;ProTip:&lt;/strong&gt; When loaded with white the watercolor brush can become a way to lighten areas you’ve previously painted or drawn. Just keep in mind that white paint doesn’t behave like other colors and can be difficult to master. If you paint too slowly it will remove most of the color and leave you with bright white spots. More detail on this technique in Part 2…&lt;/p&gt;
 
@@ -384,7 +384,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 &lt;p&gt;Before the Color Mixer existed, you had to get creative if you wanted a color other than the nine Paper shipped with. By mixing these colors directly on canvas you could make other colors. Some colors worked great with this technique while others turned to mud if too many layers were applied.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/paper-53-watercolor-primary-secondary.jpg&quot; alt=&quot;Mixing primary colors mixes with watercolor screenshot&quot; /&gt;
+	&lt;img src=&quot;/images/paper-53-watercolor-primary-secondary.jpg&quot; alt=&quot;Mixing primary colors mixes with watercolor screenshot&quot; /&gt;
 	&lt;figcaption&gt;First row: mixing colors on directly on canvas. Second row: mixing colors with the Color Mixer.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -392,7 +392,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 
 &lt;p&gt;For those who need more control or want a traditional color picker — one can be accessed by dragging a color swatch onto the mixing wheel, then tapping on it. From here you can adjust a color’s hue, saturation, and luminosity.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-color-picker-slider.jpg&quot; alt=&quot;Color picker sliders screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paper-53-color-picker-slider.jpg&quot; alt=&quot;Color picker sliders screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;For a good shadow color I generally edit the base color I’m shading and crank the saturation down and the luminosity way up.&lt;/p&gt;
 
@@ -408,7 +408,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 
 &lt;p&gt;I’m going to let you in on a little secret. The first couple of months I used Paper by 53, I absolutely hated the Rewind feature because I couldn’t use it consistently. It pissed me off so much, that I gave up and used the eraser instead. I would have killed for a button with multiple undo’s back then…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-rewind-stormtrooper.jpg&quot; alt=&quot;Rewind screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paper-53-rewind-stormtrooper.jpg&quot; alt=&quot;Rewind screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I eventually came to my senses and gave it another go by forcing myself to use Rewind exclusively. After a few drawings I mastered it and was time traveling back through my boo boo’s with ease. It’s entirely possible that FiftyThree tweaked Rewind behind the scenes to make it easier to use, but I like to think it was my perseverance that made the difference.&lt;/p&gt;
 
@@ -418,7 +418,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 
 &lt;p&gt;The single most requested feature by fans and haters of Paper… Zoom. I had drawn a couple hundred portraits just fine without zoom, but boy was I happy when FiftyThree finally added the feature. That said I did cheat a bit by using an accessibility feature in iOS&lt;sup id=&quot;fnref:ios-zoom&quot;&gt;&lt;a href=&quot;#fn:ios-zoom&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; that lets you magnify the screen by tapping with 3 fingers. Not a true zoom, but it does have its place when you need to magnify an area — the tools don’t scale so it isn’t that useful.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/paper-53-zoom-tool-eye.jpg&quot; alt=&quot;Zoom tool screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paper-53-zoom-tool-eye.jpg&quot; alt=&quot;Zoom tool screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;There isn’t much else to Zoom, I’m merely mentioning it to increase awareness around it. Unlike other drawing and painting apps with zoom, the entire canvas doesn’t scale. Instead you control the area you want magnified by you opening a circular &lt;s&gt;portal&lt;/s&gt; loupe that can be moved around or dismissed by tapping outside of it.&lt;/p&gt;
 
@@ -450,23 +450,23 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/07/paper-53-introduction/&quot;&gt;Mastering Paper by 53: Introduction and Tool Guide&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on July 31, 2013.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;/2013/07/paper-53-introduction/&quot;&gt;Mastering Paper by 53: Introduction and Tool Guide&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on July 31, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[Mastering Paper by 53]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/mastering-paper/" />
-		<id>http://localhost:4000/mastering-paper</id>
+		<link rel="alternate" type="text/html" href="/mastering-paper/" />
+		<id>/mastering-paper</id>
 		<updated>2013-11-21T00:00:00-00:00</updated>
 		<published>2013-07-31T00:00:00-05:00</published>
 		
 		<author>
 			<name>Travis Zehren</name>
-			<uri>http://localhost:4000</uri>
+			<uri></uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
 		<content type="html">&lt;figure class=&quot;image-right&quot;&gt;
-	&lt;img src=&quot;http://localhost:4000/images/mastering-paper-53-small-book.jpg&quot; width=&quot;188&quot; height=&quot;250&quot; alt=&quot;Mastering Paper reference guide&quot; /&gt;
+	&lt;img src=&quot;/images/mastering-paper-53-small-book.jpg&quot; width=&quot;188&quot; height=&quot;250&quot; alt=&quot;Mastering Paper reference guide&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;In the spirit of openness I’ve decided to compile everything I’ve learned using &lt;a href=&quot;http://www.fiftythree.com&quot;&gt;&lt;em&gt;Paper by FiftyThree&lt;/em&gt;&lt;/a&gt; into a multi-part series I’m calling &lt;strong&gt;Mastering Paper&lt;/strong&gt;. As far as I’m concerned Paper doesn’t really need a manual or instruction guide because it’s fairly intuitive to use. So what you’ll find in the following pages are techniques and time savers I’ve developed from creating exclusively with the app over the last year and a half.&lt;/p&gt;
@@ -490,8 +490,8 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 
 
 	&lt;li&gt;
-		&lt;a href=&quot;http://localhost:4000/2013/07/paper-53-introduction/&quot;&gt;
-			&lt;img src=&quot;http://localhost:4000/images/paper-53-expanded-guide-thumb.jpg&quot; class=&quot;preview&quot; alt=&quot;preview image&quot; /&gt;
+		&lt;a href=&quot;/2013/07/paper-53-introduction/&quot;&gt;
+			&lt;img src=&quot;/images/paper-53-expanded-guide-thumb.jpg&quot; class=&quot;preview&quot; alt=&quot;preview image&quot; /&gt;
 			&lt;h4&gt;Part 1 &amp;#8211; Introduction and Tool Guide&lt;/h4&gt;
 		&lt;/a&gt;
 		&lt;p&gt;An introduction to Paper&#39;s tools and how to exploit them for drawing realistically.&lt;/p&gt;
@@ -520,33 +520,33 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 	&lt;li&gt;&lt;h4&gt;&lt;span class=&quot;badge&quot;&gt;Coming Soon&lt;/span&gt; Part 12 &amp;#8211; Getting the Most Out of Pencil&lt;/h4&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/mastering-paper/&quot;&gt;Mastering Paper by 53&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on July 31, 2013.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;/mastering-paper/&quot;&gt;Mastering Paper by 53&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on July 31, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[Paper]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/eko-wave/" />
-		<id>http://localhost:4000/eko-wave</id>
+		<link rel="alternate" type="text/html" href="/eko-wave/" />
+		<id>/eko-wave</id>
 		<published>2013-07-16T00:00:00-05:00</published>
 		<updated>2013-07-16T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri>http://localhost:4000</uri>
+			<uri></uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;http://localhost:4000/images/eko-wave-feature.jpg&quot; alt=&quot;Paper page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Eko Wave LLC is a company started by &lt;a href=&quot;http://twitter.com/endonend&quot;&gt;two&lt;/a&gt; &lt;a href=&quot;http://twitter.com/bjpmba&quot;&gt;pals&lt;/a&gt; and myself to provide value to niche consumers through well-thought-out applications.&lt;/p&gt;
+		<content type="html">&lt;img src=&quot;/images/eko-wave-feature.jpg&quot; alt=&quot;Paper page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Eko Wave LLC is a company started by &lt;a href=&quot;http://twitter.com/endonend&quot;&gt;two&lt;/a&gt; &lt;a href=&quot;http://twitter.com/bjpmba&quot;&gt;pals&lt;/a&gt; and myself to provide value to niche consumers through well-thought-out applications.&lt;/p&gt;
 
 &lt;p&gt;When designing the logo I wanted something that played off of the word &lt;em&gt;wave&lt;/em&gt; found in our name, while keeping with a color palette we established in Eko’s previous life.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/eko-wave-logo-guide.jpg&quot; alt=&quot;Eko Wave logo guide&quot; /&gt;
+	&lt;img src=&quot;/images/eko-wave-logo-guide.jpg&quot; alt=&quot;Eko Wave logo guide&quot; /&gt;
 	&lt;figcaption&gt;Eko Wave logo guide&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Taking things a step further I created a basic style tile&lt;sup id=&quot;fnref:style-tile&quot;&gt;&lt;a href=&quot;#fn:style-tile&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; document that helped me brainstorm how color, typography, and imagery fit and sell the concept to my partners. It would also serve as blueprint for me to design the site in browser — making for a more enjoyable and loose experience instead of being tied to a .PSD mockup I needed to CSSify&lt;sup id=&quot;fnref:cssify&quot;&gt;&lt;a href=&quot;#fn:cssify&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; exactly.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/eko-wave-style-tile.jpg&quot; alt=&quot;Eko Wave style tile&quot; /&gt;
+	&lt;img src=&quot;/images/eko-wave-style-tile.jpg&quot; alt=&quot;Eko Wave style tile&quot; /&gt;
 	&lt;figcaption&gt;Eko Wave style tile&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -562,29 +562,29 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/eko-wave/&quot;&gt;Paper&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on July 16, 2013.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;/eko-wave/&quot;&gt;Paper&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on July 16, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[A Pogo Connect Smart Pen Makes Paper by 53 Better]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/07/pogo-connect-smart-pen/" />
-		<id>http://localhost:4000/2013/07/pogo-connect-smart-pen</id>
+		<link rel="alternate" type="text/html" href="/2013/07/pogo-connect-smart-pen/" />
+		<id>/2013/07/pogo-connect-smart-pen</id>
 		<updated>2013-11-06T00:00:00-00:00</updated>
 		<published>2013-07-08T00:00:00-05:00</published>
 		
 		<author>
 			<name>Travis Zehren</name>
-			<uri>http://localhost:4000</uri>
+			<uri></uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;http://localhost:4000/images/pogo-connect-review-feature.jpg&quot; alt=&quot;A Pogo Connect Smart Pen Makes Paper by 53 Better page image&quot;&gt;&lt;br/&gt;&lt;p&gt;I’ve been lusting over the promise of pressure sensitive drawing on an iPad ever since I first read about the &lt;a href=&quot;http://www.amazon.com/gp/product/B009K448L4/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B009K448L4&amp;amp;linkCode=as2&amp;amp;tag=mademist-20&quot;&gt;Pogo Connect Smart Pen&lt;/a&gt;&lt;sup id=&quot;fnref:pogo-compatibility&quot;&gt;&lt;a href=&quot;#fn:pogo-compatibility&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Released back in January for around $80, I held off buying one until the price dropped. Waiting turned out to be smart since my favorite iOS app &lt;a href=&quot;http://localhost:4000/tag/paper-by-53&quot;&gt;&lt;strong&gt;Paper by 53&lt;/strong&gt;&lt;/a&gt; also received numerous updates to better support the Pogo Connect.&lt;/p&gt;
+		<content type="html">&lt;img src=&quot;/images/pogo-connect-review-feature.jpg&quot; alt=&quot;A Pogo Connect Smart Pen Makes Paper by 53 Better page image&quot;&gt;&lt;br/&gt;&lt;p&gt;I’ve been lusting over the promise of pressure sensitive drawing on an iPad ever since I first read about the &lt;a href=&quot;http://www.amazon.com/gp/product/B009K448L4/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B009K448L4&amp;amp;linkCode=as2&amp;amp;tag=mademist-20&quot;&gt;Pogo Connect Smart Pen&lt;/a&gt;&lt;sup id=&quot;fnref:pogo-compatibility&quot;&gt;&lt;a href=&quot;#fn:pogo-compatibility&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Released back in January for around $80, I held off buying one until the price dropped. Waiting turned out to be smart since my favorite iOS app &lt;a href=&quot;/tag/paper-by-53&quot;&gt;&lt;strong&gt;Paper by 53&lt;/strong&gt;&lt;/a&gt; also received numerous updates to better support the Pogo Connect.&lt;/p&gt;
 
 &lt;p&gt;For my birthday &lt;a href=&quot;http://2littlerosebuds.com&quot;&gt;my wife&lt;/a&gt; picked me up one and I started the process of learning all its nuances. I’ve gotten fairly adept at using a &lt;a href=&quot;http://www.amazon.com/gp/product/B00821TR7G/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00821TR7G&amp;amp;linkCode=as2&amp;amp;tag=mademist-20&quot;&gt;LunaTik Alloy Touch Pen&lt;/a&gt; by drawing with it every day for the last 9 months, but the tip is starting to show signs of tearing — perfect time to try something new.&lt;/p&gt;
 
 &lt;h2 id=&quot;pogo-connect-smart-pen-vs-normal-styluses&quot;&gt;Pogo Connect Smart Pen vs. Normal Styluses&lt;/h2&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/stylus-rubber-tips-comparison.jpg&quot; alt=&quot;Stylus rubber tips comparison&quot; /&gt;
+	&lt;img src=&quot;/images/stylus-rubber-tips-comparison.jpg&quot; alt=&quot;Stylus rubber tips comparison&quot; /&gt;
 	&lt;figcaption&gt;As you can see the Pogo Connect Smart Pen&#39;s tip looks like most other capacitive stylus pens out there. It feels like and drags on the iPad&#39;s screen the same too.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -597,7 +597,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 &lt;h2 id=&quot;pogo-connect-smart-pen-options&quot;&gt;Pogo Connect Smart Pen Options&lt;/h2&gt;
 
 &lt;figure class=&quot;image-right&quot;&gt;
-	&lt;img src=&quot;http://localhost:4000/images/paper-53-pogo-connect-settings.jpg&quot; alt=&quot;Paper by 53 settings palette&quot; width=&quot;250&quot; height=&quot;392&quot; /&gt;
+	&lt;img src=&quot;/images/paper-53-pogo-connect-settings.jpg&quot; alt=&quot;Paper by 53 settings palette&quot; width=&quot;250&quot; height=&quot;392&quot; /&gt;
 	&lt;figcaption&gt;Pogo Connect dedicated settings in Paper by 53.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -608,7 +608,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 &lt;p&gt;If you’re using Procreate similar options are presented, along with a cool feature that Paper by 53 doesn’t possess — the LED light on the Pogo will match whatever color you select in the picker. Not really a useful feature when drawing and painting, but still kind of cool.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/pogo-connect-led-color.jpg&quot; alt=&quot;Pogo Connect colored LED light&quot; /&gt;
+	&lt;img src=&quot;/images/pogo-connect-led-color.jpg&quot; alt=&quot;Pogo Connect colored LED light&quot; /&gt;
 	&lt;figcaption&gt;Procreate takes advantage of the LED light and will change hues depending on the current color.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -621,14 +621,14 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 &lt;p&gt;Below is a sketch made with all of the Paper by 53 tools using just my finger. Each stroke was made by moving my finger slowly at the beginning of each line and progressively getting faster near the end. This has the effect of making strokes thicker or darker depending on the tools used — something I probably don’t have to tell you if you’ve used Paper for any amount of time.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/paper-53-hand-drawn-lines.jpg&quot; alt=&quot;Lines drawn with my finger&quot; /&gt;
+	&lt;img src=&quot;/images/paper-53-hand-drawn-lines.jpg&quot; alt=&quot;Lines drawn with my finger&quot; /&gt;
 	&lt;figcaption&gt;Finger drawn lines with varying speed (slow to fast).&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;In this next example I drew strokes with the same five tools, but this time using a Pogo Connect Smart Pen. Instead of varying the speed at which I drew each line, I varied the amount of pressure applied to the tip of the pen. Each stroke was started by barely touching the iPad’s screen and applying more pressure until reaching the end.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/paper-53-pogo-connect-lines.jpg&quot; alt=&quot;Lines drawn with a Pogo Connect&quot; /&gt;
+	&lt;img src=&quot;/images/paper-53-pogo-connect-lines.jpg&quot; alt=&quot;Lines drawn with a Pogo Connect&quot; /&gt;
 	&lt;figcaption&gt;Pogo Connect drawn lines with varying pressure (soft to hard).&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -658,10 +658,10 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 
 &lt;h2 id=&quot;whats-wrong-with-the-pogo-connect&quot;&gt;What’s Wrong with the Pogo Connect&lt;/h2&gt;
 
-&lt;p&gt;About those bugs I mentioned earlier. Not sure if they’re hardware or software related, but I’ve experienced a ton of lockups with the Pogo Connect and Paper by 53. The stylus will randomly disconnect or just become unresponsive and I have to force quit the app or remove the AAA battery to make the Pogo Connect behave again. I usually notice it becoming unresponsive when making a bunch of quick strokes, like when I’m &lt;a href=&quot;http://localhost:4000/paperfaces/josearato-portrait.html&quot;&gt;drawing beard whiskers&lt;/a&gt;. Not a deal breaker because it doesn’t happen all the time, but it is kind of annoying that it interrupts the creative flow.&lt;/p&gt;
+&lt;p&gt;About those bugs I mentioned earlier. Not sure if they’re hardware or software related, but I’ve experienced a ton of lockups with the Pogo Connect and Paper by 53. The stylus will randomly disconnect or just become unresponsive and I have to force quit the app or remove the AAA battery to make the Pogo Connect behave again. I usually notice it becoming unresponsive when making a bunch of quick strokes, like when I’m &lt;a href=&quot;/paperfaces/josearato-portrait.html&quot;&gt;drawing beard whiskers&lt;/a&gt;. Not a deal breaker because it doesn’t happen all the time, but it is kind of annoying that it interrupts the creative flow.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/pogo-connect-paper-53-disconnected.jpg&quot; alt=&quot;Pogo Connected disconnected screenshot&quot; /&gt;
+	&lt;img src=&quot;/images/pogo-connect-paper-53-disconnected.jpg&quot; alt=&quot;Pogo Connected disconnected screenshot&quot; /&gt;
 	&lt;figcaption&gt;Disconnected! Better get used to this screen...&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -670,7 +670,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 &lt;p&gt;During my first week with the Pogo I encountered another issue that I thought might have been a bug with Paper. Out of nowhere the iPad’s screen would turn off and the lock “chhkk” would sound. After complaining about it on Tumblr &lt;a href=&quot;http://mbbradbury.tumblr.com/post/51935357080/what-went-wrong-with-your-pogo-connect-i-can-see-me&quot;&gt;a follower messaged me&lt;/a&gt; to say that I needed to turn off the iPad cover lock setting. It never occurred to me that there was a magnet in the tip of the Pogo that could trigger a screen lock when moved near the iPad’s outer bezel.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/ipad-cover-lock-setting.jpg&quot; alt=&quot;iPad iOS 6 cover lock setting&quot; /&gt;
+	&lt;img src=&quot;/images/ipad-cover-lock-setting.jpg&quot; alt=&quot;iPad iOS 6 cover lock setting&quot; /&gt;
 	&lt;figcaption&gt;Toggling iPad Cover Lock/Unlock to OFF in Settings will stop the Pogo from turning off your screen if you get to close to the edge.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -683,7 +683,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 &lt;p&gt;Removed the rubber tip to find this mess. Like many others, the metal contact that is soldered to the internal circuit board broke free rendering the pressure sensitivity useless.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/pogo-connect-broken-circuit.jpg&quot; alt=&quot;Pogo Connect broken circuit connection and tip&quot; /&gt;
+	&lt;img src=&quot;/images/pogo-connect-broken-circuit.jpg&quot; alt=&quot;Pogo Connect broken circuit connection and tip&quot; /&gt;
 	&lt;figcaption&gt;I don&#39;t think this metal contact is suppose to break off so easily...&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -696,7 +696,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 &lt;h2 id=&quot;update-three-months-later&quot;&gt;Update. Three Months Later&lt;/h2&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/pogo-connect-broken-circuit-2.jpg&quot; alt=&quot;Seems like a major design flaw to me&quot; /&gt;
+	&lt;img src=&quot;/images/pogo-connect-broken-circuit-2.jpg&quot; alt=&quot;Seems like a major design flaw to me&quot; /&gt;
 	&lt;figcaption&gt;All the solder in the world probably isn&#39;t going to fix this design flaw.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -714,22 +714,22 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/07/pogo-connect-smart-pen/&quot;&gt;A Pogo Connect Smart Pen Makes Paper by 53 Better&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on July 08, 2013.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;/2013/07/pogo-connect-smart-pen/&quot;&gt;A Pogo Connect Smart Pen Makes Paper by 53 Better&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on July 08, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[So Simple, a Jekyll Theme]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/06/so-simple-jekyll-theme/" />
-		<id>http://localhost:4000/2013/06/so-simple-jekyll-theme</id>
+		<link rel="alternate" type="text/html" href="/2013/06/so-simple-jekyll-theme/" />
+		<id>/2013/06/so-simple-jekyll-theme</id>
 		<updated>2013-08-16T00:00:00-00:00</updated>
 		<published>2013-06-26T00:00:00-05:00</published>
 		
 		<author>
 			<name>Travis Zehren</name>
-			<uri>http://localhost:4000</uri>
+			<uri></uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;http://localhost:4000/images/so-simple-theme-feature.jpg&quot; alt=&quot;So Simple, a Jekyll Theme page image&quot;&gt;&lt;br/&gt;&lt;p&gt;After having so much fun creating and releasing &lt;a href=&quot;http://mmistakes.github.io/minimal-mistakes&quot;&gt;my first open source Jekyll theme&lt;/a&gt;, I figured I’d go at it again. So here be the fruit of that effort — I call it &lt;a href=&quot;http://mmistakes.github.io/so-simple-theme&quot;&gt;&lt;strong&gt;So Simple Theme&lt;/strong&gt;&lt;/a&gt;, a responsive Jekyll theme for words and photos. &lt;/p&gt;
+		<content type="html">&lt;img src=&quot;/images/so-simple-theme-feature.jpg&quot; alt=&quot;So Simple, a Jekyll Theme page image&quot;&gt;&lt;br/&gt;&lt;p&gt;After having so much fun creating and releasing &lt;a href=&quot;http://mmistakes.github.io/minimal-mistakes&quot;&gt;my first open source Jekyll theme&lt;/a&gt;, I figured I’d go at it again. So here be the fruit of that effort — I call it &lt;a href=&quot;http://mmistakes.github.io/so-simple-theme&quot;&gt;&lt;strong&gt;So Simple Theme&lt;/strong&gt;&lt;/a&gt;, a responsive Jekyll theme for words and photos. &lt;/p&gt;
 
 &lt;h2 id=&quot;so-simple-theme-is-all-about&quot;&gt;So Simple Theme is all about:&lt;/h2&gt;
 
@@ -745,7 +745,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;figure class=&quot;large&quot;&gt;
-	&lt;a href=&quot;http://mmistakes.github.io/so-simple-theme&quot; onclick=&quot;_gaq.push([&#39;_trackEvent&#39;, &#39;Link&#39;, &#39;So Simple - Theme Demo&#39;]);&quot; title=&quot;Preview So Simple Theme&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/so-simple-theme-preview.jpg&quot; alt=&quot;Screenshot of So Simple Theme&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://mmistakes.github.io/so-simple-theme&quot; onclick=&quot;_gaq.push([&#39;_trackEvent&#39;, &#39;Link&#39;, &#39;So Simple - Theme Demo&#39;]);&quot; title=&quot;Preview So Simple Theme&quot;&gt;&lt;img src=&quot;/images/so-simple-theme-preview.jpg&quot; alt=&quot;Screenshot of So Simple Theme&quot; /&gt;&lt;/a&gt;
 	&lt;figcaption&gt;Page and post templates in action.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -759,7 +759,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 
 &lt;div&gt;&lt;a onclick=&quot;_gaq.push([&#39;_trackEvent&#39;, &#39;Link&#39;, &#39;So Simple - Theme Demo&#39;]);&quot; href=&quot;http://mmistakes.github.io/so-simple-theme&quot; class=&quot;btn btn-inverse&quot;&gt;Demo the Theme&lt;/a&gt;&lt;/div&gt;
 
-&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Like this theme?&lt;/strong&gt; I just released my third theme for Jekyll, with a sweet animated drop down menu, social sharing plugins, and a Grunt build script for theme development. I’m calling it HPSTER Theme and you can &lt;a href=&quot;http://localhost:4000/articles/hpstr-jekyll-theme.html&quot;&gt;learn more about it here&lt;/a&gt;.&lt;/p&gt;
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Like this theme?&lt;/strong&gt; I just released my third theme for Jekyll, with a sweet animated drop down menu, social sharing plugins, and a Grunt build script for theme development. I’m calling it HPSTER Theme and you can &lt;a href=&quot;/articles/hpstr-jekyll-theme.html&quot;&gt;learn more about it here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
@@ -769,22 +769,22 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/06/so-simple-jekyll-theme/&quot;&gt;So Simple, a Jekyll Theme&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on June 26, 2013.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;/2013/06/so-simple-jekyll-theme/&quot;&gt;So Simple, a Jekyll Theme&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on June 26, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[Minimal Mistakes, a Jekyll Theme]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2013/05/minimal-mistakes-jekyll-theme/" />
-		<id>http://localhost:4000/2013/05/minimal-mistakes-jekyll-theme</id>
+		<link rel="alternate" type="text/html" href="/2013/05/minimal-mistakes-jekyll-theme/" />
+		<id>/2013/05/minimal-mistakes-jekyll-theme</id>
 		<updated>2013-09-12T00:00:00-00:00</updated>
 		<published>2013-05-28T00:00:00-05:00</published>
 		
 		<author>
 			<name>Travis Zehren</name>
-			<uri>http://localhost:4000</uri>
+			<uri></uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;http://localhost:4000/images/minimal-mistakes-theme-feature.jpg&quot; alt=&quot;Minimal Mistakes, a Jekyll Theme page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Jekyll is pretty rad and figured releasing a cleaned up version of &lt;a href=&quot;http://mademistakes.com&quot;&gt;my site&lt;/a&gt; as a theme for others to hack and build on would be fun. So here be that theme — I call it &lt;strong&gt;&lt;a href=&quot;http://mmistakes.github.io/minimal-mistakes&quot;&gt;Minimal Mistakes&lt;/a&gt;&lt;/strong&gt;, a responsive Jekyll theme with editorial tendencies. &lt;/p&gt;
+		<content type="html">&lt;img src=&quot;/images/minimal-mistakes-theme-feature.jpg&quot; alt=&quot;Minimal Mistakes, a Jekyll Theme page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Jekyll is pretty rad and figured releasing a cleaned up version of &lt;a href=&quot;http://mademistakes.com&quot;&gt;my site&lt;/a&gt; as a theme for others to hack and build on would be fun. So here be that theme — I call it &lt;strong&gt;&lt;a href=&quot;http://mmistakes.github.io/minimal-mistakes&quot;&gt;Minimal Mistakes&lt;/a&gt;&lt;/strong&gt;, a responsive Jekyll theme with editorial tendencies. &lt;/p&gt;
 
 &lt;h2 id=&quot;minimal-mistakes-is-all-about&quot;&gt;Minimal Mistakes is all about:&lt;/h2&gt;
 
@@ -800,7 +800,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;figure&gt;
-	&lt;a href=&quot;http://mmistakes.github.io/minimal-mistakes&quot; onclick=&quot;_gaq.push([&#39;_trackEvent&#39;, &#39;Link&#39;, &#39;Minimal Mistakes - Theme Demo&#39;]);&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/mm-theme-post-750.jpg&quot; alt=&quot;Screenshot of Minimal Mistakes theme&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://mmistakes.github.io/minimal-mistakes&quot; onclick=&quot;_gaq.push([&#39;_trackEvent&#39;, &#39;Link&#39;, &#39;Minimal Mistakes - Theme Demo&#39;]);&quot;&gt;&lt;img src=&quot;/images/mm-theme-post-750.jpg&quot; alt=&quot;Screenshot of Minimal Mistakes theme&quot; /&gt;&lt;/a&gt;
 	&lt;figcaption&gt;The post template in action.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -886,7 +886,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
 
 &lt;p&gt;This theme is free and open source software, distributed under the &lt;a href=&quot;http://mmistakes.github.io/minimal-mistakes/LICENSE&quot;&gt;GNU General Public License&lt;/a&gt; version 2 or later. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. &lt;/p&gt;
 
-&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Like this theme?&lt;/strong&gt; I just released another one for Jekyll, with a sweet animated drop down menu, social sharing plugins, and a Grunt build script for theme development. I’m calling it HPSTER Theme and you can &lt;a href=&quot;http://localhost:4000/articles/hpstr-jekyll-theme.html&quot;&gt;learn more about it here&lt;/a&gt;.&lt;/p&gt;
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Like this theme?&lt;/strong&gt; I just released another one for Jekyll, with a sweet animated drop down menu, social sharing plugins, and a Grunt build script for theme development. I’m calling it HPSTER Theme and you can &lt;a href=&quot;/articles/hpstr-jekyll-theme.html&quot;&gt;learn more about it here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
@@ -896,7 +896,7 @@ When describing these tools I will be using the following descriptors:&lt;/p&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/05/minimal-mistakes-jekyll-theme/&quot;&gt;Minimal Mistakes, a Jekyll Theme&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kickstand Apps&lt;/a&gt; on May 28, 2013.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;/2013/05/minimal-mistakes-jekyll-theme/&quot;&gt;Minimal Mistakes, a Jekyll Theme&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on May 28, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 </feed>

@@ -11,7 +11,7 @@ tags: [Paper by 53, stylus, illustration, review, iPad]
 comments: true
 ---
 
-I've been lusting over the promise of pressure sensitive drawing on an iPad ever since I first read about the [Pogo Connect Smart Pen]( http://www.amazon.com/gp/product/B009K448L4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009K448L4&linkCode=as2&tag=mademist-20)[^pogo-compatibility]. Released back in January for around $80, I held off buying one until the price dropped. Waiting turned out to be smart since my favorite iOS app [**Paper by 53**]({{ site.url }}/tag/paper-by-53) also received numerous updates to better support the Pogo Connect.
+I've been lusting over the promise of pressure sensitive drawing on an iPad ever since I first read about the [Pogo Connect Smart Pen]( http://www.amazon.com/gp/product/B009K448L4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009K448L4&linkCode=as2&tag=mademist-20)[^pogo-compatibility]. Released back in January for around $80, I held off buying one until the price dropped. Waiting turned out to be smart since my favorite iOS app [**Paper by 53**]({{ site.baseurl }}/tag/paper-by-53) also received numerous updates to better support the Pogo Connect.
 
 [^pogo-compatibility]: Since publishing this review, Apple released the iPad Mini and iPad Air --- both have some compatibility issues with a Pogo Connect Smart Pen. There's something about these new screens that cause the Pogo to not function properly. In the case of the iPad Air it doesn't work at all. The iPad Mini has better support but a few of the new tips don't work. For the full story check out [Ten One Design's website](http://www.tenonedesign.com/connect).
 
@@ -20,7 +20,7 @@ For my birthday [my wife](http://2littlerosebuds.com) picked me up one and I sta
 ## Pogo Connect Smart Pen vs. Normal Styluses
 
 <figure>
-	<img src="{{ site.url }}/images/stylus-rubber-tips-comparison.jpg" alt="Stylus rubber tips comparison">
+	<img src="{{ site.baseurl }}/images/stylus-rubber-tips-comparison.jpg" alt="Stylus rubber tips comparison">
 	<figcaption>As you can see the Pogo Connect Smart Pen's tip looks like most other capacitive stylus pens out there. It feels like and drags on the iPad's screen the same too.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ The Pogo Connect comes with a name brand AAA battery to get you up and running r
 ## Pogo Connect Smart Pen Options
 
 <figure class="image-right">
-	<img src="{{ site.url }}/images/paper-53-pogo-connect-settings.jpg" alt="Paper by 53 settings palette" width="250" height="392">
+	<img src="{{ site.baseurl }}/images/paper-53-pogo-connect-settings.jpg" alt="Paper by 53 settings palette" width="250" height="392">
 	<figcaption>Pogo Connect dedicated settings in Paper by 53.</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Paper by 53 has a dedicated settings panel for the Pogo Connect that you can acc
 If you're using Procreate similar options are presented, along with a cool feature that Paper by 53 doesn't possess --- the LED light on the Pogo will match whatever color you select in the picker. Not really a useful feature when drawing and painting, but still kind of cool.
 
 <figure>
-	<img src="{{ site.url }}/images/pogo-connect-led-color.jpg" alt="Pogo Connect colored LED light">
+	<img src="{{ site.baseurl }}/images/pogo-connect-led-color.jpg" alt="Pogo Connect colored LED light">
 	<figcaption>Procreate takes advantage of the LED light and will change hues depending on the current color.</figcaption>
 </figure>
 
@@ -59,14 +59,14 @@ The pencil and watercolor tools in Paper by 53 have always been great at feeling
 Below is a sketch made with all of the Paper by 53 tools using just my finger. Each stroke was made by moving my finger slowly at the beginning of each line and progressively getting faster near the end. This has the effect of making strokes thicker or darker depending on the tools used --- something I probably don't have to tell you if you've used Paper for any amount of time.
 
 <figure>
-	<img src="{{ site.url }}/images/paper-53-hand-drawn-lines.jpg" alt="Lines drawn with my finger">
+	<img src="{{ site.baseurl }}/images/paper-53-hand-drawn-lines.jpg" alt="Lines drawn with my finger">
 	<figcaption>Finger drawn lines with varying speed (slow to fast).</figcaption>
 </figure>
 
 In this next example I drew strokes with the same five tools, but this time using a Pogo Connect Smart Pen. Instead of varying the speed at which I drew each line, I varied the amount of pressure applied to the tip of the pen. Each stroke was started by barely touching the iPad's screen and applying more pressure until reaching the end.
 
 <figure>
-	<img src="{{ site.url }}/images/paper-53-pogo-connect-lines.jpg" alt="Lines drawn with a Pogo Connect">
+	<img src="{{ site.baseurl }}/images/paper-53-pogo-connect-lines.jpg" alt="Lines drawn with a Pogo Connect">
 	<figcaption>Pogo Connect drawn lines with varying pressure (soft to hard).</figcaption>
 </figure>
 
@@ -94,10 +94,10 @@ It's worth noting that there appears to be a major design flaw with the internal
 
 ## What's Wrong with the Pogo Connect
 
-About those bugs I mentioned earlier. Not sure if they're hardware or software related, but I've experienced a ton of lockups with the Pogo Connect and Paper by 53. The stylus will randomly disconnect or just become unresponsive and I have to force quit the app or remove the AAA battery to make the Pogo Connect behave again. I usually notice it becoming unresponsive when making a bunch of quick strokes, like when I'm [drawing beard whiskers]({{ site.url }}/paperfaces/josearato-portrait.html). Not a deal breaker because it doesn't happen all the time, but it is kind of annoying that it interrupts the creative flow.
+About those bugs I mentioned earlier. Not sure if they're hardware or software related, but I've experienced a ton of lockups with the Pogo Connect and Paper by 53. The stylus will randomly disconnect or just become unresponsive and I have to force quit the app or remove the AAA battery to make the Pogo Connect behave again. I usually notice it becoming unresponsive when making a bunch of quick strokes, like when I'm [drawing beard whiskers]({{ site.baseurl }}/paperfaces/josearato-portrait.html). Not a deal breaker because it doesn't happen all the time, but it is kind of annoying that it interrupts the creative flow.
 
 <figure>
-	<img src="{{ site.url }}/images/pogo-connect-paper-53-disconnected.jpg" alt="Pogo Connected disconnected screenshot">
+	<img src="{{ site.baseurl }}/images/pogo-connect-paper-53-disconnected.jpg" alt="Pogo Connected disconnected screenshot">
 	<figcaption>Disconnected! Better get used to this screen...</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ About those bugs I mentioned earlier. Not sure if they're hardware or software r
 During my first week with the Pogo I encountered another issue that I thought might have been a bug with Paper. Out of nowhere the iPad's screen would turn off and the lock "chhkk" would sound. After complaining about it on Tumblr [a follower messaged me](http://mbbradbury.tumblr.com/post/51935357080/what-went-wrong-with-your-pogo-connect-i-can-see-me) to say that I needed to turn off the iPad cover lock setting. It never occurred to me that there was a magnet in the tip of the Pogo that could trigger a screen lock when moved near the iPad's outer bezel.
 
 <figure>
-	<img src="{{ site.url }}/images/ipad-cover-lock-setting.jpg" alt="iPad iOS 6 cover lock setting">
+	<img src="{{ site.baseurl }}/images/ipad-cover-lock-setting.jpg" alt="iPad iOS 6 cover lock setting">
 	<figcaption>Toggling iPad Cover Lock/Unlock to OFF in Settings will stop the Pogo from turning off your screen if you get to close to the edge.</figcaption>
 </figure>
 
@@ -119,7 +119,7 @@ Well that didn't take long. About a month after writing this review and two mont
 Removed the rubber tip to find this mess. Like many others, the metal contact that is soldered to the internal circuit board broke free rendering the pressure sensitivity useless.
 
 <figure>
-	<img src="{{ site.url }}/images/pogo-connect-broken-circuit.jpg" alt="Pogo Connect broken circuit connection and tip">
+	<img src="{{ site.baseurl }}/images/pogo-connect-broken-circuit.jpg" alt="Pogo Connect broken circuit connection and tip">
 	<figcaption>I don't think this metal contact is suppose to break off so easily...</figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ And just like that Ten One Design sent me a replacement pen with 2 extra tips fr
 ## Update. Three Months Later
 
 <figure>
-	<img src="{{ site.url }}/images/pogo-connect-broken-circuit-2.jpg" alt="Seems like a major design flaw to me">
+	<img src="{{ site.baseurl }}/images/pogo-connect-broken-circuit-2.jpg" alt="Seems like a major design flaw to me">
 	<figcaption>All the solder in the world probably isn't going to fix this design flaw.</figcaption>
 </figure>
 

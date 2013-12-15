@@ -29,7 +29,7 @@ Like Paper, Pencil is minimally designed --- that means no buttons, no LED light
 
 ## Just the Tip
 
-To be honest I was a little disappointed when I discovered Pencil's tip wouldn't be pressure sensitive. For someone who relies on a [Pogo Connect]({{ site.url }}/articles/pogo-connect-smart-pen.html) for the expressiveness it brings to Paper, switching to Pencil might be a hard sell. The good news is if none of that matters to you, Pencil is easily one of the better styluses I've used with Paper.
+To be honest I was a little disappointed when I discovered Pencil's tip wouldn't be pressure sensitive. For someone who relies on a [Pogo Connect]({{ site.baseurl }}/articles/pogo-connect-smart-pen.html) for the expressiveness it brings to Paper, switching to Pencil might be a hard sell. The good news is if none of that matters to you, Pencil is easily one of the better styluses I've used with Paper.
 
 ![Closeup of Pencil's tip and replacement packaging](http://placehold.it/750x350)
 
@@ -52,7 +52,7 @@ The fact that I was able to kill the tips so fast is a bit disappointing. Especi
 One other thing I'd like to add about the tip. You can draw using the fatter sides of the tip. There is less friction here and should help to prolong the tip's life. Especially when used for coloring large areas that don't require detail work.
 
 <figure>
-  <img src="{{ site.url }}/images/paper-53-blend-moutain.jpg" alt="Moutainscape painted with Paper">
+  <img src="{{ site.baseurl }}/images/paper-53-blend-moutain.jpg" alt="Moutainscape painted with Paper">
   <figcaption>Getting all Bob Ross on ya, using Blend to create a reflection effect.</figcaption>
 </figure>
 

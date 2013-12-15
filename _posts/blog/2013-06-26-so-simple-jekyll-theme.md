@@ -28,7 +28,7 @@ After having so much fun creating and releasing [my first open source Jekyll the
 * Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
 
 <figure class="large">
-	<a href="http://mmistakes.github.io/so-simple-theme" onClick="_gaq.push(['_trackEvent', 'Link', 'So Simple - Theme Demo']);" title="Preview So Simple Theme"><img src="{{ site.url }}/images/so-simple-theme-preview.jpg" alt="Screenshot of So Simple Theme"></a>
+	<a href="http://mmistakes.github.io/so-simple-theme" onClick="_gaq.push(['_trackEvent', 'Link', 'So Simple - Theme Demo']);" title="Preview So Simple Theme"><img src="{{ site.baseurl }}/images/so-simple-theme-preview.jpg" alt="Screenshot of So Simple Theme"></a>
 	<figcaption>Page and post templates in action.</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ After having so much fun creating and releasing [my first open source Jekyll the
 
 <div markdown="0"><a onClick="_gaq.push(['_trackEvent', 'Link', 'So Simple - Theme Demo']);" href="http://mmistakes.github.io/so-simple-theme" class="btn btn-inverse">Demo the Theme</a></div>
 
-**Like this theme?** I just released my third theme for Jekyll, with a sweet animated drop down menu, social sharing plugins, and a Grunt build script for theme development. I'm calling it HPSTER Theme and you can [learn more about it here]({{ site.url }}/articles/hpstr-jekyll-theme.html).
+**Like this theme?** I just released my third theme for Jekyll, with a sweet animated drop down menu, social sharing plugins, and a Grunt build script for theme development. I'm calling it HPSTER Theme and you can [learn more about it here]({{ site.baseurl }}/articles/hpstr-jekyll-theme.html).
 {: .notice}
 
 [^1]: Example: *domain.com/category-name/post-title*
