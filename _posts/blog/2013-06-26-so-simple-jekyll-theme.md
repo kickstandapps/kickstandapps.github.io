@@ -11,7 +11,7 @@ image:
 category: blog
 tags: [Jekyll, theme, responsive, blog]
 comments: true
-homepage: true
+homepage: false
 ---
 
 After having so much fun creating and releasing [my first open source Jekyll theme](http://mmistakes.github.io/minimal-mistakes), I figured I'd go at it again. So here be the fruit of that effort --- I call it [**So Simple Theme**](http://mmistakes.github.io/so-simple-theme), a responsive Jekyll theme for words and photos. 

@@ -3,7 +3,7 @@
 <body id="app-index" itemscope itemtype="http://schema.org/WebPage">
 
   {% include navigation.html %}
-  {% unless page.image.feature %}<hr>{% endunless %}
+  {% unless page.image.feature %}<hr style="margin-top: 0;">{% endunless %}
   <div id="main" role="main" itemprop="mainContentOfPage">
     <article class="entry" itemscope>
       {% if page.image.feature %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/{{ page.image.feature }});background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ page.title }}">

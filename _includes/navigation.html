@@ -1,8 +1,11 @@
 {% include browser-upgrade.html %}
 
 <div class="masthead-wrapper">
-	<header id="masthead" itemscope itemtype="http://schema.org/Organization">
-		<a href="{{ site.baseurl }}" class="site-logo" rel="home" title="{{ site.title }}" itemprop="url"><img src="{{ site.baseurl }}/images/{{ site.logo }}" width="50" height="50" alt="{{ site.title }} logo" itemprop="logo"></a>
+	<header id="masthead-logo" itemscope itemtype="http://schema.org/Organization">
+		<a href="{{ site.baseurl }}/" class="site-logo" rel="home" title="{{ site.title }}" itemprop="url"><img src="{{ site.baseurl }}/images/{{ site.logo }}" height="50" alt="{{ site.title }} logo" itemprop="logo"></a>
+	</header>
+	<header id="masthead-logo" itemscope itemtype="http://schema.org/Organization">
+		<a href="{{ site.baseurl }}/" class="site-logotype" rel="home" title="{{ site.title }}" itemprop="url"><img src="{{ site.baseurl }}/images/{{ site.logotype }}"></a>
 	</header><!-- /.masthead -->
 	<a href="#nav" class="menu"><span class='icons'>☰</span></a>
 	<nav role="navigation" id="site-nav" itemscope itemtype="http://schema.org/SiteNavigationElement">

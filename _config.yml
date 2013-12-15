@@ -1,7 +1,8 @@
 title:            Kickstand Apps
-tagline:          Design Faux Pas
+tagline:          Apps for the 
 description:      "A mobile development company with the simple goal of creating apps that people love."
 logo:             site-logo.png
+logotype:            kickstand.png
 disqus_shortname: kickstandapps
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://kickstandapps.github.io
@@ -29,10 +30,10 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
-google_analytics: UA-2011187-1
-google_verify: geapSKtvpBNDSfXVmF09E9CnaHGglbO61r4XgLZtEmo
-bing_verify:   D81F4C18A6CB3018F64D7C827D953DFD
-alexa_verify:  Y5DYjZ4VWlrQzBP5kcQJeOKLNas
+google_analytics: UA-29424253-1
+google_verify: 
+bing_verify:   
+alexa_verify:  
 
 future:      true
 lsi:         false

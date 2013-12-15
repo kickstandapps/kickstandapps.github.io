@@ -16,4 +16,8 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-{% if page.comments %}{% include disqus_comments.html %}{% endif %}  
+{% if page.comments %}{% include disqus_comments.html %}{% endif %}
+<!-- Flexslider Library  -->
+{% if page.slider %}
+<script src="{{ site.baseurl }}/assets/js/jquery.flexslider.js"></script>
+{% endif %}

@@ -13,7 +13,7 @@ download:
 image:
   feature: Now.jpg
   thumb: now-icon.jpg
-  homepage: now-icon.gif
+  homepage: Now.jpg
 tags: [apps, NOW Weather]
 homepage: true
 share: true

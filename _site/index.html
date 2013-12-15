@@ -27,8 +27,8 @@
 	<meta property="og:site_name" content="Kickstand Apps">
 
 	<!-- Webmaster Tools verfication -->
-	<meta name="google-site-verification" content="geapSKtvpBNDSfXVmF09E9CnaHGglbO61r4XgLZtEmo">
-	<meta name="msvalidate.01" content="D81F4C18A6CB3018F64D7C827D953DFD">
+	
+	
 
 	
 	<link rel="canonical" href="/">
@@ -82,8 +82,11 @@
 
 
 <div class="masthead-wrapper">
-	<header id="masthead" itemscope itemtype="http://schema.org/Organization">
-		<a href="" class="site-logo" rel="home" title="Kickstand Apps" itemprop="url"><img src="/images/site-logo.png" width="50" height="50" alt="Kickstand Apps logo" itemprop="logo"></a>
+	<header id="masthead-logo" itemscope itemtype="http://schema.org/Organization">
+		<a href="/" class="site-logo" rel="home" title="Kickstand Apps" itemprop="url"><img src="/images/site-logo.png" height="50" alt="Kickstand Apps logo" itemprop="logo"></a>
+	</header>
+	<header id="masthead-logo" itemscope itemtype="http://schema.org/Organization">
+		<a href="/" class="site-logotype" rel="home" title="Kickstand Apps" itemprop="url"><img src="/images/kickstand.png"></a>
 	</header><!-- /.masthead -->
 	<a href="#nav" class="menu"><span class='icons'>☰</span></a>
 	<nav role="navigation" id="site-nav" itemscope itemtype="http://schema.org/SiteNavigationElement">
@@ -104,29 +107,24 @@
 
 <div id="main" role="main" itemprop="mainContentOfPage">
   <article class="entry" itemscope itemtype="http://schema.org/Blog" style="border-bottom-width:0;">
-      <div class="work-content">
+    <div class="flexslider">
+      <ul class="slides">
         
           
         
           
         
-          <div class="project-wrap" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting"><a href="/now-weather/"><figure class="project-tease">
-            <img src="/images/now-icon.gif" alt="NOW Weather - for iPhone and iPod Touch teaser" border="0" itemprop="image" >
-            <figcaption>
-              <div class="figcaption-wrap">
-                  <h3 itemprop="name">NOW Weather - for iPhone and iPod Touch</h3>
-              </div><!-- /.figcaption-wrap -->
-            </figcaption>
-          </figure></a></div><!-- /.projet-wrap -->
+          
+          <li>
+            <a href=/now-weather/>
+              <div style="background:url(/images/Now.jpg) no-repeat center center; background-size:cover;"></div>
+            </a>
+          </li>
+          
         
-          <div class="project-wrap" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting"><a href="/relic-scout/"><figure class="project-tease">
-            <img src="/images/relic-scout-500x500.png" alt="Relic Scout teaser" border="0" itemprop="image" >
-            <figcaption>
-              <div class="figcaption-wrap">
-                  <h3 itemprop="name">Relic Scout</h3>
-              </div><!-- /.figcaption-wrap -->
-            </figcaption>
-          </figure></a></div><!-- /.projet-wrap -->
+          
+        
+          
         
           
         
@@ -134,46 +132,22 @@
         
           
         
-          <div class="project-wrap" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting"><a href="/mastering-paper/"><figure class="project-tease">
-            <img src="/images/paper-by-53-500x500.jpg" alt="Mastering Paper by 53 teaser" border="0" itemprop="image" >
-            <figcaption>
-              <div class="figcaption-wrap">
-                  <h3 itemprop="name">Mastering Paper by 53</h3>
-              </div><!-- /.figcaption-wrap -->
-            </figcaption>
-          </figure></a></div><!-- /.projet-wrap -->
+          
+          <li>
+            <a href=/eko-wave/>
+              <div style="background:url(/images/eko-wave-feature.jpg) no-repeat center center; background-size:cover;"></div>
+            </a>
+          </li>
+          
+        
+          
         
           
         
           
         
-          <div class="project-wrap" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting"><a href="/2013/06/so-simple-jekyll-theme/"><figure class="project-tease">
-            <img src="/images/so-simple-500x500.png" alt="So Simple, a Jekyll Theme teaser" border="0" itemprop="image" >
-            <figcaption>
-              <div class="figcaption-wrap">
-                  <h3 itemprop="name">So Simple, a Jekyll Theme</h3>
-              </div><!-- /.figcaption-wrap -->
-            </figcaption>
-          </figure></a></div><!-- /.projet-wrap -->
-        
-          
-        
-      </div><!-- /.work-content -->
-  </article>
-  <article class="entry" itemscope itemtype="http://schema.org/Blog">
-    <div class="entry-wrapper">
-      <header class="entry-header">
-        <h1 class="entry-title" itemprop="headline">Latest Articles</h1>
-      </header>
-      <div class="entry-content">
-        <ul class="post-list">
-        
-        </ul>
-      </div><!-- /.entry-content -->
-      <div class="center-block">
-        <a href="/articles/" class="btn">View All Articles</a>
-      </div><!-- /.center-block -->
-    </div><!-- /.entry-wrapper -->
+      </ul>
+    </div>
   </article>
 </div><!-- /#main -->
 
@@ -213,7 +187,7 @@ document.write(year);
   var pluginUrl = 
  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
   _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', 'UA-2011187-1']);
+  _gaq.push(['_setAccount', 'UA-29424253-1']);
   _gaq.push(['_trackPageview']);
 
   (function() {
@@ -222,7 +196,11 @@ document.write(year);
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-  
+
+<!-- Flexslider Library  -->
+
+<script src="/assets/js/jquery.flexslider.js"></script>
+
           
 
 </body>

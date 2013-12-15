@@ -10,7 +10,7 @@ image:
   thumb: paper-53-expanded-guide-thumb.jpg
   homepage: paper-by-53-500x500.jpg
 tags: [Paper by 53, tutorial, drawing, painting, iPad, stylus, guide]
-homepage: true
+homepage: false
 ---
 
 <figure class="image-right">
