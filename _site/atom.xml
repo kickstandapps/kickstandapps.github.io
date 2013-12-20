@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title type="text">Kickstand Apps</title>
-	<subtitle type="html">Design Faux Pas</subtitle>
+	<subtitle type="html">Apps for the</subtitle>
 	<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 	<icon>/images/apple-touch-icon-114x114-precomposed.png</icon>
 	<link rel="alternate" type="text/html" href="" />
-	<updated>2013-12-15T04:00:14-06:00</updated>
+	<updated>2013-12-19T22:37:38-06:00</updated>
 	<id>/</id>
 	<author>
 		<name>Travis Zehren</name>

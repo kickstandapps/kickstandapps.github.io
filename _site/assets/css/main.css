@@ -4335,7 +4335,7 @@ span + .entry-title {
   clear: both;
   font-size: 18px;
   font-size: 1.125rem;
-  word-spacing: none;
+  word-spacing: 0;
 }
 
 .entry-meta .tag {
@@ -5038,7 +5038,7 @@ a.share.linkedin:hover {
 }
 
 #post .entry-title.small {
-  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 #app .entry-image {
