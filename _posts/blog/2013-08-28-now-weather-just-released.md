@@ -4,7 +4,7 @@ title: "NOW Weather, Just&nbsp;Released!"
 description: "Great news! NOW Weather has just been released and can be downloaded in the App Store!"
 category: blog
 image:
-  feature: NowLaunch.jpg
+  feature: Now.jpg
   credit: 
   creditlink: 
 tags: [Apps, NOW Weather]

@@ -4,7 +4,7 @@ title: "Introducing NOW&nbsp;Weather!"
 description: "We're proud to introduce our latest app, NOW Weather! Coming Soon!"
 category: blog
 image:
-  feature: NowLaunch.jpg
+  feature: Now.jpg
   credit: 
   creditlink: 
 tags: [Apps, NOW Weather]

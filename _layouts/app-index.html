@@ -6,7 +6,7 @@
   {% unless page.image.feature %}<hr style="margin-top: 0;">{% endunless %}
   <div id="main" role="main" itemprop="mainContentOfPage">
     <article class="entry" itemscope>
-      {% if page.image.feature %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/{{ page.image.feature }});background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ page.title }}">
+      {% if page.image.feature %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/{{ page.image.feature }});" alt="{{ page.title }}">
       <div class="entry-header">
         {% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
         <h1 class="entry-title" itemprop="name"><span class="page-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}{% if page.tagline %}</span><br/><span>{{ page.tagline }}</span>{% endif %}</h1>
@@ -25,7 +25,7 @@
       </div><!-- /.entry-wrapper -->
       <div class="app-content">
         {% for post in site.categories.app %}
-        {% if post.image.feature %}<a href="{{ post.url }}"><header class="entry-image" style="background-image:url({{ site.baseurl }}/images/{{ post.image.feature }});background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ post.title }}">{% else %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/default-page-image.jpg);background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ post.title }}"><!-- /.entry-image -->{% endif %}
+        {% if post.image.feature %}<a href="{{ post.url }}"><header class="entry-image" style="background-image:url({{ site.baseurl }}/images/{{ post.image.feature }});" alt="{{ post.title }}">{% else %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/default-page-image.jpg);" alt="{{ post.title }}"><!-- /.entry-image -->{% endif %}
           <div class="entry-header">
             {% if post.logo.light %}<div class="app-title"><img alt="{{ post.title }}" src="{{ site.baseurl }}/images/{{ post.logo.light }}"/>
             </div>
@@ -35,7 +35,7 @@
            </div>
         </header></a>
         <span class="app-title small">
-          {% if post.logo.dark %}<img alt="{{ post.title }}" src="{{ site.baseurl }}/images/{{ post.logo.dark }}"/>
+          {% if post.logo.dark %}<a href="{{ post.url }}"><img alt="{{ post.title }}" src="{{ site.baseurl }}/images/{{ post.logo.dark }}"/></a>
           {% else %}<h1><span class="page-title">{% if post.headline %}{{ post.headline }}{% else %}{{ post.title }}{% endif %}{% if post.tagline %}</span><br/><span>{{ post.tagline }}</span>{% endif %}</h1>{% endif %}
         </span>
         <p class="app-description">{{ post.description }}</p>

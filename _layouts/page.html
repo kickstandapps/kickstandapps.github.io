@@ -3,17 +3,23 @@
 <body id="page" itemscope itemtype="http://schema.org/WebPage">
 
   {% include navigation.html %}
+  {% unless page.image.feature %}<hr style="margin-top: 0;">{% endunless %}
 
   <div id="main" role="main" itemprop="mainContentOfPage">
     <article class="entry" itemscope>
-      {% if page.image.feature %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/{{ page.image.feature }});background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ page.title }}">{% else %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/default-page-image.jpg);background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ page.title }}"><!-- /.entry-image -->{% endif %}
+      {% if page.image.feature %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/{{ page.image.feature }});" alt="{{ page.title }}">
       <div class="entry-header">
         {% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
         <h1 class="entry-title" itemprop="name"><span class="page-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}{% if page.tagline %}</span><br/><span>{{ page.tagline }}</span>{% endif %}</h1>
       </div>
-    </header>
+    </header><!-- /.entry-image -->{% endif %}
 
     <div class="entry-wrapper">
+      {% unless page.image.feature %}
+      <span class="entry-title small">
+        <h1><span class="page-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}{% if page.tagline %}</span><br/><span>{{ page.tagline }}</span>{% endif %}</h1>
+        <hr>
+      </span>{% endunless %}
       <div class="entry-content" itemprop="articleBody">
         {{ content }}
 

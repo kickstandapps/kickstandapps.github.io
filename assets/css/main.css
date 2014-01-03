@@ -249,7 +249,7 @@ body {
   text-align: center;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .image-right {
     float: right;
     margin-left: 2em;
@@ -306,7 +306,7 @@ body {
           border-radius: 50px;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .unstyled-list .preview {
     float: left;
     width: 75px;
@@ -1071,7 +1071,7 @@ svg:not(:root) {
   height: 75px;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .oversized-recent-grid img {
     width: 106px;
     height: 106px;
@@ -1104,7 +1104,7 @@ svg:not(:root) {
   margin: 0;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .project-wrap {
     width: 215px;
     margin-right: 20px;
@@ -1148,6 +1148,7 @@ svg:not(:root) {
   color: #ffffff;
   text-decoration: none;
   background-color: #ff4e18;
+  border: none;
   -webkit-border-radius: 4px;
      -moz-border-radius: 4px;
           border-radius: 4px;
@@ -3768,13 +3769,7 @@ select {
   margin-bottom: 1.25px;
   color: #333333;
   background-color: #ffffff;
-  border: 1px solid #ffffff;
-}
-
-input:hover,
-textarea:hover,
-select:hover {
-  border-color: #ffffff;
+  border: 1px solid #333333;
 }
 
 .input-mini {
@@ -3910,6 +3905,11 @@ textarea:focus {
   outline: thin dotted \9;
 }
 
+input:focus.btn,
+textarea:focus.btn {
+  box-shadow: 0 2px 6px #808080;
+}
+
 input[type="file"]:focus,
 input[type="radio"]:focus,
 input[type="checkbox"]:focus,
@@ -3977,7 +3977,7 @@ body {
   border-top: 5px solid #333333;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   body {
     font-size: 20px;
     font-size: 1.25rem;
@@ -4014,7 +4014,7 @@ body {
   float: left;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .masthead-wrapper header {
     line-height: 50px;
   }
@@ -4032,7 +4032,7 @@ body {
   color: #333333;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .masthead-wrapper header .site-title {
     display: inline;
     padding-bottom: 0;
@@ -4062,7 +4062,7 @@ body {
   padding: 15px 1em 1em;
 }
 
-@media only screen and (min-width: 30em) {
+@media only screen and (min-width: 40em) {
   .masthead-wrapper header .site-logotype {
     display: block;
   }
@@ -4089,7 +4089,7 @@ a.menu .icons {
   line-height: 50px;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   a.menu {
     display: none;
   }
@@ -4102,7 +4102,7 @@ a.menu .icons {
   font-family: lato, Calibri, Arial, sans-serif;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   #site-nav {
     display: inline-block;
     float: right;
@@ -4118,7 +4118,7 @@ a.menu .icons {
   background: #333;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   #site-nav ul {
     background: #ffffff;
   }
@@ -4126,7 +4126,8 @@ a.menu .icons {
 
 #site-nav li {
   display: block;
-  padding: 15px 30px;
+  padding: 0;
+  overflow: auto;
   font-size: 14px;
   font-size: 0.875rem;
   text-transform: uppercase;
@@ -4136,10 +4137,9 @@ a.menu .icons {
   background-color: #ff4e18;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   #site-nav li {
     float: left;
-    padding: 0;
   }
   #site-nav li:hover {
     background-color: #ffffff;
@@ -4148,6 +4148,7 @@ a.menu .icons {
 
 #site-nav a {
   display: block;
+  padding: 15px 30px;
   margin: 0;
   color: #ffffff;
   text-align: right;
@@ -4158,8 +4159,10 @@ a.menu .icons {
           transition: color 0.2s ease;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   #site-nav a {
+    padding: 0;
+    margin-top: 0;
     margin-right: 0;
     margin-bottom: 0;
     margin-left: 20px;
@@ -4190,9 +4193,18 @@ a.menu .icons {
   width: 100%;
   height: 240px;
   margin-bottom: 40px;
+  background-position: right center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 40em) {
+  .entry-image {
+    background-position: center center;
+  }
+}
+
+@media only screen and (min-width: 50em) {
   .entry-image {
     height: 360px;
   }
@@ -4203,7 +4215,7 @@ a.menu .icons {
   margin: 0;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .entry-header {
     margin: 0 80px;
   }
@@ -4258,7 +4270,7 @@ span + .entry-title {
   word-spacing: 5px;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .entry-title h1 {
     font-size: 42px;
     font-size: 2.625rem;
@@ -4276,13 +4288,13 @@ span + .entry-title {
   color: #ffffff;
 }
 
-@media only screen and (min-width: 30em) {
+@media only screen and (min-width: 40em) {
   .entry-title {
     padding: 0 40px;
   }
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .entry-title {
     max-width: 500px;
     padding: 0;
@@ -4315,14 +4327,14 @@ span + .entry-title {
   clear: both;
 }
 
-@media only screen and (min-width: 30em) {
+@media only screen and (min-width: 40em) {
   .entry-wrapper {
     max-width: 600px;
     padding: 0 40px;
   }
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .entry-wrapper {
     width: 75%;
     max-width: 700px;
@@ -4417,7 +4429,7 @@ span + .entry-title {
   word-spacing: 5px;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .entry-content {
     font-size: 20px;
     font-size: 1.25rem;
@@ -4457,11 +4469,9 @@ span + .entry-title {
 }
 
 .app-content {
-  max-width: 600px;
-  padding-right: 20px;
-  padding-left: 20px;
-  margin-right: auto;
-  margin-left: auto;
+  width: 100%;
+  padding-right: 0;
+  padding-left: 0;
   *zoom: 1;
 }
 
@@ -4476,20 +4486,6 @@ span + .entry-title {
   clear: both;
 }
 
-@media only screen and (min-width: 48em) {
-  .app-content {
-    max-width: 765px;
-    padding-right: 0;
-    padding-left: 0;
-  }
-}
-
-@media only screen and (min-width: 62.5em) {
-  .app-content {
-    max-width: 960px;
-  }
-}
-
 .app-title {
   position: absolute;
   top: 0;
@@ -4497,7 +4493,7 @@ span + .entry-title {
   display: none;
   height: 150px;
   max-width: 250px;
-  margin: auto 20px;
+  margin: auto 40px;
   font-size: 36px;
   font-size: 2.25rem;
   font-weight: 300;
@@ -4505,13 +4501,13 @@ span + .entry-title {
   color: #ffffff;
 }
 
-@media only screen and (min-width: 30em) {
+@media only screen and (min-width: 40em) {
   .app-title {
     display: block;
   }
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .app-title {
     height: 180px;
     max-width: 300px;
@@ -4539,7 +4535,7 @@ span + .entry-title {
   font-weight: 300;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .app-title h1 {
     height: 180px;
     font-size: 42px;
@@ -4561,7 +4557,7 @@ span + .entry-title {
   font-weight: bold;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .app-title .page-title {
     font-size: 56px;
     font-size: 3.5rem;
@@ -4579,13 +4575,13 @@ span + .entry-title {
   margin: auto;
 }
 
-@media only screen and (min-width: 30em) {
+@media only screen and (min-width: 40em) {
   .app-title img {
     max-width: 220px;
   }
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .app-title img {
     max-width: 280px;
   }
@@ -4610,7 +4606,7 @@ span + .entry-title {
   text-align: center;
 }
 
-@media only screen and (min-width: 30em) {
+@media only screen and (min-width: 40em) {
   .app-title.small {
     display: none;
   }
@@ -4627,17 +4623,28 @@ span + .entry-title {
 }
 
 .app-title.small img {
+  max-width: 250px;
   max-height: 150px;
 }
 
 .app-description {
-  width: 100%;
+  padding: 0 20px;
   margin: 0 auto 80px auto;
+  font-weight: 300;
 }
 
-@media only screen and (min-width: 30em) {
+@media only screen and (min-width: 40em) {
   .app-description {
-    width: 80%;
+    max-width: 600px;
+    padding: 0 40px;
+  }
+}
+
+@media only screen and (min-width: 50em) {
+  .app-description {
+    width: 75%;
+    max-width: 700px;
+    padding: 0;
   }
 }
 
@@ -4650,7 +4657,7 @@ span + .entry-title {
   margin: 0;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .half {
     float: left;
     width: 49%;
@@ -4669,7 +4676,7 @@ div.half.last {
   margin-bottom: 0;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   div.half {
     width: 47.5%;
     margin: 0 5% 0 0;
@@ -4682,13 +4689,15 @@ div.half.last {
 
 .one-third {
   width: 100%;
-  margin: 0;
+  max-width: 400px;
+  margin: 0 auto;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 40em) {
   .one-third {
     float: left;
     width: 32%;
+    max-width: none;
     margin: 0 2% 0 0;
   }
   .one-third.last {
@@ -4696,7 +4705,7 @@ div.half.last {
   }
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 40em) {
   div.one-third {
     width: 30%;
     margin: 0 5% 0 0;
@@ -4708,13 +4717,15 @@ div.half.last {
 
 .two-third {
   width: 100%;
-  margin: 0;
+  max-width: 400px;
+  margin: 0 auto;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 40em) {
   .two-third {
     float: left;
     width: 66%;
+    max-width: none;
     margin: 0 2% 0 0;
   }
   .two-third.last {
@@ -4722,7 +4733,7 @@ div.half.last {
   }
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 40em) {
   div.two-third {
     width: 65%;
     margin: 0 5% 0 0;
@@ -4806,14 +4817,14 @@ a.share.linkedin:hover {
   clear: both;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .pagination {
     padding: 0;
     border-top: 0 solid;
   }
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .previous-link,
   .next-link {
     position: fixed;
@@ -4841,7 +4852,7 @@ a.share.linkedin:hover {
   }
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .previous-link {
     left: 0;
     -webkit-border-top-right-radius: 5px;
@@ -4862,7 +4873,7 @@ a.share.linkedin:hover {
   }
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .next-link {
     right: 0;
     -webkit-border-top-right-radius: 0;
@@ -4888,7 +4899,7 @@ a.share.linkedin:hover {
   margin-left: 1em;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .archive-link {
     display: none;
   }
@@ -4903,7 +4914,7 @@ a.share.linkedin:hover {
   font-weight: 300;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   #home .entry-title,
   #page .entry-title,
   #app .entry-title,
@@ -4930,7 +4941,7 @@ a.share.linkedin:hover {
   font-weight: 300;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   #home .entry-title h1,
   #page .entry-title h1,
   #app .entry-title h1,
@@ -4957,7 +4968,7 @@ a.share.linkedin:hover {
   font-weight: bold;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   #home .entry-title .page-title,
   #page .entry-title .page-title,
   #app .entry-title .page-title,
@@ -4987,13 +4998,15 @@ a.share.linkedin:hover {
 }
 
 #post .entry-title,
+#page .entry-title,
 #app .entry-title,
 #app-index .entry-title {
   display: none;
 }
 
-@media only screen and (min-width: 30em) {
+@media only screen and (min-width: 40em) {
   #post .entry-title,
+  #page .entry-title,
   #app .entry-title,
   #app-index .entry-title {
     display: block;
@@ -5001,6 +5014,7 @@ a.share.linkedin:hover {
 }
 
 #post .entry-title.small,
+#page .entry-title.small,
 #app .entry-title.small,
 #app-index .entry-title.small {
   position: relative;
@@ -5015,8 +5029,9 @@ a.share.linkedin:hover {
   text-align: center;
 }
 
-@media only screen and (min-width: 30em) {
+@media only screen and (min-width: 40em) {
   #post .entry-title.small,
+  #page .entry-title.small,
   #app .entry-title.small,
   #app-index .entry-title.small {
     display: none;
@@ -5024,6 +5039,7 @@ a.share.linkedin:hover {
 }
 
 #post .entry-title.small h1,
+#page .entry-title.small h1,
 #app .entry-title.small h1,
 #app-index .entry-title.small h1 {
   height: auto;
@@ -5031,71 +5047,90 @@ a.share.linkedin:hover {
 }
 
 #post .entry-title.small a,
+#page .entry-title.small a,
 #app .entry-title.small a,
 #app-index .entry-title.small a {
   margin: 0;
   text-align: left;
 }
 
+#post .entry-title.small img,
+#page .entry-title.small img,
+#app .entry-title.small img,
+#app-index .entry-title.small img {
+  max-width: 250px;
+  max-height: 150px;
+}
+
 #post .entry-title.small {
   margin-bottom: 20px;
 }
 
-#app .entry-image {
+#app .entry-image,
+#app-index .entry-image {
   height: 240px;
 }
 
-@media only screen and (min-width: 30em) {
-  #app .entry-image {
+@media only screen and (min-width: 40em) {
+  #app .entry-image,
+  #app-index .entry-image {
     height: 360px;
   }
 }
 
-@media only screen and (min-width: 48em) {
-  #app .entry-image {
+@media only screen and (min-width: 50em) {
+  #app .entry-image,
+  #app-index .entry-image {
     height: 360px;
   }
 }
 
 @media only screen and (min-width: 62.5em) {
-  #app .entry-image {
+  #app .entry-image,
+  #app-index .entry-image {
     height: 480px;
   }
 }
 
 #app .entry-title h1,
-#app-index .entry-title h1 {
+#app-index .entry-title h1,
+#page .entry-title h1 {
   margin: 0;
 }
 
 #app .entry-title img,
-#app-index .entry-title img {
+#app-index .entry-title img,
+#page .entry-title img {
   margin: auto;
 }
 
-@media only screen and (min-width: 30em) {
+@media only screen and (min-width: 40em) {
   #app .entry-title img,
-  #app-index .entry-title img {
+  #app-index .entry-title img,
+  #page .entry-title img {
     max-width: 220px;
   }
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   #app .entry-title img,
-  #app-index .entry-title img {
+  #app-index .entry-title img,
+  #page .entry-title img {
     max-width: 280px;
   }
 }
 
 @media only screen and (min-width: 62.5em) {
   #app .entry-title img,
-  #app-index .entry-title img {
+  #app-index .entry-title img,
+  #page .entry-title img {
     max-width: 340px;
   }
 }
 
 #app .entry-title a,
-#app-index .entry-title a {
+#app-index .entry-title a,
+#page .entry-title a {
   float: right;
   margin-top: 20px;
   font-size: 20px;
@@ -5104,21 +5139,24 @@ a.share.linkedin:hover {
 }
 
 #app .entry-title a img,
-#app-index .entry-title a img {
+#app-index .entry-title a img,
+#page .entry-title a img {
   float: left;
   height: 48px;
   margin: 4px 15px 4px 0;
 }
 
 #app .entry-title .app-store,
-#app-index .entry-title .app-store {
+#app-index .entry-title .app-store,
+#page .entry-title .app-store {
   width: 233px;
   margin: 0 auto;
   opacity: 0.6;
 }
 
 #app .entry-title .app-store.small,
-#app-index .entry-title .app-store.small {
+#app-index .entry-title .app-store.small,
+#page .entry-title .app-store.small {
   width: 252px;
   padding: 10px;
   margin: 20px auto;
@@ -5127,21 +5165,25 @@ a.share.linkedin:hover {
   border-radius: 10px;
 }
 
-#app-index .entry-image {
+#app-index .entry-image,
+#page .entry-image {
   margin-bottom: 20px;
 }
 
-@media only screen and (min-width: 30em) {
-  #app-index .entry-image {
+@media only screen and (min-width: 40em) {
+  #app-index .entry-image,
+  #page .entry-image {
     margin-bottom: 40px;
   }
 }
 
-#app-index .entry-title {
+#app-index .entry-title,
+#page .entry-title {
   display: block;
 }
 
-#app-index .entry-title.small {
+#app-index .entry-title.small,
+#page .entry-title.small {
   display: block;
 }
 
@@ -5180,7 +5222,7 @@ a.share.linkedin:hover {
   text-transform: uppercase;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .post-list .entry-date {
     display: inline;
   }
@@ -5192,7 +5234,7 @@ a.share.linkedin:hover {
   font-size: 1rem;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .post-list p {
     font-size: 18px;
     font-size: 1.125rem;
@@ -5260,13 +5302,13 @@ a.share.linkedin:hover {
   height: 240px;
 }
 
-@media only screen and (min-width: 30em) {
+@media only screen and (min-width: 40em) {
   .slides li {
     height: 360px;
   }
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 50em) {
   .slides li {
     height: 360px;
   }
@@ -5328,6 +5370,19 @@ a.share.linkedin:hover {
   font-size: 18px;
   color: #333333;
   text-indent: 0;
+}
+
+.team-bio {
+  text-align: center;
+}
+
+.team-bio img {
+  width: 80%;
+  margin: 20px 10%;
+}
+
+.team-bio .bio {
+  text-align: left;
 }
 
 .footer-wrapper {

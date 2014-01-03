@@ -510,13 +510,13 @@ form li.leftHalf, form li.leftThird, form li.leftFourth, form li.leftFifth {
     margin-left: 1% !important;
 }
 form .instruct {
-    position: absolute;
+    display: none;
     top: 0;
     left: 0;
     z-index: 1000;
-    width: 45%;
-    margin: 0 0 0 8px;
-    padding: 8px 10px 10px 10px;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
     border: 1px solid #e6e6e6;
     background: #f5f5f5;
     visibility: hidden;
@@ -536,6 +536,7 @@ form li.focused .instruct, form li:hover .instruct {
     left: 100%;
     visibility: visible;
     opacity: 1;
+    display: block;
 }
 .altInstruct .instruct, li.leftHalf .instruct, li.rightHalf .instruct, li.leftThird .instruct, li.middleThird .instruct, li.rightThird .instruct, li.leftFourth .instruct, li.middleFourth .instruct, li.rightFourth .instruct, li.leftFifth .instruct, li.middleFifth .instruct, li.rightFifth .instruct, .iphone .instruct {
     visibility: visible;

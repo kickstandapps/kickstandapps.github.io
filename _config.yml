@@ -9,7 +9,7 @@ url:              http://kickstandapps.github.io
 baseurl:          ""
 
 # Owner/author information
-authors:
+team:
   travis:
     name:         Travis Zehren
     avatar:       travis-zehren-photo.jpg
@@ -17,6 +17,13 @@ authors:
     email:        tzehren@kickstandapps.com
     twitter:      "kickstandapps"
     web:          "http://www.kickstandapps.com/about/"
+  getInvolved:
+    getInvolved:  true
+    name:         You should be here
+    avatar:       defaultPerson.jpg
+    bio:          "Have a passion for design or development and want to test your skills? Fascinated by the business side of a startup? Let us know what you enjoy and we'll be in touch."
+    email:        getinvolved@kickstandapps.com
+    web:          "http://www.kickstandapps.com/contact/"
 
 owner:
   name:           Travis Zehren
@@ -44,14 +51,16 @@ permalink:   /:year/:month/:title/
 
 # Internal pages/posts to include in top navigation
 links:
+  - title: Home
+    url: /
   - title: Apps
     url: /apps/
   - title: Blog
     url: /blog/
-  - title: Mastering Paper
-    url: /mastering-paper/
   - title: About
-    url: /about.html
+    url: /about/
+  - title: Contact us
+    url: /contact/
 
 maruku:
   use_tex:    false

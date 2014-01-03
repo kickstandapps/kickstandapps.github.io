@@ -6,7 +6,7 @@
 
   <div id="main" role="main" itemprop="mainContentOfPage">
     <article class="entry" itemscope>
-      {% if page.image.feature %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/{{ page.image.feature }});background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ page.title }}">{% else %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/default-page-image.jpg);background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ page.title }}"><!-- /.entry-image -->{% endif %}
+      {% if page.image.feature %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/{{ page.image.feature }});" alt="{{ page.title }}">{% else %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/default-page-image.jpg);" alt="{{ page.title }}"><!-- /.entry-image -->{% endif %}
       <div class="entry-header">
         {% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
         {% if page.logo.light %}<div class="entry-title"><img alt="{{ page.title }}" src="{{ site.baseurl }}/images/{{ page.logo.light }}"/>

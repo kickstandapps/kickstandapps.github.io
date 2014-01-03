@@ -63,11 +63,8 @@ select {
 	padding: 4px;
 	margin-bottom: 5px / 4;
 	background-color: @white;
-	border: 1px solid lighten(@black, 80);
+	border: 1px solid @black;
 	color: @text-color; 
-	&:hover {
-		border-color: lighten(@accent-color, 50); 
-	}
 }
 .input-mini { 
 	width: 60px; 
@@ -179,7 +176,10 @@ input:focus,
 textarea:focus {
 	border-color : @accent-color;
 	outline : 0;
-	outline : thin dotted \9; 
+	outline : thin dotted \9;
+	&.btn {
+		box-shadow: 0 2px 6px lighten(@black, 30%);
+	}
 }
 input[type="file"]:focus,
 input[type="radio"]:focus,

@@ -10,7 +10,7 @@
       <ul class="slides">
         {% for post in site.posts %}
           {% if post.homepage %}
-          <li>
+          <li style="opacity: 0;">
             <a href={{ post.url }}>
               <div style="background:url({{ site.baseurl }}/images/{{ post.image.homepage }}) no-repeat center center; background-size:cover;"></div>
             </a>

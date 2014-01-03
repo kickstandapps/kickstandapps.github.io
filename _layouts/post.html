@@ -6,7 +6,7 @@
 
 	<div id="main" role="main" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
 		<article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-			{% if page.image.feature %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/{{ page.image.feature }});background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ page.title }}">{% else %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/default-post-image.jpg);background-size:cover;background-position:center center;background-repeat:no-repeat;" alt="{{ page.title }}"><!-- /.entry-image -->{% endif %}
+			{% if page.image.feature %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/{{ page.image.feature }});" alt="{{ page.title }}">{% else %}<header class="entry-image" style="background-image:url({{ site.baseurl }}/images/default-post-image.jpg);;" alt="{{ page.title }}"><!-- /.entry-image -->{% endif %}
 			<div class="entry-header">
 				{% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
 				<h1 class="entry-title" itemprop="name">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
@@ -45,7 +45,7 @@
 
 				<hr />
 
-				{% if page.author %}{% assign author = site.authors[page.author] %}{% else %}{% assign author = site.owner %}{% endif %}
+				{% if page.author %}{% assign author = site.team[page.author] %}{% else %}{% assign author = site.owner %}{% endif %}
 
 				<br />
 				<div class="entry-meta"> 

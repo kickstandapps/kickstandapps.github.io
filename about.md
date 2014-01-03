@@ -1,99 +1,69 @@
 ---
 layout: page
-title: About
-headline: What's a Made Mistakes?
-subheadline: Behind the Name and Designer
-modified: 2013-08-29
-description: "You've found the about page of Michael Rose&thinsp;&ndash;&thinsp;just another boring, tattooed, time traveling, designer and illustrator from Buffalo, New York."
-tags: [Michael Rose, design, Buffalo, web design, feature]
+permalink: /about/
+title: About Us
+tagline: The company and the team
+modified: 2013-12-26
+description: "A little bit about the company and the team behind it."
+tags: [about]
 ---
+<p>
+  We have a mission: create apps that people love to use. Here's how we are going to do that.
+</p>
+<div style="position: relative;">
+  <div class="half">
+    <h3 style="margin: 30px 0 10px;">Have Fun</h3>
+    <p style="margin: 0;">
+      This is the most important. If we're not having a great time creating an app, you won't enjoy using it. At least not as much as you should.
+    </p>
+    <h3 style="margin: 30px 0 10px;">Stay Passionate</h3>
+    <p style="margin: 0;">
+      We are going to build the apps that we want to use ourselves. This allows us to stay excited and satisfy our most demanding customers... us.
+    </p>
+  </div>
+  <div class="half last">
+    <h3 style="margin: 30px 0 10px;">Iterate Quickly</h3>
+    <p style="margin: 0;">
+      By consistently trying to improve our apps, we'll be able to react more quickly to customer input and push out new features more frequently.
+    </p>
+    <h3 style="margin: 30px 0 10px;">Communicate with You</h3>
+    <p style="margin: 0;">
+      Customer relations should be a discussion. Whether it's solving a problem, introducing new features, or getting suggestions, your voice will be heard.
+    </p>
+  </div>
+</div>
 
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/form.min.css">
-<script src="{{ site.baseurl }}/assets/js/vendor/wufoo.js"></script>
+&nbsp;
 
-<figure>
-  <img src="{{ site.baseurl }}/images/paperfaces-michael-rose-beard-m.jpg" alt="Michael Rose self portrait">
-  <figcaption>Self portrait illustrated with the lovely Paper by 53 iPad app.</figcaption>
-</figure>
+<hr />
 
-So why the title *made mistakes*? It vaguely has something to do with that whole happy accident thing, where a mistake can turn out to be something great and unplanned. But to be honest I was just looking for a short, memorable sounding domain name.
+<h1 style="text-align: center;">Our Team</h1>
 
-In May of 2004 I purchased mademistakes.com, and threw up a Macromedia Flash splash (hey remember those?) while I worked on building a design portfolio using Movable Type. For the next couple of years I would experiment with various content management systems ([Movable Type](http://www.movabletype.org/) &rarr; [Textpattern](http://textpattern.com/) &rarr; [Wordpress](http://wordpress.org/) &rarr; [Indexhibit](http://www.indexhibit.org/)), developing minimalistic themes and learning what I could about <abbr>HTML</abbr>, <abbr>CSS</abbr>, Javascript, <abbr>PHP</abbr>, and MySQL databases.
+<div class="team-bio" style="overflow: auto;">
 
-I've since decided to go <abbr>CMS</abbr>-free and utilize black magick and [Jekyll](http://jekyllrb.com/) to [manage the site with static text files]({{ site.baseurl }}/articles/going-static.html). I like knowing how things work behind the scenes so hand-coding the layouts and stylesheets is the only way to go. Not being limited by a <abbr>CMS</abbr> is a wonderful thing...
+  {% assign index = 0 %}
 
-### And Who Are You Again?
+  {% for name in site.team %}
+  {% assign author = name[1] %}
 
-Oh hey --- I'm Michael Rose, just another boring, tattooed, time traveling, designer and illustrator working in Buffalo, New York. I'm into drawing [faceless portraits of strangers]({{ site.baseurl }}/articles/paperfaces-ipad-portrait-project.html) on an iPad using [Paper by FiftyThree](http://www.fiftythree.com/paper), movie theater popcorn, [chicken wings done right](http://www.duffswings.com "Duff's Famous Wings"), dust collecting record collections, and over using ellipses and em-dashes.
+  <div class="{% cycle 'half', 'half last' %}" style="text-align: center;">
+    <img src="{{ site.baseurl }}/images/{{ author.avatar }}" alt="{{ author.name }} photo" width="80%">
+    <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="fn"><strong>{{ author.name }}</strong></span></span>
+    <p class="bio">{{ author.bio }}</p>
+    {% if author.email %}
+    <div style="width: auto;">
+      {% if author.getInvolved %}
+      <a class="btn" href="mailto:{{ author.email }}" target="_blank">Get Involved</a>
+      {% else %}
+      <a class="btn" href="mailto:{{ author.email }}" target="_blank">Contact Me</a>
+      {% endif %}
+    </div>
+    {% endif %}
+  </div>
 
-When I'm not drawing on my iPad, releasing open source [Jekyll themes]({{ site.baseurl }}/tag/jekyll), or [building the next great thing](http://ekowave.com), I work as an inhouse web and print designer for a science education company. On any given day I could be designing product catalogs, marketing collateral, landing pages, email promotions and newsletters, or just getting cozy with <abbr>HTML</abbr>, <abbr>CSS</abbr>, and JavaScript.
+  {% endfor %}
 
-Oh, and I'm a recent father of twin girls and will someday help redesign [my wife's site](http://2littlerosebuds.com "2 Little Rosebuds")...
+</div>
 
-## Contact Me
+<hr />
 
-Send a short message below or [@reply me on Twitter](http://twitter.com/mmistakes).
-
-<form id="form1" name="form1" class="wufoo  page" autocomplete="off" enctype="multipart/form-data" method="post" novalidate
-action="https://mademistakes.wufoo.com/forms/z7x4m1/#public">
-    <ul>
-      <li id="foli1" class="notranslate      ">
-        <label class="desc" id="title1" for="Field1"> Message <span id="req_1" class="req">*</span> </label>
-        <div>
-          <textarea id="Field1" name="Field1" class="field textarea medium" spellcheck="true" rows="10" cols="50" tabindex="1" onkeyup="" required></textarea>
-        </div>
-      </li>
-      <li id="foli7" class="notranslate      ">
-        <label class="desc" id="title7" for="Field7"> Name </label>
-        <div>
-          <input id="Field7" name="Field7" type="text" class="field text medium" value="" maxlength="255" tabindex="2" onkeyup="" />
-        </div>
-      </li>
-      <li id="foli2" class="notranslate      ">
-        <label class="desc" id="title2" for="Field2"> Email Address <span id="req_2" class="req">*</span> </label>
-        <div>
-          <input id="Field2" name="Field2" type="email" spellcheck="false" class="field text large" value="" maxlength="255" tabindex="3" required />
-        </div>
-        <p class="instruct" id="instruct2"><small>Your email address will remain private and won't be shared with anyone.</small></p>
-      </li>
-      <li class="buttons ">
-        <div>
-          <input id="saveForm" name="saveForm" class="btn" type="submit" value="Send Message"
- />
-        </div>
-      </li>
-      <li class="hidden">
-        <label for="comment">Do Not Fill This Out</label>
-        <textarea name="comment" id="comment" rows="1" cols="1"></textarea>
-        <input type="hidden" id="idstamp" name="idstamp" value="DXSyHZyBYpNZI+88LvVOKO8dSfd/5lyIeCQAXFVxeJY=" />
-      </li>
-    </ul>
-  </form>
-
-## Tools of the Trade
-
-Here's a laundry list of hardware and software I use to create Made Mistakes and most of it's content.
-
-### Hardware
-
-* iMac (20-inch, Mid 2007)
-* iPad (Retina 3rd generation)
-* Canon EOS XTi Digital SLR
-
-### Software, Plugins, and Whatever
-
-* [Jekyll](http://jekyllrb.com)
-* [Adobe Creative Suite](http://adobe.com)
-* [Sublime Text 2](http://www.sublimetext.com)
-* [SourceTree](http://www.sourcetreeapp.com)
-* [Paper by FiftyThree](http://fiftythree.com)
-* [Multi-Browser Viewer](http://www.multibrowserviewer.com)
-* [Cyberduck](http://cyberduck.ch)
-* [FileZilla](https://filezilla-project.org)
-* [LESS](http://lesscss.org)
-* [jQuery](http://jquery.com)
-* [Grunt](http://gruntjs.com)
-* [Magnific Popup](https://github.com/dimsemenov/Magnific-Popup)
-* [FitVids](http://fitvidsjs.com)
-* [Font Awesome](http://fontawesome.io)
-* [HTML Compressor](https://code.google.com/p/htmlcompressor)

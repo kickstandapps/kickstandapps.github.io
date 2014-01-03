@@ -103,7 +103,8 @@ a.menu {
 		}
 	}
 	li {
-		padding: 15px 30px;
+		padding: 0;
+		overflow: auto;
 		display: block;
 		.font-rem(14);
 		text-transform: uppercase;
@@ -111,7 +112,6 @@ a.menu {
 			background-color: @accent-color;
 		}
 		@media @medium {
-			padding: 0;
 			&:hover {
 				background-color: @white;
 			}
@@ -120,6 +120,7 @@ a.menu {
 	}
 	a {
 		display: block;
+		padding: 15px 30px;
 		margin: 0;
 		text-align: right;
 		color: @white;
@@ -129,6 +130,8 @@ a.menu {
 				color: @accent-color;
 			}
 			color: @black;
+			padding: 0;
+			margin-top: 0;
 			margin-left: 20px;
 			margin-right: 0;
 			margin-bottom: 0;
@@ -146,6 +149,12 @@ a.menu {
 	margin-bottom: 40px;
 	position: relative;
 	height: 240px;
+	background-size: cover;
+	background-position: right center;
+	background-repeat: no-repeat;
+	@media @small {
+		background-position: center center;
+	}
 	@media @medium {
 		height: 360px;
 	}
@@ -303,20 +312,10 @@ span + .entry-title {
 	}
 }
 .app-content {
-	margin-right: auto;
-	margin-left: auto;
-	padding-right: 20px;
-	padding-left: 20px;
-	max-width: 600px;
+	width: 100%;
+	padding-right: 0;
+	padding-left: 0;
 	.clearfix();
-	@media @medium {
-		max-width: 765px;
-		padding-right: 0;
-		padding-left: 0;
-	}
-	@media @large {
-		max-width: 960px;
-	}
 }
 .app-title {
 	position: absolute;
@@ -327,7 +326,7 @@ span + .entry-title {
 	max-width: 250px;
 	height: 150px;
 	line-height: 1.2;
-	margin: auto 20px;
+	margin: auto 40px;
 	color: @white;
 	.font-rem(36);
 	@media @small {
@@ -406,14 +405,22 @@ span + .entry-title {
 		}
 		img {
 			max-height: 150px;
+			max-width: 250px;
 		}
 	}
 }
 .app-description {
+	font-weight: 300;
 	margin: 0 auto 80px auto;
-	width: 100%;
+	padding: 0 20px;
 	@media @small {
-		width: 80%;
+		padding: 0 40px;
+		max-width: 600px;
+	}
+	@media @medium {
+		padding: 0;
+		width: 75%;
+		max-width: 700px;
 	}
 }
 .post-list {
@@ -449,8 +456,10 @@ div.half {
 }
 .one-third {
 	width: 100%;
-	margin: 0;
-	@media @medium {
+	max-width: 400px;
+	margin: 0 auto;
+	@media @small {
+		max-width: none;
 		width: 32%;
 		float: left;
 		margin: 0 2% 0 0;
@@ -460,7 +469,7 @@ div.half {
 	}
 }
 div.one-third {
-	@media @medium {
+	@media @small {
 		width: 30%;
 		margin: 0 5% 0 0;
 		&.last {
@@ -470,8 +479,10 @@ div.one-third {
 }
 .two-third {
 	width: 100%;
-	margin: 0;
-	@media @medium {
+	max-width: 400px;
+	margin: 0 auto;
+	@media @small {
+		max-width: none;
 		width: 66%;
 		float: left;
 		margin: 0 2% 0 0;
@@ -481,7 +492,7 @@ div.one-third {
 	}
 }
 div.two-third {
-	@media @medium {
+	@media @small {
 		width: 65%;
 		margin: 0 5% 0 0;
 		&.last {
@@ -633,6 +644,7 @@ a.share {
 	}
 }
 #post,
+#page,
 #app,
 #app-index {
 	.entry-title {
@@ -661,6 +673,10 @@ a.share {
 				text-align: left;
 				margin: 0;
 			}
+			img {
+				max-height: 150px;
+				max-width: 250px;
+			}
 		}	
 	}
 }
@@ -671,7 +687,8 @@ a.share {
 		}
 	}
 }
-#app {
+#app,
+#app-index {
 	.entry-image {
 		height: 240px;
 		@media @small {
@@ -686,7 +703,8 @@ a.share {
 	}
 }
 #app,
-#app-index {	
+#app-index,
+#page {	
 	.entry-title {
 		h1 {
 			margin: 0;
@@ -730,7 +748,8 @@ a.share {
 		}
 	}	
 }
-#app-index {
+#app-index,
+#page {
 	.entry-image {
 		margin-bottom: 20px;
 		@media @small {
@@ -868,6 +887,16 @@ a.share {
 			color: @black;
 			text-indent: 0;
 		}
+	}
+}
+.team-bio {
+	text-align: center;
+	img {
+		width: 80%;
+		margin: 20px 10%;
+	}
+	.bio {
+		text-align: left;
 	}
 }
 
