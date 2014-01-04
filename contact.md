@@ -40,7 +40,7 @@ Questions, comments, complaints, suggestions? Just want to chat? Whatever the re
 		</li>
 		<li class="buttons ">
 			<div>
-				<input id="saveForm" name="saveForm" class="btn" tabindex="4" type="submit" value="Send Message"
+				<input id="saveForm" class="btn" tabindex="4" type="submit" value="Send Message"
 				/>
 			</div>
 		</li>

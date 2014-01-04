@@ -59,8 +59,10 @@ links:
     url: /blog/
   - title: About
     url: /about/
-  - title: Contact us
+  - title: Contact
     url: /contact/
+  - title: Support
+    url: /support/
 
 maruku:
   use_tex:    false
