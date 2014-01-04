@@ -53,7 +53,7 @@ tags: [about]
     {% if author.email %}
     <div style="width: auto;">
       {% if author.getInvolved %}
-      <a class="btn" href="mailto:{{ author.email }}" target="_blank">Get Involved</a>
+      <a class="btn" href="mailto:{{ author.email }}?subject=I'd Love to Get Involved" target="_blank">Get Involved</a>
       {% else %}
       <a class="btn" href="mailto:{{ author.email }}" target="_blank">Contact Me</a>
       {% endif %}

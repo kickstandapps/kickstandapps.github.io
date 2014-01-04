@@ -5385,6 +5385,14 @@ a.share.linkedin:hover {
   text-align: left;
 }
 
+.success {
+  display: none;
+  padding: 10px;
+  color: #ffffff;
+  text-align: center;
+  background: #ff4e18;
+}
+
 .footer-wrapper {
   padding-right: 20px;
   padding-left: 20px;

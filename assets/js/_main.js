@@ -60,6 +60,11 @@ $(window).load(function() {
   });
 });
 
+// Form success box
+var locSearch = window.location.search.substring(1).split('&')[0];
+if(locSearch){
+    document.getElementById( locSearch ).style.display = "block";
+}
 
   $('article.post iframe').wrap('<div class="video-container" />');
 
