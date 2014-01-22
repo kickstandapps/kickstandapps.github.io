@@ -4,9 +4,9 @@ title: "One Week Later"
 description: "Our latest app, NOW Weather, has been out for a week. We check in to see how it's doing."
 category: blog
 image:
-  feature: paper-53-blend-first-look-feature.jpg
-  credit: 
-  creditlink: 
+  feature: Week.jpg
+  credit: "Steve Mueller"
+  creditlink: http://www.planetofsuccess.com/blog/
 tags: [Apps, NOW Weather]
 comments: true
 share: true
@@ -17,11 +17,11 @@ Last Wednesday I released [NOW Weather]({{ site.baseurl }}/now-weather/). It has
 ##What we tried
 Up until now, the only places I've posted links have been social networks. This hasn't generated a lot of response. Makes sense though. As of writing this we have only one follower on Twitter, eight followers on Facebook, and just about nothing to speak of on LinkedIn and Google+.
 
-So, it seemed like it was time to try something new. I decided about a month ago that I was going to try to do better at promoting the launch of NOW Weather than I did promoting [Tock]({{ site.baseurl }}/tock/) when it launched last year. So I set up a [landing page]({{ site.baseurl }}/now-weather/) with some promotional images, some details, and an email subscription. Then I wrote up a [blog post]({{ site.baseurl }})/2013/08/introducing-now-weather/)introducing the app. I posted the link to the standard social networks, but I also tried submitting the link to [Hacker News](https://news.ycombinator.com/). If you're not familiar with Hacker News, it's just a community of people interested in new technology, design, and startups. Anyone can submit a link, and it gets voted up by readers. If you get enough votes, you make the front page of the site and have your link seen by thousands of people.
+So, it seemed like it was time to try something new. I decided about a month ago that I was going to try to do better at promoting the launch of NOW Weather than I did promoting [Tock]({{ site.baseurl }}/tock/) when it launched last year. So I set up a [landing page]({{ site.baseurl }}/now-weather/) with some promotional images, some details, and an email subscription. Then I wrote up a [blog post]({{ site.baseurl }}/2013/08/introducing-now-weather/) introducing the app. I posted the link to the standard social networks, but I also tried submitting the link to [Hacker News](https://news.ycombinator.com/). If you're not familiar with Hacker News, it's just a community of people interested in new technology, design, and startups. Anyone can submit a link, and it gets voted up by readers. If you get enough votes, you make the front page of the site and have your link seen by thousands of people.
 
 However, this first try didn't get seen by thousands of people. Over the next few days, the site got about 88 page views. Not exactly setting the world on fire. Even worse, not a single person subscribed for updates. Oh well.
 
-So we went ahead with getting the app ready for launch, submitting it to Apple, and having it approved. So I figured I'd give this all another shot on launch day. I wrote up another [blog post]({{ site.baseurl }})/2013/08/introducing-now-weather/). I posted it to those same old social networks. I also posted it to the [Side Project subreddit](http://www.reddit.com/r/SideProject/) hoping for some interest from an audience looking for these types of projects. Finally I posted again to Hacker News.
+So we went ahead with getting the app ready for launch, submitting it to Apple, and having it approved. So I figured I'd give this all another shot on launch day. I wrote up another [blog post]({{ site.baseurl }}/2013/08/introducing-now-weather/). I posted it to those same old social networks. I also posted it to the [Side Project subreddit](http://www.reddit.com/r/SideProject/) hoping for some interest from an audience looking for these types of projects. Finally I posted again to Hacker News.
 
 <figure>
 	<img src="{{ site.baseurl }}/images/LaunchDay.png">

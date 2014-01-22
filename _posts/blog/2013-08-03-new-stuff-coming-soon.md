@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Stuff Coming Soon!"
-description: "We've got new announcements on the way, so stay tuned"
+description: "We've got new announcements on the way, so stay tuned!"
 category: blog
 image:
   feature: ComingSoon.jpg
