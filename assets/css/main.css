@@ -5211,6 +5211,10 @@ a.share.linkedin:hover {
   clear: both;
 }
 
+.post-list li.last {
+  border-bottom: none;
+}
+
 .post-list a > span {
   float: right;
 }

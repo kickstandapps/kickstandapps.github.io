@@ -5,7 +5,7 @@
 	<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 	<icon>/images/apple-touch-icon-114x114-precomposed.png</icon>
 	<link rel="alternate" type="text/html" href="" />
-	<updated>2014-01-21T23:49:21-06:00</updated>
+	<updated>2014-01-23T20:26:26-06:00</updated>
 	<id>/</id>
 	<author>
 		<name>Travis Zehren</name>
@@ -121,7 +121,7 @@
 
 &lt;div class=&quot;one-third&quot;&gt;
   &lt;figure&gt;
-    &lt;img src=&quot;http://placehold.it/645x1366&quot; alt=&quot;Options Menu&quot; /&gt;
+    &lt;img src=&quot;/images/Now-Options.jpg&quot; alt=&quot;Options Menu&quot; /&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
 &lt;div class=&quot;two-third last&quot; style=&quot;margin-bottom: 50px&quot;&gt;

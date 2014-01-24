@@ -34,7 +34,7 @@ share: true
 
 <div class="one-third">
   <figure>
-    <img src="http://placehold.it/645x1366" alt="Options Menu">
+    <img src="{{ site.baseurl }}/images/Now-Options.jpg" alt="Options Menu">
   </figure>
 </div>
 <div class="two-third last" style="margin-bottom: 50px">

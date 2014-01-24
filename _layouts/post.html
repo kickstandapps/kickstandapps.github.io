@@ -57,7 +57,7 @@
 					<div class="half last">
 						<span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">Published on {{ page.date | date: "%B" }} {{ page.date | date: "%d" | plus:'0' }}, {{ page.date | date: "%Y" }}</time></span><br />
 						{% if page.modified %}<span class="entry-date date updated">(Updated on <time datetime="{{ page.modified }}" itemprop="dateModified">{{ page.modified | date: "%B" }} {{ page.modified | date: "%d" | plus:'0' }}, {{ page.modified | date: "%Y" }}</time>)</span>{% endif %}
-						<span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.baseurl }}/tag/{{ tag | replace:' ','-' | downcase }}" title="{{ tag }}" class="tag" rel="tag">{{ tag }}</a>{% endfor %}</span>
+						<span class="entry-tags">{% for tag in page.tags %}<p class="tag">{{ tag }}</p>{% endfor %}</span>
 					</div>
 				</div><!-- /.entry-meta -->
 				<br />
