@@ -48,6 +48,7 @@ $(document).ready(function() {
     }
   });
 
+
 // Initialise FlexSlider for Carousels
 $(window).load(function() {
   $('.flexslider').flexslider({
