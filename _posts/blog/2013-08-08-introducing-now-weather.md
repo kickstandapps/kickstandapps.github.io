@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing NOW&nbsp;Weather!"
+title: "Introducing NOW&#160;Weather!"
 description: "We're proud to introduce our latest app, NOW Weather! Coming Soon!"
 category: blog
 image:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "&ldquo;Waiting for Review&rdquo;"
+title: "&quot;Waiting for Review&quot;"
 description: "All our work is done, so now we have to wait."
 category: blog
 image:

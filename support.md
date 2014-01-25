@@ -12,7 +12,7 @@ tags: [support]
 
 We really don't want you to have problems with any of our apps. But nothing's perfect and if something does go wrong, we want to get you back up and running as quick as possible. You can also always send an email to support@kickstandapps.com and we'll take a look at the issue as soon as we can.
 
-<p class="success" id="success"><strong>Success! You&nbsp;should&nbsp;hear&nbsp;back&nbsp;soon!</strong></p>
+<p class="success" id="success"><strong>Success! You&#160;should&#160;hear&#160;back&#160;soon!</strong></p>
 
 <form id="form1" name="form1" class="page" autocomplete="off" enctype="multipart/form-data" method="post" action="http://getsimpleform.com/messages?form_api_token=48f7cc30ac36abc6c2e0a16cee14ec79">
 	<ul>

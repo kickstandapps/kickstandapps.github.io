@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NOW Weather, Just&nbsp;Released!"
+title: "NOW Weather, Just&#160;Released!"
 description: "Great news! NOW Weather has just been released and can be downloaded in the App Store!"
 category: blog
 image:
@@ -24,5 +24,5 @@ If you want to learn more about NOW Weather, check out the [product page]({{% si
 	<a href="https://itunes.apple.com/us/app/now-weather/id623127009?ls=1&amp;mt=8">
 		<img class="alignnone size-full wp-image-7605" alt="appstore" src="http://www.kickstandapps.com/wp-content/uploads/2013/08/appstore.png" width="202" height="60" style="margin-top: 15px;" />
 	</a>
-	<h2>Get NOW Weather in the App&nbsp;Store! Just&nbsp;$1.99!</h2>
+	<h2>Get NOW Weather in the App&#160;Store! Just&#160;$1.99!</h2>
 </div>

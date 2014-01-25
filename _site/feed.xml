@@ -3,17 +3,17 @@
 	<title type="text">Kickstand Apps</title>
 	<subtitle type="html">Apps for the</subtitle>
 	<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-	<icon>/images/apple-touch-icon-114x114-precomposed.png</icon>
+	<icon>/images/icon144.png</icon>
 	<link rel="alternate" type="text/html" href="" />
-	<updated>2014-01-23T21:22:46-06:00</updated>
+	<updated>2014-01-24T21:55:06-06:00</updated>
 	<id>/</id>
 	<author>
 		<name>Travis Zehren</name>
 		<uri>/</uri>
 		<email>tzehren@kickstandapps.com</email>
 	</author>
-	<rights>Unless otherwise noted, all content is published under a Creative Commons Attribution-Noncommercial-NoDerivs 3.0 United States License.</rights>
-	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="/atom.xml" />
+	<rights>Unless otherwise noted, all content is owned by Kickstand Apps.</rights>
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="/feex.xml" />
 	
 	<entry>
 		<title type="html"><![CDATA[One Week Later]]></title>
@@ -67,7 +67,7 @@
 	</entry>
 	
 	<entry>
-		<title type="html"><![CDATA[NOW Weather, Just&nbsp;Released!]]></title>
+		<title type="html"><![CDATA[NOW Weather, Just&#160;Released!]]></title>
 		<link rel="alternate" type="text/html" href="/2013/08/now-weather-just-released/" />
 		<id>/2013/08/now-weather-just-released</id>
 		<published>2013-08-28T00:00:00-05:00</published>
@@ -77,7 +77,7 @@
 			<uri></uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;/images/Now.jpg&quot; alt=&quot;NOW Weather, Just&nbsp;Released! page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Great news! &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt; has just been released and can be &lt;a href=&quot;https://itunes.apple.com/us/app/now-weather/id623127009?ls=1&amp;amp;mt=8&quot;&gt;downloaded in the App Store!&lt;/a&gt;&lt;/p&gt;
+		<content type="html">&lt;img src=&quot;/images/Now.jpg&quot; alt=&quot;NOW Weather, Just&#160;Released! page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Great news! &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt; has just been released and can be &lt;a href=&quot;https://itunes.apple.com/us/app/now-weather/id623127009?ls=1&amp;amp;mt=8&quot;&gt;downloaded in the App Store!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you don’t already know, NOW Weather is a beautiful app showing all the weather information you care about, at a glance.&lt;/p&gt;
 
@@ -89,10 +89,10 @@
 	&lt;a href=&quot;https://itunes.apple.com/us/app/now-weather/id623127009?ls=1&amp;amp;mt=8&quot;&gt;
 		&lt;img class=&quot;alignnone size-full wp-image-7605&quot; alt=&quot;appstore&quot; src=&quot;http://www.kickstandapps.com/wp-content/uploads/2013/08/appstore.png&quot; width=&quot;202&quot; height=&quot;60&quot; style=&quot;margin-top: 15px;&quot; /&gt;
 	&lt;/a&gt;
-	&lt;h2&gt;Get NOW Weather in the App&amp;nbsp;Store! Just&amp;nbsp;$1.99!&lt;/h2&gt;
+	&lt;h2&gt;Get NOW Weather in the App&amp;#160;Store! Just&amp;#160;$1.99!&lt;/h2&gt;
 &lt;/div&gt;
 
-		&lt;p&gt;&lt;a href=&quot;/2013/08/now-weather-just-released/&quot;&gt;NOW Weather, Just&nbsp;Released!&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on August 28, 2013.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;/2013/08/now-weather-just-released/&quot;&gt;NOW Weather, Just&#160;Released!&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on August 28, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
@@ -136,7 +136,7 @@
 	</entry>
 	
 	<entry>
-		<title type="html"><![CDATA[Introducing NOW&nbsp;Weather!]]></title>
+		<title type="html"><![CDATA[Introducing NOW&#160;Weather!]]></title>
 		<link rel="alternate" type="text/html" href="/2013/08/introducing-now-weather/" />
 		<id>/2013/08/introducing-now-weather</id>
 		<published>2013-08-08T00:00:00-05:00</published>
@@ -146,7 +146,7 @@
 			<uri></uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;/images/Now.jpg&quot; alt=&quot;Introducing NOW&nbsp;Weather! page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Today, I’m happy to introduce our newest app, &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt;, a beautiful app showing all the weather information you care about, at a glance.&lt;/p&gt;
+		<content type="html">&lt;img src=&quot;/images/Now.jpg&quot; alt=&quot;Introducing NOW&#160;Weather! page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Today, I’m happy to introduce our newest app, &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt;, a beautiful app showing all the weather information you care about, at a glance.&lt;/p&gt;
 
 &lt;p&gt;I know, I know… there’s about a billion weather apps already available for iPhones. What makes this one so different?&lt;/p&gt;
 
@@ -160,7 +160,7 @@
 
 &lt;p&gt;&lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt; is exactly what you are looking for in a weather app. Give it a shot to replace your current weather app, and you won’t look back.&lt;/p&gt;
 
-		&lt;p&gt;&lt;a href=&quot;/2013/08/introducing-now-weather/&quot;&gt;Introducing NOW&nbsp;Weather!&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on August 08, 2013.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;/2013/08/introducing-now-weather/&quot;&gt;Introducing NOW&#160;Weather!&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on August 08, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
@@ -313,14 +313,14 @@
 	&lt;a href=&quot;https://itunes.apple.com/us/app/tock/id560678443?ls=1&amp;amp;mt=8&quot;&gt;
 		&lt;img class=&quot;alignnone size-full wp-image-7605&quot; alt=&quot;appstore&quot; src=&quot;http://www.kickstandapps.com/wp-content/uploads/2013/08/appstore.png&quot; width=&quot;202&quot; height=&quot;60&quot; style=&quot;margin-top: 15px;&quot; /&gt;
 	&lt;/a&gt;
-	&lt;h2&gt;Get Tock in the App&amp;nbsp;Store! Just&amp;nbsp;99¢!&lt;/h2&gt;
+	&lt;h2&gt;Get Tock in the App&amp;#160;Store! Just&amp;#160;99¢!&lt;/h2&gt;
 &lt;/div&gt;
 
 		&lt;p&gt;&lt;a href=&quot;/2012/09/success/&quot;&gt;Success!&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on September 18, 2012.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
-		<title type="html"><![CDATA[&ldquo;Waiting for Review&rdquo;]]></title>
+		<title type="html"><![CDATA[&quot;Waiting for Review&quot;]]></title>
 		<link rel="alternate" type="text/html" href="/2012/09/waiting-for-review/" />
 		<id>/2012/09/waiting-for-review</id>
 		<published>2012-09-07T00:00:00-05:00</published>
@@ -330,7 +330,7 @@
 			<uri></uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;/images/Waiting.png&quot; alt=&quot;&ldquo;Waiting for Review&rdquo; page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Well, the day has finally arrived. There were definitely times when I didn’t think it would happen. But tonight, I’ve submitted my first ever app for public release. You heard it here first. &lt;a href=&quot;/tock/&quot;&gt;Tock&lt;/a&gt; is done… at least as far as an app is ever “done”.&lt;/p&gt;
+		<content type="html">&lt;img src=&quot;/images/Waiting.png&quot; alt=&quot;&quot;Waiting for Review&quot; page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Well, the day has finally arrived. There were definitely times when I didn’t think it would happen. But tonight, I’ve submitted my first ever app for public release. You heard it here first. &lt;a href=&quot;/tock/&quot;&gt;Tock&lt;/a&gt; is done… at least as far as an app is ever “done”.&lt;/p&gt;
 
 &lt;p&gt;By that, I mean that once Tock is approved by the all-knowing reviewers at Apple, it will be available for download. But that doesn’t mean that I won’t try to continue improving it. Public release is really only the first part of it all. Then I will be able to start using data and input from users to fix bugs, add features, and make Tock the best that it can be.&lt;/p&gt;
 
@@ -338,7 +338,7 @@
 
 &lt;p&gt;So here’s hoping everything goes well, and I’ll be able to report a successful entrance into the App Store within a week or so.&lt;/p&gt;
 
-		&lt;p&gt;&lt;a href=&quot;/2012/09/waiting-for-review/&quot;&gt;&ldquo;Waiting for Review&rdquo;&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on September 07, 2012.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;/2012/09/waiting-for-review/&quot;&gt;&quot;Waiting for Review&quot;&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on September 07, 2012.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>

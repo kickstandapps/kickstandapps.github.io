@@ -33,7 +33,7 @@ tags: [about]
   </div>
 </div>
 
-&nbsp;
+&#160;
 
 <hr />
 

@@ -12,7 +12,7 @@ tags: [contact]
 
 Questions, comments, complaints, suggestions? Just want to chat? Whatever the reason, we want to hear from you. It will make our day.
 
-<p class="success" id="success"><strong>Success! Thanks&nbsp;for&nbsp;contacting&nbsp;us!</strong></p>
+<p class="success" id="success"><strong>Success! Thanks&#160;for&#160;contacting&#160;us!</strong></p>
 
 <form id="form1" name="form1" class="page" autocomplete="off" enctype="multipart/form-data" method="post" action="http://getsimpleform.com/messages?form_api_token=e0ab1c7cdb770785fb331c9f49680329">
 	<ul>
