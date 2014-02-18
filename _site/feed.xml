@@ -3,364 +3,196 @@
 	<title type="text">Kickstand Apps</title>
 	<subtitle type="html">Apps for the</subtitle>
 	<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-	<icon>/images/icon144.png</icon>
-	<link rel="alternate" type="text/html" href="" />
-	<updated>2014-01-24T21:55:06-06:00</updated>
-	<id>/</id>
+	<icon>http://kickstandapps.com/images/icon144.png</icon>
+	<link rel="alternate" type="text/html" href="http://kickstandapps.com" />
+	<updated>2014-02-17T23:56:54-06:00</updated>
+	<id>http://kickstandapps.com/</id>
 	<author>
 		<name>Travis Zehren</name>
-		<uri>/</uri>
+		<uri>http://kickstandapps.com/</uri>
 		<email>tzehren@kickstandapps.com</email>
 	</author>
 	<rights>Unless otherwise noted, all content is owned by Kickstand Apps.</rights>
-	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="/feex.xml" />
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="http://kickstandapps.com/feed.xml" />
+	
+	<entry>
+		<title type="html"><![CDATA[What's New]]></title>
+		<link rel="alternate" type="text/html" href="http://kickstandapps.com/2014/02/whats-new/" />
+		<id>http://kickstandapps.com/2014/02/whats-new</id>
+		<published>2014-02-17T00:00:00-06:00</published>
+		<updated>2014-02-17T00:00:00-06:00</updated>
+		<author>
+			<name>Travis Zehren</name>
+			<uri>http://kickstandapps.com</uri>
+			<email>tzehren@kickstandapps.com</email>
+		</author>
+		<content type="html">Another few months without an update. Time to catch up and share what&#39;s been going on.
+		&lt;p&gt;&lt;a href=&quot;http://kickstandapps.com/2014/02/whats-new/&quot;&gt;What's New&lt;/a&gt; was originally published by &lt;a href=&quot;http://kickstandapps.com/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://kickstandapps.com&quot;&gt;Kickstand Apps&lt;/a&gt; on February 17, 2014.&lt;/p&gt;</content>
+	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[One Week Later]]></title>
-		<link rel="alternate" type="text/html" href="/2013/09/one-week-later/" />
-		<id>/2013/09/one-week-later</id>
+		<link rel="alternate" type="text/html" href="http://kickstandapps.com/2013/09/one-week-later/" />
+		<id>http://kickstandapps.com/2013/09/one-week-later</id>
 		<published>2013-09-04T00:00:00-05:00</published>
 		<updated>2013-09-04T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri></uri>
+			<uri>http://kickstandapps.com</uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;/images/Week.jpg&quot; alt=&quot;One Week Later page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Last Wednesday I released &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt;. It has been an interesting seven days since then. This is the first time that I’ve really tried to get an audience to see what I’ve been working on. This post will just detail a few of the things I tried, and the results I’ve seen.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-we-tried&quot;&gt;What we tried&lt;/h2&gt;
-&lt;p&gt;Up until now, the only places I’ve posted links have been social networks. This hasn’t generated a lot of response. Makes sense though. As of writing this we have only one follower on Twitter, eight followers on Facebook, and just about nothing to speak of on LinkedIn and Google+.&lt;/p&gt;
-
-&lt;p&gt;So, it seemed like it was time to try something new. I decided about a month ago that I was going to try to do better at promoting the launch of NOW Weather than I did promoting &lt;a href=&quot;/tock/&quot;&gt;Tock&lt;/a&gt; when it launched last year. So I set up a &lt;a href=&quot;/now-weather/&quot;&gt;landing page&lt;/a&gt; with some promotional images, some details, and an email subscription. Then I wrote up a &lt;a href=&quot;/2013/08/introducing-now-weather/&quot;&gt;blog post&lt;/a&gt; introducing the app. I posted the link to the standard social networks, but I also tried submitting the link to &lt;a href=&quot;https://news.ycombinator.com/&quot;&gt;Hacker News&lt;/a&gt;. If you’re not familiar with Hacker News, it’s just a community of people interested in new technology, design, and startups. Anyone can submit a link, and it gets voted up by readers. If you get enough votes, you make the front page of the site and have your link seen by thousands of people.&lt;/p&gt;
-
-&lt;p&gt;However, this first try didn’t get seen by thousands of people. Over the next few days, the site got about 88 page views. Not exactly setting the world on fire. Even worse, not a single person subscribed for updates. Oh well.&lt;/p&gt;
-
-&lt;p&gt;So we went ahead with getting the app ready for launch, submitting it to Apple, and having it approved. So I figured I’d give this all another shot on launch day. I wrote up another &lt;a href=&quot;/2013/08/introducing-now-weather/&quot;&gt;blog post&lt;/a&gt;. I posted it to those same old social networks. I also posted it to the &lt;a href=&quot;http://www.reddit.com/r/SideProject/&quot;&gt;Side Project subreddit&lt;/a&gt; hoping for some interest from an audience looking for these types of projects. Finally I posted again to Hacker News.&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;/images/LaunchDay.png&quot; /&gt;
-	&lt;figcaption&gt;Not necessarily setting the world on fire, but I was pretty pleased with the number of page views on launch day.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This time fared quite a bit better. The post got some early upvotes and made it on to the front page of Hacker News for an hour or two. This brought in many, many more people than ever before. By the end of the day, there were 2220 page views. It definitely won’t set any internet records, but for us it was impressive. More encouraging was the 193 clicks on the link taking people to NOW Weather in the App Store. This spike in viewers obviously didn’t last, though. The following day had about 100 page views and the days that followed were between 10 and 20 from links still floating around.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-it-meant&quot;&gt;What it meant&lt;/h2&gt;
-&lt;p&gt;So did all of this traffic lead to a huge influx of cash from all the apps we sold?&lt;/p&gt;
-
-&lt;p&gt;In a word, no.&lt;/p&gt;
-
-&lt;p&gt;But for us, we still did pretty well. At least in comparison to app sales for &lt;a href=&quot;/tock/&quot;&gt;Tock&lt;/a&gt;. We managed 18 apps sold on launch day. Followed by days of 9 and 4 before settling at about one per day. We’ve also managed a few sales of Tock as well. So not a terrible first week, at least by our expectations.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-we-learned&quot;&gt;What we learned&lt;/h2&gt;
-&lt;p&gt;But, just because I’m not a millionaire over night doesn’t mean I didn’t learn something from the experience. I got a large number of people interested enough to get to our site. Some of them even poked around for a while. However, we just weren’t able to turn those visitors into customers.&lt;/p&gt;
-
-&lt;p&gt;But I think I have an idea that could help. Is it possible that most people don’t want to pay for a weather app, no matter how nicely done, when there are many free options available? Absolutely, and I’m sure that many people would have ultimately chosen not to buy no matter what I did differently. However, I think the biggest problem was that I surprised them. Nowhere in either the product page or blog post did I mention price. My guess is that this led many people to believe the app would be free. When they clicked the link and saw a $1.99 price tag, they were surprised and didn’t buy. If I had clearly communicated the cost initially, everyone would have had a chance to determine whether they would spend the money before clicking the link. It would have definitely meant fewer clicks, but a much higher percentage would have gone through with the purchase. From now on, all my promotional pages will have a clearly indicated price to avoid this confusion.&lt;/p&gt;
-
-&lt;p&gt;The other regret I have is that I had two thousand people looking at my site, and I don’t have a single piece of information to target them for future products or updates. I removed my subscription box when the app was ready to go. If even a small number of viewers would have subscribed, I would have that much of a head start on an audience for future projects and posts. So now I’ve got a subscription box in the side bar of the blog posts to hopefully avoid this again.&lt;/p&gt;
-
-&lt;h2 id=&quot;recap&quot;&gt;Recap&lt;/h2&gt;
-&lt;p&gt;So, all in all, I’m happy with the launch that we had last week. It didn’t surpass our wildest dreams, but it showed me that I’m on the right track towards getting an audience and successfully marketing our products. I can learn from the missteps and missed opportunities and do better next time, and that’s what I’m going to do.&lt;/p&gt;
-
-&lt;p&gt;If you are interested in buying NOW Weather, it is &lt;a href=&quot;https://itunes.apple.com/us/app/now-weather/id623127009?ls=1&amp;amp;mt=8&quot;&gt;for sale&lt;/a&gt; in the App Store for $1.99&lt;/p&gt;
-
-		&lt;p&gt;&lt;a href=&quot;/2013/09/one-week-later/&quot;&gt;One Week Later&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on September 04, 2013.&lt;/p&gt;</content>
+		<content type="html">&lt;img src=&quot;http://kickstandapps.com/images/Week.jpg&quot; alt=&quot;One Week Later page image&quot;&gt;&lt;br/&gt;Our latest app, NOW Weather, has been out for a week. We check in to see how it&#39;s doing.
+		&lt;p&gt;&lt;a href=&quot;http://kickstandapps.com/2013/09/one-week-later/&quot;&gt;One Week Later&lt;/a&gt; was originally published by &lt;a href=&quot;http://kickstandapps.com/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://kickstandapps.com&quot;&gt;Kickstand Apps&lt;/a&gt; on September 04, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[NOW Weather, Just&#160;Released!]]></title>
-		<link rel="alternate" type="text/html" href="/2013/08/now-weather-just-released/" />
-		<id>/2013/08/now-weather-just-released</id>
+		<link rel="alternate" type="text/html" href="http://kickstandapps.com/2013/08/now-weather-just-released/" />
+		<id>http://kickstandapps.com/2013/08/now-weather-just-released</id>
 		<published>2013-08-28T00:00:00-05:00</published>
 		<updated>2013-08-28T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri></uri>
+			<uri>http://kickstandapps.com</uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;/images/Now.jpg&quot; alt=&quot;NOW Weather, Just&#160;Released! page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Great news! &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt; has just been released and can be &lt;a href=&quot;https://itunes.apple.com/us/app/now-weather/id623127009?ls=1&amp;amp;mt=8&quot;&gt;downloaded in the App Store!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you don’t already know, NOW Weather is a beautiful app showing all the weather information you care about, at a glance.&lt;/p&gt;
-
-&lt;p&gt;If you want to learn more about NOW Weather, check out the &lt;a href=&quot;/now-weather/&quot;&gt;product page&lt;/a&gt; or our introductory &lt;a href=&quot;/2013/08/introducing-now-weather/&quot;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt; is exactly what you are looking for in a weather app. Give it a shot to replace your current weather app, and you won’t look back.&lt;/p&gt;
-
-&lt;div style=&quot;text-align: center&quot;&gt;
-	&lt;a href=&quot;https://itunes.apple.com/us/app/now-weather/id623127009?ls=1&amp;amp;mt=8&quot;&gt;
-		&lt;img class=&quot;alignnone size-full wp-image-7605&quot; alt=&quot;appstore&quot; src=&quot;http://www.kickstandapps.com/wp-content/uploads/2013/08/appstore.png&quot; width=&quot;202&quot; height=&quot;60&quot; style=&quot;margin-top: 15px;&quot; /&gt;
-	&lt;/a&gt;
-	&lt;h2&gt;Get NOW Weather in the App&amp;#160;Store! Just&amp;#160;$1.99!&lt;/h2&gt;
-&lt;/div&gt;
-
-		&lt;p&gt;&lt;a href=&quot;/2013/08/now-weather-just-released/&quot;&gt;NOW Weather, Just&#160;Released!&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on August 28, 2013.&lt;/p&gt;</content>
+		<content type="html">&lt;img src=&quot;http://kickstandapps.com/images/Now.jpg&quot; alt=&quot;NOW Weather, Just&#160;Released! page image&quot;&gt;&lt;br/&gt;Great news! NOW Weather has just been released and can be downloaded in the App Store!
+		&lt;p&gt;&lt;a href=&quot;http://kickstandapps.com/2013/08/now-weather-just-released/&quot;&gt;NOW Weather, Just&#160;Released!&lt;/a&gt; was originally published by &lt;a href=&quot;http://kickstandapps.com/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://kickstandapps.com&quot;&gt;Kickstand Apps&lt;/a&gt; on August 28, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[NOW Weather - for iPhone and iPod Touch]]></title>
-		<link rel="alternate" type="text/html" href="/now-weather/" />
-		<id>/now-weather</id>
+		<link rel="alternate" type="text/html" href="http://kickstandapps.com/now-weather/" />
+		<id>http://kickstandapps.com/now-weather</id>
 		<published>2013-08-27T00:00:00-05:00</published>
 		<updated>2013-08-27T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri></uri>
+			<uri>http://kickstandapps.com</uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;/images/Now.jpg&quot; alt=&quot;NOW Weather - for iPhone and iPod Touch page image&quot;&gt;&lt;br/&gt;&lt;div class=&quot;two-third&quot; style=&quot;margin-bottom: 50px&quot;&gt;
-  &lt;h1&gt;Weather at a Glance&lt;/h1&gt;
-  &lt;p&gt;Colorful gradients indicate the upcoming temperature and condition. That makes it even easier to see what’s coming.&lt;/p&gt;
-  &lt;br /&gt;
-  &lt;h1&gt;Helpful Forecasts&lt;/h1&gt;
-  &lt;p&gt;The hourly forecast includes the information you actually care about like precipitation percentage and snowfall accumulation.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;one-third last&quot;&gt;
-  &lt;figure&gt;
-    &lt;img src=&quot;/images/Now-Forecast.jpg&quot; alt=&quot;24-Hour Forecast&quot; /&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;one-third&quot;&gt;
-  &lt;figure&gt;
-    &lt;img src=&quot;/images/Now-Options.jpg&quot; alt=&quot;Options Menu&quot; /&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-&lt;div class=&quot;two-third last&quot; style=&quot;margin-bottom: 50px&quot;&gt;
-  &lt;h1&gt;Anywhere on Earth&lt;/h1&gt;
-  &lt;p&gt;Check the weather at your current location, or any city on the planet. Your location information is never stored anywhere.&lt;/p&gt;
-  &lt;br /&gt;
-  &lt;h1&gt;Easy Access Options&lt;/h1&gt;
-  &lt;p&gt;Just swipe down to change your location or units. You can also share NOW Weather with your social networks.&lt;/p&gt;
-&lt;/div&gt;
-
-		&lt;p&gt;&lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather - for iPhone and iPod Touch&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on August 27, 2013.&lt;/p&gt;</content>
+		<content type="html">&lt;img src=&quot;http://kickstandapps.com/images/Now.jpg&quot; alt=&quot;NOW Weather - for iPhone and iPod Touch page image&quot;&gt;&lt;br/&gt;A beautiful app showing all the weather information you care about. And it does it beautifully and visually so you instantly know what&#39;s going on.
+		&lt;p&gt;&lt;a href=&quot;http://kickstandapps.com/now-weather/&quot;&gt;NOW Weather - for iPhone and iPod Touch&lt;/a&gt; was originally published by &lt;a href=&quot;http://kickstandapps.com/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://kickstandapps.com&quot;&gt;Kickstand Apps&lt;/a&gt; on August 27, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[Introducing NOW&#160;Weather!]]></title>
-		<link rel="alternate" type="text/html" href="/2013/08/introducing-now-weather/" />
-		<id>/2013/08/introducing-now-weather</id>
+		<link rel="alternate" type="text/html" href="http://kickstandapps.com/2013/08/introducing-now-weather/" />
+		<id>http://kickstandapps.com/2013/08/introducing-now-weather</id>
 		<published>2013-08-08T00:00:00-05:00</published>
 		<updated>2013-08-08T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri></uri>
+			<uri>http://kickstandapps.com</uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;/images/Now.jpg&quot; alt=&quot;Introducing NOW&#160;Weather! page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Today, I’m happy to introduce our newest app, &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt;, a beautiful app showing all the weather information you care about, at a glance.&lt;/p&gt;
-
-&lt;p&gt;I know, I know… there’s about a billion weather apps already available for iPhones. What makes this one so different?&lt;/p&gt;
-
-&lt;p&gt;Well let’s first ask the question, when do you look up the weather on your phone? Are you doing absolutely nothing else besides looking at the weather? I doubt it. We don’t use our phones that way. A weather app is usually used while getting ready in the morning, or making plans with your friends. You don’t want to have to hunt through a complex weather app to find the simple information you care about. That just makes the process longer and more irritating.&lt;/p&gt;
-
-&lt;p&gt;Alternatively, have you downloaded a weather app that looks absolutely beautiful, but is so minimal that you can’t even find everything you’re looking for? What’s the point of good aesthetics if the app is useless?&lt;/p&gt;
-
-&lt;p&gt;NOW Weather is the answer to these two alternatives. It makes the information extremely accessible and easy to find. You can just glance down and the colors will indicate the temperature for the next few hours along with whether it will be sunny, cloudy, rainy, or whatever.&lt;/p&gt;
-
-&lt;p&gt;But along with that, you’ll have whatever other information you want as well. Hourly forecasts show the chance of precipitation and projected snow accumulations. You can see the weather at any location on Earth. And soon you’ll be able to get more detail about the weather right now (wind, humidity, etc.) as well as the weather for the days ahead.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt; is exactly what you are looking for in a weather app. Give it a shot to replace your current weather app, and you won’t look back.&lt;/p&gt;
-
-		&lt;p&gt;&lt;a href=&quot;/2013/08/introducing-now-weather/&quot;&gt;Introducing NOW&#160;Weather!&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on August 08, 2013.&lt;/p&gt;</content>
+		<content type="html">&lt;img src=&quot;http://kickstandapps.com/images/Now.jpg&quot; alt=&quot;Introducing NOW&#160;Weather! page image&quot;&gt;&lt;br/&gt;We&#39;re proud to introduce our latest app, NOW Weather! Coming Soon!
+		&lt;p&gt;&lt;a href=&quot;http://kickstandapps.com/2013/08/introducing-now-weather/&quot;&gt;Introducing NOW&#160;Weather!&lt;/a&gt; was originally published by &lt;a href=&quot;http://kickstandapps.com/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://kickstandapps.com&quot;&gt;Kickstand Apps&lt;/a&gt; on August 08, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[WeatherIcons]]></title>
-		<link rel="alternate" type="text/html" href="/2013/08/weathericons/" />
-		<id>/2013/08/weathericons</id>
+		<link rel="alternate" type="text/html" href="http://kickstandapps.com/2013/08/weathericons/" />
+		<id>http://kickstandapps.com/2013/08/weathericons</id>
 		<published>2013-08-05T00:00:00-05:00</published>
 		<updated>2013-08-05T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri></uri>
+			<uri>http://kickstandapps.com</uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;/images/weatherIconHead.jpg&quot; alt=&quot;WeatherIcons page image&quot;&gt;&lt;br/&gt;&lt;h2 id=&quot;what-is-weathericons&quot;&gt;What is WeatherIcons?&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;WeatherIcons&lt;/em&gt; is a collection of, well, weather icons. I know, the name could use some work. If you think you have a better idea, we’d love to hear it in the comments below.&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;/images/WeatherIcons.jpg&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
-&lt;p&gt;In coming up with our newest app, &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt;, we found the need for a high quality set of weather icons that fit the look we were going for. As we progressed through development, we realized the benefits of an icon font to allow us to dynamically size the icons. Adam Whitcroft’s &lt;a href=&quot;http://adamwhitcroft.com/climacons/&quot;&gt;&lt;em&gt;Climacon&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;http://adamwhitcroft.com/climacons/font/&quot;&gt;font&lt;/a&gt; did the job nicely during development.&lt;/p&gt;
-
-&lt;p&gt;However, after staring at them day after day, and seeing the &lt;em&gt;Climacons&lt;/em&gt; start to show up just about everywhere (because they really are a fantastic choice), we decided to go a different direction.&lt;/p&gt;
-
-&lt;p&gt;So here we present Kickstand App’s own &lt;em&gt;WeatherIcons&lt;/em&gt;. While inspired by the &lt;em&gt;Climacons&lt;/em&gt;, these icons were developed entirely from scratch to provide an alternative, both for us in &lt;a href=&quot;/now-weather/&quot;&gt;NOW Weather&lt;/a&gt;, as well as for whoever would like to use them in their own project.&lt;/p&gt;
-
-&lt;h2 id=&quot;who-can-use-it&quot;&gt;Who can use it?&lt;/h2&gt;
-&lt;p&gt;In short, pretty much anyone, for pretty much any purpose.&lt;/p&gt;
-
-&lt;p&gt;Everything is released under the SIL OFL 1.1 License as listed in &lt;a href=&quot;https://github.com/kickstandapps/WeatherIcons/blob/master/License.txt&quot;&gt;License.txt&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Whether you modify the icons or use them as they are, an attribution would be appreciated, though not required.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-to-use-it&quot;&gt;How to use it&lt;/h2&gt;
-&lt;p&gt;The image files can be used just like any other image files. The included fonts have the icons mapped to the alphabet as seen below:&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;/images/WeatherIcons-Letters.jpg&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;div style=&quot;text-align: center;&quot;&gt;&lt;a target=&quot;_blank&quot; class=&quot;btn large &quot; href=&quot;https://github.com/kickstandapps/WeatherIcons&quot;&gt;Get WeatherIcons Here!&lt;/a&gt;&lt;/div&gt;
-
-		&lt;p&gt;&lt;a href=&quot;/2013/08/weathericons/&quot;&gt;WeatherIcons&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
+		<content type="html">&lt;img src=&quot;http://kickstandapps.com/images/weatherIconHead.jpg&quot; alt=&quot;WeatherIcons page image&quot;&gt;&lt;br/&gt;I couldn&#39;t find any weather icons that I was happy using in an upcoming app. So I made my own.
+		&lt;p&gt;&lt;a href=&quot;http://kickstandapps.com/2013/08/weathericons/&quot;&gt;WeatherIcons&lt;/a&gt; was originally published by &lt;a href=&quot;http://kickstandapps.com/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://kickstandapps.com&quot;&gt;Kickstand Apps&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[New Stuff Coming Soon!]]></title>
-		<link rel="alternate" type="text/html" href="/2013/08/new-stuff-coming-soon/" />
-		<id>/2013/08/new-stuff-coming-soon</id>
+		<link rel="alternate" type="text/html" href="http://kickstandapps.com/2013/08/new-stuff-coming-soon/" />
+		<id>http://kickstandapps.com/2013/08/new-stuff-coming-soon</id>
 		<published>2013-08-03T00:00:00-05:00</published>
 		<updated>2013-08-03T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri></uri>
+			<uri>http://kickstandapps.com</uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;/images/ComingSoon.jpg&quot; alt=&quot;New Stuff Coming Soon! page image&quot;&gt;&lt;br/&gt;&lt;p&gt;So… I’m really bad at this whole blogging thing. It’s been quite a while since I posted anything, and that’s not good. So here’s to a renewed effort to keep the site full of new content in the months ahead.&lt;/p&gt;
-
-&lt;p&gt;However, my lack of updates doesn’t mean that I haven’t been doing anything. I’ve actually been working hard on a few things that will be announced within the next week or so.&lt;/p&gt;
-
-&lt;p&gt;So, please, stay tuned and check back soon for more updates. Or better yet, subscribe to our RSS feed or follow us on Facebook or Twitter. We’ve got some stuff that I’m pretty excited about, and I hope you will be, too.&lt;/p&gt;
-
-		&lt;p&gt;&lt;a href=&quot;/2013/08/new-stuff-coming-soon/&quot;&gt;New Stuff Coming Soon!&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on August 03, 2013.&lt;/p&gt;</content>
+		<content type="html">&lt;img src=&quot;http://kickstandapps.com/images/ComingSoon.jpg&quot; alt=&quot;New Stuff Coming Soon! page image&quot;&gt;&lt;br/&gt;We&#39;ve got new announcements on the way, so stay tuned!
+		&lt;p&gt;&lt;a href=&quot;http://kickstandapps.com/2013/08/new-stuff-coming-soon/&quot;&gt;New Stuff Coming Soon!&lt;/a&gt; was originally published by &lt;a href=&quot;http://kickstandapps.com/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://kickstandapps.com&quot;&gt;Kickstand Apps&lt;/a&gt; on August 03, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[Tock - for iOS]]></title>
-		<link rel="alternate" type="text/html" href="/tock/" />
-		<id>/tock</id>
+		<link rel="alternate" type="text/html" href="http://kickstandapps.com/tock/" />
+		<id>http://kickstandapps.com/tock</id>
 		<published>2013-05-11T00:00:00-05:00</published>
 		<updated>2013-05-11T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri></uri>
+			<uri>http://kickstandapps.com</uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;/images/Tock.jpg&quot; alt=&quot;Tock - for iOS page image&quot;&gt;&lt;br/&gt;&lt;h2 style=&quot;margin: 0; text-align: center;&quot;&gt;&lt;strong&gt;Your time isn&#39;t boring.&lt;/strong&gt;&lt;/h2&gt;
-&lt;h2 style=&quot;margin: 0; font-weight:300; text-align: center;&quot;&gt;Your clock shouldn&#39;t be either.&lt;/h2&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;half&quot;&gt;
-  &lt;h4&gt;Beautiful Design&lt;/h4&gt;
-  &lt;p&gt;Set this textual clock on a dock on your desk or next to your bed and enjoy the wonderful typography and animated changes in time.&lt;/p&gt;
-  &lt;h4&gt;Any iOS Device&lt;/h4&gt;
-  &lt;p&gt;Tock works perfectly on any iPhone, iPad, or iPod Touch. Flip it landscape or portrait. And no network connection is ever needed.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;half last&quot;&gt;
-  &lt;h4&gt;Customize It&lt;/h4&gt;
-  &lt;p&gt;Choose from one of the seven color themes, or make one of your own. Personalize it further by choosing which font you’d like displayed.&lt;/p&gt;
-  &lt;h4&gt;Works Anywhere&lt;/h4&gt;
-  &lt;p&gt;No matter where on Earth you are, Tock will work perfectly. And you can choose whether you prefer your time in a 12-hour or 24-hour style.&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
-
-		&lt;p&gt;&lt;a href=&quot;/tock/&quot;&gt;Tock - for iOS&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on May 11, 2013.&lt;/p&gt;</content>
+		<content type="html">&lt;img src=&quot;http://kickstandapps.com/images/Tock.jpg&quot; alt=&quot;Tock - for iOS page image&quot;&gt;&lt;br/&gt;Your time isn&#39;t boring. Your clock shouldn&#39;t be either. Tock is a beautifully designed textual clock app for iOS. Set it on a dock on your desk or next to your bed. Enjoy the animated changes in time and customize to your liking.
+		&lt;p&gt;&lt;a href=&quot;http://kickstandapps.com/tock/&quot;&gt;Tock - for iOS&lt;/a&gt; was originally published by &lt;a href=&quot;http://kickstandapps.com/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://kickstandapps.com&quot;&gt;Kickstand Apps&lt;/a&gt; on May 11, 2013.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[Back From a Little Break]]></title>
-		<link rel="alternate" type="text/html" href="/2012/10/back-from-a-little-break/" />
-		<id>/2012/10/back-from-a-little-break</id>
+		<link rel="alternate" type="text/html" href="http://kickstandapps.com/2012/10/back-from-a-little-break/" />
+		<id>http://kickstandapps.com/2012/10/back-from-a-little-break</id>
 		<published>2012-10-11T00:00:00-05:00</published>
 		<updated>2012-10-11T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri></uri>
+			<uri>http://kickstandapps.com</uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;/images/Greece.jpg&quot; alt=&quot;Back From a Little Break page image&quot;&gt;&lt;br/&gt;&lt;p&gt;So it’s been just over three weeks since Tock made it’s way into the &lt;a href=&quot;/2012/09/success/&quot;&gt;App Store&lt;/a&gt;. I’ve definitely stayed busy since then.&lt;/p&gt;
-
-&lt;p&gt;I almost immediately released an update to &lt;a href=&quot;/tock&quot;&gt;Tock&lt;/a&gt; so that it would be fully compatible with the iPhone 5. Because of the rumors surrounding the larger screen, I had already built the app to be able to handle different screen sizes. The app was designed so that a taller screen would simply create more space between the time and the date. However, it wasn’t until Apple released the final version of the software that I could test what the app would really look like on the iPhone 5. And it turns out that it couldn’t “just work”. Despite all the code being able to adapt to a new size, the app would still show up with bars on the top and bottom of the screen. The reason? The app needed a “Launch Image” for the new 4-inch screen. For those of you who have seen or used the app, you will notice that there is no launch image. Well it turns out, that if you wanted an app to display correctly on the new iPhone, you had to provide one anyways. Even though you don’t need one for the older iPhones. Even though you don’t need one for any iPads. Even if you just set it be a black rectangle so that no one will ever notice it. It has to be there. So I added it, released the update, and went on vacation.&lt;/p&gt;
-
-&lt;p&gt;And that’s the biggest reason why there hasn’t been a new post for over three weeks. For more than half of that time, I traded in the lakes of Minnesota for the islands of the Mediterranean Sea. It was beautiful, relaxing, and extremely enjoyable. Pretty much everything you hope for in a vacation. But it had to come to an end.&lt;/p&gt;
-
-&lt;p&gt;So I came back. I came back to find that a number of people had downloaded &lt;a href=&quot;http://itunes.apple.com/us/app/tock/id560678443?ls=1&amp;amp;mt=8&quot;&gt;Tock&lt;/a&gt;. That was a good feeling. I could actually call myself a professional developer. But I also came back to a email from one of the first people who bought Tock. It had said that the app wasn’t displaying properly. That the hour would only show up some of the time. Well that’s not exactly what I had hoped to come back to, but it meant it was time to get back to work to fix the issue. The problem ended up being that I had not tested the app on a device set to 24-hour time. The user’s setting would override the time in the app and try to display 24-hour time when it had never been programmed to provide it.&lt;/p&gt;
-
-&lt;p&gt;Well, I wanted to fix the problem as soon as I could, but I also realized that I could use the opportunity to continue making Tock better. I would add the option for 12-hour or 24-hour time. That way the user could set it to whatever they wanted. So over the last week, that’s what I had been doing. I built the capability to switch between modes and tweaked all the animations so that they could adapt as well. While I was at it, I made some efficiency improvements and cleaned up the code a bit. I also added a setting so that the user can chose whether or not the screen should dim when the device is running on battery power.&lt;/p&gt;
-
-&lt;p&gt;As of last night, all this work is complete. The update is submitted to Apple and is &lt;a href=&quot;/2012/09/waiting-for-review/&quot;&gt;waiting for review&lt;/a&gt;. It should be released early next week.&lt;/p&gt;
-
-&lt;p&gt;So what do I want you to take out of this? Mostly, just the fact that this company, like any other, is made up of people (or person, at least for now). People who try their best. People who go on vacation. People who overlook things they should have caught. People who care about what they do and want to do it as best they can. People who never see their work as “done”, because they will always strive to make it better.&lt;/p&gt;
-
-&lt;p&gt;I hope that by giving a little transparency to what’s going on here, I take they mystery away from the whole process. This company will never be about telling customers what they want. Nor will it be about telling customers what they want to hear. It should always be a discussion between partners. Consumer and provider. And I want anyone reading this to know that your opinion will be heard. Your question will be answered. Your issue will be solved. Your suggestion will be considered. All you have to do is &lt;a href=&quot;/contact/&quot;&gt;reach out to us&lt;/a&gt;, and we will reach right back.&lt;/p&gt;
-
-		&lt;p&gt;&lt;a href=&quot;/2012/10/back-from-a-little-break/&quot;&gt;Back From a Little Break&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on October 11, 2012.&lt;/p&gt;</content>
+		<content type="html">&lt;img src=&quot;http://kickstandapps.com/images/Greece.jpg&quot; alt=&quot;Back From a Little Break page image&quot;&gt;&lt;br/&gt;Time to catch up and get back to work.
+		&lt;p&gt;&lt;a href=&quot;http://kickstandapps.com/2012/10/back-from-a-little-break/&quot;&gt;Back From a Little Break&lt;/a&gt; was originally published by &lt;a href=&quot;http://kickstandapps.com/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://kickstandapps.com&quot;&gt;Kickstand Apps&lt;/a&gt; on October 11, 2012.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[Success!]]></title>
-		<link rel="alternate" type="text/html" href="/2012/09/success/" />
-		<id>/2012/09/success</id>
+		<link rel="alternate" type="text/html" href="http://kickstandapps.com/2012/09/success/" />
+		<id>http://kickstandapps.com/2012/09/success</id>
 		<published>2012-09-18T00:00:00-05:00</published>
 		<updated>2012-09-18T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri></uri>
+			<uri>http://kickstandapps.com</uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;/images/Success.jpg&quot; alt=&quot;Success! page image&quot;&gt;&lt;br/&gt;&lt;p&gt;I am extremely happy to announce that &lt;a href=&quot;/tock&quot;&gt;Tock&lt;/a&gt; is now in the App Store.&lt;/p&gt;
-
-&lt;p&gt;After &lt;a href=&quot;/2012/09/waiting-for-review/&quot;&gt;submitting&lt;/a&gt; it for approval just 10 days ago, I got the good news today that it was approved. I’ve heard a lot of horror stories about apps being delayed and rejected multiple times because of small details. It feels really good to know that Tock went through that same scrutiny and came out the other side without a scratch.&lt;/p&gt;
-
-&lt;p&gt;This is because Tock is just a great, straight-forward app. It re-imagines the task of telling time into something unique. Time is fluid, and Tock displays that in a way that no other app does. It looks great sitting at your desk while you work or sitting by your bed while you sleep.&lt;/p&gt;
-
-&lt;p&gt;So please check it out. It’s available on the &lt;a href=&quot;https://itunes.apple.com/us/app/tock/id560678443?ls=1&amp;amp;mt=8&quot;&gt;App Store&lt;/a&gt; for both iPhone and iPad for just 99¢. Let us know what you think. Now that the first version is out in the wild, it’s time to start working on the improvements!&lt;/p&gt;
-
-&lt;div style=&quot;text-align: center&quot;&gt;
-	&lt;a href=&quot;https://itunes.apple.com/us/app/tock/id560678443?ls=1&amp;amp;mt=8&quot;&gt;
-		&lt;img class=&quot;alignnone size-full wp-image-7605&quot; alt=&quot;appstore&quot; src=&quot;http://www.kickstandapps.com/wp-content/uploads/2013/08/appstore.png&quot; width=&quot;202&quot; height=&quot;60&quot; style=&quot;margin-top: 15px;&quot; /&gt;
-	&lt;/a&gt;
-	&lt;h2&gt;Get Tock in the App&amp;#160;Store! Just&amp;#160;99¢!&lt;/h2&gt;
-&lt;/div&gt;
-
-		&lt;p&gt;&lt;a href=&quot;/2012/09/success/&quot;&gt;Success!&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on September 18, 2012.&lt;/p&gt;</content>
+		<content type="html">&lt;img src=&quot;http://kickstandapps.com/images/Success.jpg&quot; alt=&quot;Success! page image&quot;&gt;&lt;br/&gt;Our first app, Tock, is officially for sale.
+		&lt;p&gt;&lt;a href=&quot;http://kickstandapps.com/2012/09/success/&quot;&gt;Success!&lt;/a&gt; was originally published by &lt;a href=&quot;http://kickstandapps.com/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://kickstandapps.com&quot;&gt;Kickstand Apps&lt;/a&gt; on September 18, 2012.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[&quot;Waiting for Review&quot;]]></title>
-		<link rel="alternate" type="text/html" href="/2012/09/waiting-for-review/" />
-		<id>/2012/09/waiting-for-review</id>
+		<link rel="alternate" type="text/html" href="http://kickstandapps.com/2012/09/waiting-for-review/" />
+		<id>http://kickstandapps.com/2012/09/waiting-for-review</id>
 		<published>2012-09-07T00:00:00-05:00</published>
 		<updated>2012-09-07T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri></uri>
+			<uri>http://kickstandapps.com</uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;/images/Waiting.png&quot; alt=&quot;&quot;Waiting for Review&quot; page image&quot;&gt;&lt;br/&gt;&lt;p&gt;Well, the day has finally arrived. There were definitely times when I didn’t think it would happen. But tonight, I’ve submitted my first ever app for public release. You heard it here first. &lt;a href=&quot;/tock/&quot;&gt;Tock&lt;/a&gt; is done… at least as far as an app is ever “done”.&lt;/p&gt;
-
-&lt;p&gt;By that, I mean that once Tock is approved by the all-knowing reviewers at Apple, it will be available for download. But that doesn’t mean that I won’t try to continue improving it. Public release is really only the first part of it all. Then I will be able to start using data and input from users to fix bugs, add features, and make Tock the best that it can be.&lt;/p&gt;
-
-&lt;p&gt;But maybe I am getting a little ahead of myself. The app is not approved yet and there are lots of horror stories about Apple’s approval process. But I’m still feeling pretty good about it all. I mean, what’s not to feel good about? I just &lt;a href=&quot;/2012/09/introducing-tock/&quot;&gt;introduced&lt;/a&gt; the app a few short days ago. Thanks to some wonderful testers, we’ve tested the app on a number of devices and now we’re ready for the big time.&lt;/p&gt;
-
-&lt;p&gt;So here’s hoping everything goes well, and I’ll be able to report a successful entrance into the App Store within a week or so.&lt;/p&gt;
-
-		&lt;p&gt;&lt;a href=&quot;/2012/09/waiting-for-review/&quot;&gt;&quot;Waiting for Review&quot;&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on September 07, 2012.&lt;/p&gt;</content>
+		<content type="html">&lt;img src=&quot;http://kickstandapps.com/images/Waiting.png&quot; alt=&quot;&quot;Waiting for Review&quot; page image&quot;&gt;&lt;br/&gt;All our work is done, so now we have to wait.
+		&lt;p&gt;&lt;a href=&quot;http://kickstandapps.com/2012/09/waiting-for-review/&quot;&gt;&quot;Waiting for Review&quot;&lt;/a&gt; was originally published by &lt;a href=&quot;http://kickstandapps.com/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://kickstandapps.com&quot;&gt;Kickstand Apps&lt;/a&gt; on September 07, 2012.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[Introducing... Tock!]]></title>
-		<link rel="alternate" type="text/html" href="/2012/09/introducing-tock/" />
-		<id>/2012/09/introducing-tock</id>
+		<link rel="alternate" type="text/html" href="http://kickstandapps.com/2012/09/introducing-tock/" />
+		<id>http://kickstandapps.com/2012/09/introducing-tock</id>
 		<published>2012-09-04T00:00:00-05:00</published>
 		<updated>2012-09-04T00:00:00-05:00</updated>
 		<author>
 			<name>Travis Zehren</name>
-			<uri></uri>
+			<uri>http://kickstandapps.com</uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">&lt;img src=&quot;/images/Tock.jpg&quot; alt=&quot;Introducing... Tock! page image&quot;&gt;&lt;br/&gt;&lt;p&gt;So here it is. Our first app that is (almost) complete. It’s called &lt;a href=&quot;/tock/&quot;&gt;Tock&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Tock is a textual clock app. Rather than having a clock on your desk or beside your bed, just plug in your iPhone or iPad and turn on Tock. It will be the most attractive clock you’ll have as it displays the time and date and includes beautiful animations as the time ticks by.&lt;/p&gt;
-
-&lt;p&gt;Tock will be in the App Store soon for both iPhone and iPad. Check back for more updates or subscribe to our blog to stay informed.&lt;/p&gt;
-
-&lt;p&gt;What are your thoughts on Tock? Love it? Hate it? Have any suggestions? We want to hear it all in the comments below.&lt;/p&gt;
-
-		&lt;p&gt;&lt;a href=&quot;/2012/09/introducing-tock/&quot;&gt;Introducing... Tock!&lt;/a&gt; was originally published by &lt;a href=&quot;/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;&quot;&gt;Kickstand Apps&lt;/a&gt; on September 04, 2012.&lt;/p&gt;</content>
+		<content type="html">&lt;img src=&quot;http://kickstandapps.com/images/Tock.jpg&quot; alt=&quot;Introducing... Tock! page image&quot;&gt;&lt;br/&gt;Take a look at our first app, coming soon!
+		&lt;p&gt;&lt;a href=&quot;http://kickstandapps.com/2012/09/introducing-tock/&quot;&gt;Introducing... Tock!&lt;/a&gt; was originally published by &lt;a href=&quot;http://kickstandapps.com/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://kickstandapps.com&quot;&gt;Kickstand Apps&lt;/a&gt; on September 04, 2012.&lt;/p&gt;</content>
 	</entry>
 	
 </feed>
