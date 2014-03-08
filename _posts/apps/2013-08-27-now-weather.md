@@ -39,7 +39,7 @@ NOW Weather is a beautiful app showing all the weather information you care abou
 <div style="overflow:auto">
 <div class="one-third">
   <figure>
-    <img src="{{ site.baseurl }}/images/Now-Daily.jpg" alt="7-Day Forecast">
+    <img src="{{ site.baseurl }}/images/NOW-Daily.jpg" alt="7-Day Forecast">
   </figure>
 </div>
 <div class="two-third last" style="margin-top: 80px">
