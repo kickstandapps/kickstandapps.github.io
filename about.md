@@ -64,6 +64,3 @@ tags: [about]
   {% endfor %}
 
 </div>
-
-<hr />
-
