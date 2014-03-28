@@ -5,7 +5,7 @@
 	<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 	<icon>http://kickstandapps.com/images/icon144.png</icon>
 	<link rel="alternate" type="text/html" href="http://kickstandapps.com" />
-	<updated>2014-03-08T17:34:19-06:00</updated>
+	<updated>2014-03-27T21:46:21-05:00</updated>
 	<id>http://kickstandapps.com/</id>
 	<author>
 		<name>Travis Zehren</name>
@@ -14,6 +14,21 @@
 	</author>
 	<rights>Unless otherwise noted, all content is owned by Kickstand Apps.</rights>
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="http://kickstandapps.com/feed.xml" />
+	
+	<entry>
+		<title type="html"><![CDATA[Two Point Oh]]></title>
+		<link rel="alternate" type="text/html" href="http://kickstandapps.com/2014/03/two-point-oh/" />
+		<id>http://kickstandapps.com/2014/03/two-point-oh</id>
+		<published>2014-03-27T00:00:00-05:00</published>
+		<updated>2014-03-27T00:00:00-05:00</updated>
+		<author>
+			<name>Travis Zehren</name>
+			<uri>http://kickstandapps.com</uri>
+			<email>tzehren@kickstandapps.com</email>
+		</author>
+		<content type="html">Need to look into the future? We&#39;ve got you covered... at least for the weather.
+		&lt;p&gt;&lt;a href=&quot;http://kickstandapps.com/2014/03/two-point-oh/&quot;&gt;Two Point Oh&lt;/a&gt; was originally published by &lt;a href=&quot;http://kickstandapps.com/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://kickstandapps.com&quot;&gt;Kickstand Apps&lt;/a&gt; on March 27, 2014.&lt;/p&gt;</content>
+	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[What's New]]></title>
