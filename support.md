@@ -38,6 +38,9 @@ We really don't want you to have problems with any of our apps. But nothing's pe
 				<textarea id="Field4" name="Issue" class="field textarea medium" spellcheck="true" rows="10" cols="50" tabindex="4" onkeyup="" required></textarea>
 			</div>
 		</li>
+		<li>
+			<input id="Validate" name="Validate" type="hidden" class="field text large" value="" maxlength="255" tabindex="6" />
+		</li>
 		<li class="buttons ">
 			<div>
 				<input id="saveForm" class="btn" tabindex="5" type="submit" value="Send Message"

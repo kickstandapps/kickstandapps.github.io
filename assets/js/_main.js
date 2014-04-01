@@ -61,6 +61,14 @@ $(window).load(function() {
   });
 });
 
+// Form validation
+document.getElementById("form1").onsubmit = function () {
+    if (document.getElementById("Validate").value) {
+        window.location.href = "?success";
+        return false;
+    }
+}
+
 // Form success box
 var locSearch = window.location.search.substring(1).split('&')[0];
 if(locSearch){
