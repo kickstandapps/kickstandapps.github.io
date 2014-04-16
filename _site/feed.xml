@@ -5,7 +5,7 @@
 	<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 	<icon>http://kickstandapps.com/images/icon144.png</icon>
 	<link rel="alternate" type="text/html" href="http://kickstandapps.com" />
-	<updated>2014-03-31T21:33:37-05:00</updated>
+	<updated>2014-04-15T20:29:27-05:00</updated>
 	<id>http://kickstandapps.com/</id>
 	<author>
 		<name>Travis Zehren</name>
@@ -14,6 +14,21 @@
 	</author>
 	<rights>Unless otherwise noted, all content is owned by Kickstand Apps.</rights>
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="http://kickstandapps.com/feed.xml" />
+	
+	<entry>
+		<title type="html"><![CDATA[NOW Weather Free]]></title>
+		<link rel="alternate" type="text/html" href="http://kickstandapps.com/2014/04/now-weather-free/" />
+		<id>http://kickstandapps.com/2014/04/now-weather-free</id>
+		<published>2014-04-16T00:00:00-05:00</published>
+		<updated>2014-04-16T00:00:00-05:00</updated>
+		<author>
+			<name>Travis Zehren</name>
+			<uri>http://kickstandapps.com</uri>
+			<email>tzehren@kickstandapps.com</email>
+		</author>
+		<content type="html">&lt;img src=&quot;http://kickstandapps.com/images/free.jpg&quot; alt=&quot;NOW Weather Free page image&quot;&gt;&lt;br/&gt;Introducing NOW Weather Free! Get this wonderful weather app at a price that fits anyone&#39;s budget.
+		&lt;p&gt;&lt;a href=&quot;http://kickstandapps.com/2014/04/now-weather-free/&quot;&gt;NOW Weather Free&lt;/a&gt; was originally published by &lt;a href=&quot;http://kickstandapps.com/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://kickstandapps.com&quot;&gt;Kickstand Apps&lt;/a&gt; on April 16, 2014.&lt;/p&gt;</content>
+	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[Two Point Oh]]></title>
@@ -26,7 +41,7 @@
 			<uri>http://kickstandapps.com</uri>
 			<email>tzehren@kickstandapps.com</email>
 		</author>
-		<content type="html">Need to look into the future? We&#39;ve got you covered... at least for the weather.
+		<content type="html">&lt;img src=&quot;http://kickstandapps.com/images/forecast.jpg&quot; alt=&quot;Two Point Oh page image&quot;&gt;&lt;br/&gt;Need to look into the future? We&#39;ve got you covered... at least for the weather.
 		&lt;p&gt;&lt;a href=&quot;http://kickstandapps.com/2014/03/two-point-oh/&quot;&gt;Two Point Oh&lt;/a&gt; was originally published by &lt;a href=&quot;http://kickstandapps.com/about.html&quot;&gt;Travis Zehren&lt;/a&gt; at &lt;a href=&quot;http://kickstandapps.com&quot;&gt;Kickstand Apps&lt;/a&gt; on March 27, 2014.&lt;/p&gt;</content>
 	</entry>
 	

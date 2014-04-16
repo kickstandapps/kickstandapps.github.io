@@ -4,7 +4,7 @@ title: "Two Point Oh"
 description: "Need to look into the future? We've got you covered... at least for the weather."
 category: blog
 image:
-  feature: 
+  feature: forecast.jpg
 tags: [Apps, NOW Weather]
 comments: true
 share: true
