@@ -33,9 +33,9 @@ We really don't want you to have problems with any of our apps. But nothing's pe
 			<p class="instruct" id="instruct2"><small>Your email address will remain private and won't be shared with anyone.</small></p>
 		</li>
 		<li id="foli4" class="notranslate      ">
-			<label class="desc" id="title4" for="Field4"> Please describe the problem <span id="req_4" class="req">*</span> </label>
+			<label class="desc" id="title4" for="TextBox"> Please describe the problem <span id="req_4" class="req">*</span> </label>
 			<div>
-				<textarea id="Field4" name="Issue" class="field textarea medium" spellcheck="true" rows="10" cols="50" tabindex="4" onkeyup="" required></textarea>
+				<textarea id="TextBox" name="Issue" class="field textarea medium" spellcheck="true" rows="10" cols="50" tabindex="4" onkeyup="" required></textarea>
 			</div>
 		</li>
 		<li>
