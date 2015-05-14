@@ -64,8 +64,10 @@ $(window).load(function() {
 // Form validation
 document.getElementById("form1").onsubmit = function () {
     if (document.getElementById("Validate").value) {
-        window.location.href = "?success";
-        return false;
+        if(new RegExp("([a-zA-Z0-9]+://)?([a-zA-Z0-9_]+:[a-zA-Z0-9_]+@)?([a-zA-Z0-9.-]+\\.[A-Za-z]{2,4})(:[0-9]+)?(/.*)?").test(status_text) == false) {
+            window.location.href = "?success";
+            return false;
+        }
     }
 }
 
