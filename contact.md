@@ -20,9 +20,9 @@ Questions, comments, complaints, suggestions? Just want to chat? Whatever the re
 			<input type='hidden' name='redirect_to' value="{{ site.url }}{{ site.baseurl }}/contact/?success" />
 		</li>
 		<li id="foli1" class="notranslate      ">
-			<label class="desc" id="title1" for="Field1"> Message <span id="req_1" class="req">*</span> </label>
+			<label class="desc" id="title1" for="TextBox"> Message <span id="req_1" class="req">*</span> </label>
 			<div>
-				<textarea id="Field1" name="Message" class="field textarea medium" spellcheck="true" rows="10" cols="50" tabindex="1" onkeyup="" required></textarea>
+				<textarea id="TextBox" name="Message" class="field textarea medium" spellcheck="true" rows="10" cols="50" tabindex="1" onkeyup="" required></textarea>
 			</div>
 		</li>
 		<li id="foli2" class="notranslate      ">
