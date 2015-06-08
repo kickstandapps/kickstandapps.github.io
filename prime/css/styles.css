@@ -351,7 +351,7 @@ a.facebook_social_icon {
 	.header_iphone {
 		max-width: 95%;
 		background-size: 100%;
-		float: left;
+		float: right;
 		background-position: bottom center;
 	}
 }
