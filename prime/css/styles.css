@@ -3,11 +3,11 @@ html,body,div,span,object,iframe,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,ci
 
 /* General styles*/
 ::selection{
-	background:#475FC9;
+	background:#57B6E4;
 	color:#FFF;
 }
 ::-moz-selection{
-	background-color:#475FC9;
+	background-color:#57B6E4;
 	color:#FFF;
 }
 ::-moz-focus-inner{
@@ -18,7 +18,7 @@ html,body,div,span,object,iframe,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,ci
 a,a:visited{
 	color:#2e2e2e;
 	outline:none;
-	text-decoration:none;
+	text-decoration:underline;
 }
 a:hover{
 	color:#666;
@@ -75,19 +75,34 @@ body{
 	padding-top: 20px;
 }
 .inner_header_wrapper h2 {
-	color: #DFF0FF;
+	color: #FFF;
 	font-size: 28px;
 	font-weight: 500;
 	padding-top: 15px;
 	padding-bottom: 20px;
 }
 .inner_header_wrapper p {
-	color: #DFF0FF;
+	color: #FFF;
 	font-size: 20px;
 	font-weight: 300;
 	padding-top: 15px;
 	padding-bottom: 20px;
 }
+.inner_header_wrapper a {
+	color: #FFF;
+	font-size: 20px;
+	font-weight: 300;
+	padding-top: 15px;
+	padding-bottom: 20px;
+}
+.inner_header_wrapper a:visited a:hover {
+	color: #FFF;
+	font-size: 20px;
+	font-weight: 300;
+	padding-top: 15px;
+	padding-bottom: 20px;
+}
+
 a.appstore_button {
 	background-color: #57B6E4;
 	color: #FFF;
