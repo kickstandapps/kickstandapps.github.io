@@ -283,6 +283,9 @@ a.appstore_button:hover {
 	font-weight: 300;
 	padding: 15px 30px 20px 30px;
 }
+.final_cta_section a {
+	color: #5F5F5F;
+}
 
 
 /* Footer */
@@ -473,6 +476,9 @@ a.facebook_social_icon {
 		font-size: 16px;
 		padding-left: 20px;
 		padding-right: 20px;
+	}
+	.inner_header_wrapper a {
+		font-size: 16px;
 	}
 	.lower_section_one .lower_section_right_column h3 {
 		font-size: 26px;
