@@ -1,7 +1,6 @@
 @charset "UTF-8";
 @import url(font-awesome.min.css);
-@import url(http://fonts.googleapis.com/css?family=Vollkorn:700,400);
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:700,400);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:700,300);
 
 /*
 	Transit by TEMPLATED
@@ -30,9 +29,9 @@
 
 	body, input, select, textarea {
 		color: #444;
-		font-family: "Vollkorn", Georga, serif;
+		font-family: "Ubuntu", Helvetica, sans-serif;
 		font-size: 13pt;
-		font-weight: 400;
+		font-weight: 300;
 		line-height: 1.65em;
 	}
 
@@ -56,12 +55,13 @@
 
 	p {
 		margin: 0 0 2em 0;
+		font-size: 1em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #474747;
 		font-family: "Ubuntu";
-		font-weight: 400;
+		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 1em 0;
 	}
@@ -326,7 +326,7 @@
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
-			font-weight: 400;
+			font-weight: 300;
 			padding-left: 2.4em;
 			padding-right: 0.75em;
 			position: relative;
@@ -808,7 +808,7 @@
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-weight: 400;
+		font-weight: 300;
 		height: 2.85em;
 		line-height: 2.95em;
 		padding: 0 2em;
