@@ -15,14 +15,22 @@
 		<script src="js/jquery.min.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-layers.min.js"></script>
+		<style type="text/css">
+    			.hidden {display:none;}
+  		</style>
+  		<script type="text/javascript">
+    			$('html').addClass('hidden');
+    			$(document).ready(function() {
+      				$('html').removeClass('hidden'); 
+     			});  
+   		</script>
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-xlarge.css" />
 		</noscript>
 	</head>
-	<body class="landing">
-
+	<body class="landing">		
 		<!-- Banner -->
 			<section id="banner">
 				<img src="images/kickstand_logo.svg">
@@ -47,7 +55,7 @@
 							<section class="box">
 								<a href="https://itunes.apple.com/us/app/now-weather/id623127009?ls=1&mt=8"><img src="images/now_icon.png"></a>
 								<h3>NOW Weather</h3>
-								<p>An attractive app showing all the weather information you care about. And it does it beautifully and visually so you instantly know what’s going on.</p>
+								<p>An attractive app showing all the weather information you care about. And it does it beautifully and visually so you instantly know what's going on.</p>
 								<a href="https://itunes.apple.com/us/app/now-weather/id623127009?ls=1&mt=8" class="button big">Available Now</a>
 
 							</section>
