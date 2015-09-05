@@ -450,18 +450,6 @@ a.facebook_social_icon {
 	.header_iphone {
 		max-height:300px;
 	}
-	.iphone_section_one {
-		width: 254px;
-		background-size: 100%;
-		background-position: center top;
-		height: 440px;
-	}
-	.iphone_section_two {
-		width: 254px;
-		background-size: 100%;
-		background-position: center top;
-		height: 440px;
-	}
 	.inner_header_wrapper h1 {
 		font-size: 26px;
 		padding-left: 20px;
