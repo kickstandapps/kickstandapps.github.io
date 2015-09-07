@@ -199,19 +199,24 @@ a.appstore_button:hover {
 	padding-top: 110px;
 }
 .lower_section_one .lower_section_left_column {
-	width: 307px;
+	width: 425px;
 	height: 700px;
 	float: left;
 }
 .iphone_section_one {
 	width: 307px;
+	margin-left: auto;
+	margin-right: auto;
 	height: 700px;
 }
+.iphone_section_one img {
+	max-width: 100%
+}
 .lower_section_one .lower_section_right_column {
-	width: 307px;
+	width: 425px;
 	float: left;
 	padding-top: 235px;
-	padding-left: 10px;
+	padding-left: 30px;
 }
 .lower_section_one .lower_section_right_column h3 {
 	font-size: 36px;
@@ -234,16 +239,21 @@ a.appstore_button:hover {
 	background-color:#5F9CD5;
 }
 .lower_section_two .lower_section_right_column {
-	width: 307px;
+	width: 425px;
 	height: 700px;
 	float: left;
 }
 .iphone_section_two {
 	width: 307px;
+	margin-left: auto;
+	margin-right: auto;
 	height: 700px;
 }
+.iphone_section_two img {
+	max-width: 100%
+}
 .lower_section_two .lower_section_left_column {
-	width: 307px;
+	width: 425px;
 	float: left;
 	padding-right: 30px;
 	padding-top: 235px;
