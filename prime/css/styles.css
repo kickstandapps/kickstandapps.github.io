@@ -106,9 +106,7 @@ body{
 a.appstore_button {
 	background-color: #57B6E4;
 	color: #FFF;
-	margin-left: 10px;
-	margin-right: 10px;
-	margin-bottom: 20px;
+	margin: 20px 10px;
 	padding-left: 27px;
 	padding-right: 75px;
 	padding-top: 24px;
@@ -120,6 +118,7 @@ a.appstore_button {
 	background-position: 237px 17px;
 	font-weight: 300;
 	font-size:16px;
+	text-decoration:none;
 	transition: all 0.3s ease-in;  
 }
 a.appstore_button.google_play {
@@ -292,9 +291,6 @@ a.appstore_button:hover {
 	font-size: 20px;
 	font-weight: 300;
 	padding: 15px 30px 20px 30px;
-}
-.final_cta_section a {
-	color: #5F5F5F;
 }
 
 
