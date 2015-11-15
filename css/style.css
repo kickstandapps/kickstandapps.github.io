@@ -1070,6 +1070,11 @@
 			margin: 0 0 0.5em 0;
 			padding: 0;
 		}
+		
+		#banner h3 {
+			margin: 4em 4em 0 4em;
+			color: #cccccc;
+		}
 
 		#banner p {
 			font-size: 1.5em;
