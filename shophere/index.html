@@ -1,96 +1,221 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head>
+  <head>
 
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="shopHere is a location-focused shopping list app for your iPhone.">
-        <title>shopHere - The Smart Shopping List</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-        <!-- CSS -->
-        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic">
-        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-        <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
-        <link rel="stylesheet" href="assets/css/buttons.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/media-queries.css">
+    <title>ShopHere - The Smart Shopping List</title>
 
-        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
-        
-        <script>
-  			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
- 				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
- 			 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  			ga('create', 'UA-67260377-1', 'auto');
-  			ga('send', 'pageview');
-		</script>
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    </head>
+    <!-- Custom fonts for this template -->
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,700" rel="stylesheet">
 
-    <body>
-		
-        <!-- Top content -->
-        <div class="top-content">
-            <a id="company_icon" href="http://kickstandapps.com">
-       		<img class="company_icon" src="assets/img/kickstand_logo.svg" alt="Kickstand Apps">
-            </a>
-            <div class="app_wordmark">
-            	<img src="assets/img/shopHere_logo.svg">
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="device-mockups/device-mockups.min.css">
+
+    <!-- Custom styles for this template -->
+    <link href="css/new-age.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <header class="masthead">
+      <div class="container h-100">
+        <div class="row h-100">
+          <div class="col-lg-7 my-auto">
+            <div class="header-content mx-auto">
+              <img src="img/shopHere_180.png" class="app-icon img-fluid mb-4" alt="shopHere">
+              <img src="img/shopHere-name.png" class="app-name col-lg-8 img-fluid mb-3" alt="shopHere">
+              <h2 class="mt-1 mb-5">The last shopping&nbsp;list you'll&nbsp;ever&nbsp;need!</h2>
+              <a href="https://itunes.apple.com/us/app/shophere/id1050378944?ls=1&mt=8" class="btn btn-outline btn-xl">Download on the App Store</a>
             </div>
-            <div class="inner-bg">
-                <div class="container">
-                    <div class="row">
-                    	<div class="col-sm-5 phone">
-                    		<video id="app-preview" width="265" height="471" poster="assets/img/shopHereScreen.png" muted autoplay loop preload controls>
-					<source src="assets/img/shopHere.mp4" />
-					<source src="assets/img/shopHere.webm" />
-				</video>
-                        </div>
-                        <div class="col-sm-7 text">
-                            <h1>The last shopping list<br>you'll ever need!</h1>
-                            <div class="description">
-                            	Your shopping list should present itself when you need it the most. For each list, save the desired store, and your list will notify you when you arrive.
-                            </div>
-                            <div class="top-button">
-                            	<a href="https://itunes.apple.com/us/app/shophere/id1050378944?ls=1&mt=8">
-                            		<img class="app_store" src="assets/img/app-store.svg" alt="Download on the App Store">
-                            	</a>
-                            </div>
-                        </div>
-                    </div>
+          </div>
+          <div class="col-lg-5 my-auto">
+            <div class="device-container">
+              <div class="device-mockup iphone6 portrait black">
+                <div class="device">
+                  <div class="screen">
+                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                    <img src="img/shopHere-screen-1.png" class="img-fluid" alt="">
+                  </div>
+                  <div class="button">
+                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                  </div>
                 </div>
+              </div>
             </div>
+          </div>
         </div>
-        
-        <!-- Footer -->
-        <footer>
-	        <div class="container">
-	            <div class="row">
-	                <div class="col-sm-12">
-	                    <div class="footer-copyright">
-	                    	<a href="http://www.kickstandapps.com">Kickstand Apps © 2015</a>
-	                    </div>
-	                </div>
-	            </div>
-	        </div>
-        </footer>
-        
+      </div>
+    </header>
 
-        <!-- Javascript -->
-        <script src="assets/js/jquery-1.10.2.min.js"></script>
-        <script src="assets/js/jquery.backstretch.min.js"></script>
-        <script src="assets/js/retina-1.1.0.min.js"></script>
-        <script src="assets/js/scripts.js"></script>
+    <section class="features" id="features">
+      <div class="container">
+        <div class="section-heading text-center">
+          <h2>Upgrade your grocery&nbsp;list</h2>
+          <p class="text-muted">Clean and simple with helpful&nbsp;features</p>
+          <hr>
+        </div>
+        <div class="row">
+          <div class="col-lg-5 my-auto">
+            <div class="device-container two-device left">
+              <div class="device-mockup iphone6 portrait black">
+                <div class="device">
+                  <div class="screen">
+                    <img src="img/shopHere-screen-2.png" class="img-fluid" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="device-container two-device right">
+              <div class="device-mockup iphone6 portrait white">
+                <div class="device">
+                  <div class="screen">
+                    <img src="img/shopHere-screen-1.png" class="img-fluid" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-7 my-auto">
+            <div class="container-fluid">
+              <div class="row">
+                <div class="col-lg-6">
+                  <div class="feature-item">
+                    <i data-feather="check-square"></i>
+                    <h3>Easy to Use</h3>
+                    <p class="text-muted">Simple taps and gestures to add, <br>arrange, and check off your items.</p>
+                  </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="feature-item">
+                    <i data-feather="map-pin"></i>
+                    <h3>Smart Reminders</h3>
+                    <p class="text-muted">Save your favorite store, and get a reminder when you get there.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-lg-6">
+                  <div class="feature-item">
+                    <i data-feather="list"></i>
+                    <h3>Multiple Lists</h3>
+                    <p class="text-muted">Keep your groceries separate from that next run to the hardware store.</p>
+                  </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="feature-item">
+                    <i data-feather="mic"></i>
+                    <h3>Use Your Voice</h3>
+                    <p class="text-muted">Add new items to your list, <br>no typing necessary.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
-    </body>
+    <section class="features" id="premium">
+      <div class="container">
+        <div class="section-heading text-center">
+          <h2>Get even more with Premium</h2>
+          <p class="text-muted">Upgrade to more features for just $1.99 per year</p>
+          <hr>
+        </div>
+        <div class="row">
+          <div class="col-lg-7 my-auto">
+            <div class="container-fluid mb-5">
+              <div class="row">
+                <div class="col-lg-6">
+                  <div class="feature-item">
+                    <i data-feather="upload-cloud"></i>
+                    <h3>Cloud Syncing</h3>
+                    <p class="text-muted">Manage your lists on all of <br>your iOS devices.</p>
+                  </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="feature-item">
+                    <i data-feather="user-plus"></i>
+                    <h3>Shared Lists</h3>
+                    <p class="text-muted">Coordinate with family or friends, <br>and never forget a thing.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-lg-6">
+                  <div class="feature-item">
+                    <i data-feather="map"></i>
+                    <h3>Multiple Locations</h3>
+                    <p class="text-muted">Save all your stores so you're ready no matter where you're coming from.</p>
+                  </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="feature-item">
+                    <i data-feather="star"></i>
+                    <h3>More to Come</h3>
+                    <p class="text-muted">New features make their way <br>to Premium users first.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-5 my-auto">
+            <div class="device-container two-device left">
+              <div class="device-mockup iphone6 portrait white">
+                <div class="device">
+                  <div class="screen">
+                    <img src="img/shopHere-screen-3.png" class="img-fluid" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="device-container two-device right">
+              <div class="device-mockup iphone6 portrait black">
+                <div class="device">
+                  <div class="screen">
+                    <img src="img/shopHere-screen-4.png" class="img-fluid" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta" id="cta">
+      <div class="container col-lg-6 my-auto">
+        <img src="img/shopHere_180.png" class="app-icon img-fluid mb-4" alt="shopHere">
+        <img src="img/shopHere-name.png" class="app-name col-lg-8 img-fluid mb-3" alt="shopHere">
+        <a href="https://itunes.apple.com/us/app/shophere/id1050378944?ls=1&mt=8" class="btn btn-outline btn-xl mt-4">Download on the App Store</a>
+      </div>
+    </section>
+
+    <footer>
+      <div class="container col-lg-4 mt-5">
+        <a href="http://kickstandapps.com"><img src="img/Kickstand-logo.png" class="company-logo" alt="Kickstand Apps"></a>
+        <p>&copy; Kickstand Apps LLC 2018. All Rights Reserved.</p>
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+      feather.replace()
+    </script>
+
+  </body>
 
 </html>
-
